@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method,\ can\ be\ amended\ or\ moved\ elsewhere\ if\ necessary\ (last\ edited\ by\ SG)\r\n
+comment1.params=
+comment1.target=void\ loadMenu()
+comment1.text=\r\n\ Basic\ text\ menu,\ can\ be\ used\ as\ the\ foundation\ for\ the\ GUI.\ Will\ need\ user\ to\ confirm\ they\ wish\ to\ return\ to\ the\ main\ menu\ before\r\n\ loading\ the\ menu,\ otherwise\ [System.out.print('\\f');]\ will\ erase\ all\ text\ on\ screen\ (this\ can\ obviously\ be\ changed)\ (last\ edited\ by\ SG)\r\n
+comment2.params=
+comment2.target=void\ menuExit()
+comment2.text=\r\n\ Used\ to\ automatically\ end\ the\ program.\r\n
+numComments=3
