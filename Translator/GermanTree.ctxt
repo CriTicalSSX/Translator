@@ -1,8 +1,17 @@
 #BlueJ class context
 comment0.params=
-comment0.target=GermanTree()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GermanTree\r\n
-comment1.params=y
-comment1.target=int\ sampleMethod(int)
-comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
-numComments=2
+comment0.target=TreeNode\ getRoot()
+comment0.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ return\ the\ root\ of\ the\ English\ tree\ (called\ from\ other\ classes)\r\n
+comment1.params=newRoot
+comment1.target=void\ setRoot(TreeNode)
+comment1.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ set\ the\ root\ of\ the\ English\ tree\ to\ a\ new\ node\r\n
+comment2.params=subRoot\ searchID
+comment2.target=void\ removeFromTree(TreeNode,\ int)
+comment2.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ remove\ a\ node\ from\ the\ tree.\r\n\ \r\n\ @param\ subRoot\ -\ the\ root\ of\ the\ subtree\ currently\ being\ evaluated.\ Starts\ as\ the\ root\ of\ the\ tree,\ and\ changes\ as\ the\ program\ traverses\ left\ and\ right\r\n\ @param\ searchID\ -\ the\ ID\ of\ the\ node\ the\ user\ wants\ to\ delete\r\n
+comment3.params=subRoot
+comment3.target=TreeNode\ getHighestLeft(TreeNode)
+comment3.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ return\ the\ node\ with\ the\ largest\ ID\ on\ the\ left\ hand\ side\ of\ the\ tree,\ used\ to\ set\ a\ new\ root\ when\ the\ old\ root\ is\ being\ deleted\r\n\ \r\n\ @param\ subRoot\ -\ the\ root\ of\ the\ subtree\ currently\ being\ evaluated\r\n\ @return\ getHighestLeft\ -\ the\ node\ with\ the\ highest\ value\ of\ ID\r\n
+comment4.params=subRoot
+comment4.target=TreeNode\ getSmallestRight(TreeNode)
+comment4.text=\r\n\ Used\ to\ return\ the\ node\ with\ the\ smallest\ ID\ on\ the\ right\ hand\ side\ of\ the\ tree,\ used\ to\ set\ a\ new\ root\ when\ the\ old\ root\ is\ being\ deleted\r\n\ \r\n\ @param\ subRoot\ -\ the\ root\ of\ the\ subtree\ currently\ being\ evaluated\r\n\ @return\ getSmallestRight\ -\ the\ node\ with\ the\ lowest\ value\ of\ ID\r\n
+numComments=5

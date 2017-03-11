@@ -7,6 +7,9 @@
  */
 public class Menu
 {
+    EnglishTree engTree = new EnglishTree();
+    GermanTree gerTree = new GermanTree();
+    
     /**
      * Main method, can be amended or moved elsewhere if necessary (last edited by SG)
      */
@@ -77,9 +80,43 @@ public class Menu
                 case 3:
                 
                 
-                case 4:
-                
-                
+                case 4: System.out.print('\f');
+                        System.out.println("Please choose the language of the word to remove.");
+                        System.out.println("1. English");
+                        System.out.println("2. German");
+                        
+                        languageChoice = Genio.getInteger();
+                        
+                        while (languageChoice < 1 || languageChoice > 2)
+                        {
+                            System.out.println("Error. Choose either 1 for English or 2 for German.");
+                            languageChoice = Genio.getInteger();
+                        }
+                        
+                        System.out.println("");
+                        System.out.println("Enter the word to remove in lowercase.");
+                        
+                        String wordToRemove = Genio.getString();
+                        
+                        /**
+                         * The following is code to be added, but can't be compiled yet as stringToInt() has not yet been coded.
+                         
+                        int idToRemove = stringToInt(wordToRemove);
+                        
+                        if (languageChoice == 1)
+                        {
+                            engTree.removeFromTree(engTree.getRoot(), idToRemove);
+                            System.out.println("The word has been removed from the English dictionary.");
+                        }
+                        else
+                        {
+                            gerTree.removeFromTree(gerTree.getRoot(), idToRemove);
+                            System.out.println("The word has been removed from the German dictionary.");
+                        }
+                        
+                        */
+                       
+                       
                 case 5:
                 
                 

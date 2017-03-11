@@ -1,0 +1,28 @@
+REMOVE METHOD
+
+A CASE system is used in the Menu class to validate user's menu choice. Case 4 is for removing, so this is where I added some code. The user is asked which language they wish to remove a word from, and then the word to remove. The word is then passed into Craig's stringToInt method, in order to obtain its ID to search for. This is then passed into the remove method of the appropriate tree (English Tree class if it is an English word, German Tree class if it is a German word).
+
+In the remove method itself, the first part deals with what happens if the root of the tree equals the word to remove. If there are nodes to the left of the root, the one with the largest ID becomes the new root, otherwise the node with the smallest ID on the right hand side of the tree becomes the root. If the root is the only node in the tree (very unlikely, unless the user is willing to test this by manually deleting 88,999 words in the tree until the root is the only one left), then it can be deleted without checking for any of this.
+
+The next code is then to check if the nodes to the left and right of the root equal the search ID number. If they don't, the tree is traversed until they are found by calling the remove method again but with the next node in the tree, upon which code deals with how many children the found node has, and where to join them up in the tree. 
+
+Other variables:
+
+subRoot - the node whose children are being analysed (the remove method checks the ID of each node's CHILDREN instead of   the node itself, so that it is easier to join the tree together again when the node's child is removed). If the node has not been found, the remove method is called again with the subRoot changed to either its left node or its right node.
+
+subRoot.getLeft() OR subRoot.getRight() - methods to obtain the nodes joined to the left and right hand side of the current subRoot.
+
+tempNode - temporary TreeNode, used during the removal of a node which has two children
+
+removeFromTree(subRoot.getLeft/Right(), searchID) - the remove method being recalled because the search term hasn't been found yet
+
+getHighestLeft(subRoot.getLeft()) - separate method used when the root of the tree is being changed
+
+getSmallestRight(subRoot.getRight()) - separate method used when the root of the tree is being changed
+
+languageChoice - integer variable to contain either value 1 or 2, that is, to determine the language of the word the user wants to remove (currently used throughout the menu, can be amended)
+
+wordToRemove - String to store the word the user wants to remove (can be either language, doesn't matter)
+
+idToRemove - the integer value obtained from the stringToInt method, which converts the wordToRemove into an integer value
+
