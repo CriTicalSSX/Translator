@@ -2,12 +2,12 @@
  * Controls the nodes of words sorted by their English ID number.
  * 
  * @author Sam Glendenning
- * @author (add your name here if you worked on this class)
+ * @author Will Lockett
  */
 public class EnglishTree
 {
     private TreeNode root;
-    
+
     /**
      * Built by SG
      * 
@@ -17,7 +17,7 @@ public class EnglishTree
     {
         return root;
     }
-    
+
     /**
      * Built by SG
      * 
@@ -27,7 +27,7 @@ public class EnglishTree
     {
         root = newRoot;
     }
-    
+
     /**
      * Built by SG
      * 
@@ -45,12 +45,12 @@ public class EnglishTree
                 TreeNode biggestLeftNode = new TreeNode();      
                 TreeNode leftOfRoot = new TreeNode();
                 TreeNode rightOfRoot = new TreeNode();
-                
+
                 biggestLeftNode = getHighestLeft(subRoot.getLeft());    //method retrieves the node with the largest ID number on the left hand side of the tree
-                
+
                 leftOfRoot = root.getLeft();    //stores the left node of the root, otherwise its reference would be lost when the root is deleted
                 rightOfRoot = root.getRight();  //stores the right node of the root
-                
+
                 setRoot(biggestLeftNode);        //sets the largest left node as the new root
                 root.setLeft(leftOfRoot);        //installs its left node as the previous left node of the root
                 root.setRight(rightOfRoot);      //installs its right node as the previous right node of the root
@@ -60,14 +60,14 @@ public class EnglishTree
                 TreeNode smallestRightNode = new TreeNode();
                 TreeNode leftOfRoot = new TreeNode();
                 TreeNode rightOfRoot = new TreeNode();
-                
+
                 smallestRightNode = getSmallestRight(subRoot.getRight());   //method retrieves the node with the smallest ID number on the right hand side of the tree
-                
+
                 leftOfRoot = root.getLeft();
                 rightOfRoot = root.getRight();
-                
+
                 setRoot(smallestRightNode);     //sets the smallest right node as the new root
-                
+
                 if (leftOfRoot == null)
                 {
                     root.setLeft(null);
@@ -76,7 +76,7 @@ public class EnglishTree
                 {
                     root.setLeft(leftOfRoot);
                 }
-                
+
                 if (rightOfRoot == null)
                 {
                     root.setRight(null);
@@ -116,12 +116,12 @@ public class EnglishTree
                     {
                         TreeNode leftNode = new TreeNode();
                         leftNode = subRoot.getLeft().getLeft();      //node to store the left node's own left so that its reference isn't lost upon right node deletion
-                            
+
                         subRoot.setLeft(subRoot.getLeft().getRight());     //sets the subroot's left to the left node's right, as this will link up the tree correctly
-                            
+
                         TreeNode tempNode = new TreeNode();
                         tempNode = subRoot.getLeft();          //temporary node to store the new left of the subroot
-                        
+
                         if (tempNode == null)
                         {
                             subRoot.getLeft().setLeft(leftNode);
@@ -129,7 +129,7 @@ public class EnglishTree
                         else
                         {
                             //Short method to find the furthest left node of the new left of the subroot so that the deleted node's left can be joined at the end
-                            
+
                             while (tempNode != null)
                             {
                                 if (tempNode.getLeft() != null)   //while there are nodes to the left of the current one 
@@ -144,7 +144,7 @@ public class EnglishTree
                             }
                         }
                     }
-                    
+
                     //subroot's left has now lost its reference, so is deleted by the garbage collector
                 }
                 else
@@ -152,7 +152,7 @@ public class EnglishTree
                     removeFromTree(subRoot.getLeft(), searchID);    //node still to be found and not present in this subtree's left hand side, recall the method moving down the left side of the tree       
                 }
             }
-            
+
             if (subRoot.getRight() != null)
             {
                 if (subRoot.getRight().getID() == searchID)     //if the right node's ID equals the search ID
@@ -165,12 +165,12 @@ public class EnglishTree
                     {
                         TreeNode rightNode = new TreeNode();
                         rightNode = subRoot.getRight().getRight();      //node to store the right node's own right so that its reference isn't lost upon right node deletion
-                            
+
                         subRoot.setRight(subRoot.getRight().getLeft());     //sets the right node's left to the subroot's right, as this will link up the tree correctly
-                            
+
                         TreeNode tempNode = new TreeNode();
                         tempNode = subRoot.getRight();          //temporary node to store the new right of the subroot
-                        
+
                         if (tempNode == null)
                         {
                             subRoot.getRight().setRight(rightNode);
@@ -178,7 +178,7 @@ public class EnglishTree
                         else
                         {
                             //Short method to find the furthest right node of the new right of the subroot so that the deleted node's right can be joined at the end
-                            
+
                             while (tempNode != null)
                             {
                                 if (tempNode.getRight() != null)   //while there are nodes to the right of the current one 
@@ -212,7 +212,7 @@ public class EnglishTree
             }
         }
     }
-    
+
     /**
      * Built by SG
      * 
@@ -238,10 +238,10 @@ public class EnglishTree
                 highestLeftNode = getHighestLeft(subRoot.getRight());       //recall the method with the right node as the new subroot
             }
         }   
-        
+
         return highestLeftNode;
     }
-    
+
     /**
      * Used to return the node with the smallest ID on the right hand side of the tree, used to set a new root when the old root is being deleted
      * 
@@ -252,7 +252,7 @@ public class EnglishTree
     {
         TreeNode smallestRightNode = new TreeNode();
         smallestRightNode = subRoot;    //subRoot is originally the first node right of the root as this is the value passed in. Changes as the program traverses left
-       
+
         if (subRoot.getLeft() != null) //if there is a node to the left of the subroot i.e. a larger ID value
         {
             if (subRoot.getLeft().getLeft() == null)    //if there is nothing to the left of THAT node
@@ -265,20 +265,67 @@ public class EnglishTree
                 smallestRightNode = getSmallestRight(subRoot.getLeft());    //recall the method with the left node as the new subroot
             }
         }
-            
+
         return smallestRightNode;  
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+    /**
+     * Adds a new node to the tree
+     * 
+     * @param id The unique id of the english word
+     * @param engWord The english word 
+     * @param gerWord The germal translation of the english word
+     */
+    public void addToTree(int id, String engWord, String gerWord)
+    {
+        //creates a new node
+        TreeNode newNode = new TreeNode(id, engWord, gerWord);
+
+        //holds the current and previous locations in the tree
+        TreeNode current = root;
+        TreeNode previous = null;
+
+        //if the tree is empty then add the new node as the root of the tree
+        if (current == null)
+        {
+            root = newNode;
+        }
+        else
+        {
+            //goes until it finds a null adress in which to add the new node
+            while (current != null)
+            {
+                //saves the memory adress of the current node for later
+                previous = current;
+
+                //decides whether to go left or right down the tree
+                if (newNode.getID() == current.getID())
+                {
+                    System.out.println("this word is already in the dictonary!");
+                    break;
+                }
+                else if (newNode.getID() < current.getID())
+                {
+                    //goes down the left branch
+                    current = current.getLeft();
+                }
+                else
+                {
+                    //goes down the right branch
+                    current = current.getRight();
+                }
+            }
+
+            //assigns the new node either the left or right references of the previous node
+            if (newNode.getID() < previous.getID())
+            {
+                previous.setLeft(newNode);
+            }
+            else if (newNode.getID() > previous.getID())
+            {
+                previous.setRight(newNode);
+            }
+        }
+    }
 }
+
