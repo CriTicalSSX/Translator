@@ -1,3 +1,6 @@
+import java.awt.Desktop;
+import java.io.File;
+import java.io.IOException;
 
 /**
  * Displays the Menu options to the user
@@ -7,8 +10,8 @@
  */
 public class Menu
 {
-    EnglishTree engTree = new EnglishTree();
-    GermanTree gerTree = new GermanTree();
+    LanguageTree engTree = new LanguageTree();
+    LanguageTree gerTree = new LanguageTree();
     
     /**
      * Main method, can be amended or moved elsewhere if necessary (last edited by SG)
@@ -33,12 +36,12 @@ public class Menu
             System.out.println("Welcome to the English-German translator!");
             System.out.println("Please choose an option.");
             System.out.println("");
-            System.out.println("1. Enter text for translation");
-            System.out.println("2. Read text file to translate");
-            System.out.println("3. Add a word to the dictionary");
-            System.out.println("4. Remove a word from the dictionary");
-            System.out.println("5. Display English dictionary");
-            System.out.println("6. Display German dictionary");
+            System.out.println("1. Enter text for translation");            //findNode
+            System.out.println("2. Read text file to translate");           //Read custom user text file (not dictionaries)
+            System.out.println("3. Add a word to the dictionary");          //stringToInt and then addToTree
+            System.out.println("4. Remove a word from the dictionary");     //removeTree
+            System.out.println("5. Display English dictionary");            //Desktop function, dead easy 
+            System.out.println("6. Display German dictionary");             //Desktop function, dead easy 
             System.out.println("7. Exit program");
             
             menuChoice = Genio.getInteger();
@@ -77,7 +80,18 @@ public class Menu
                 case 2:
                 
                 
-                case 3:
+                case 3: System.out.print('\f');
+                        System.out.println("Enter the English word to add.");
+                        String engWord = Genio.getString();
+                        
+                        System.out.println("Enter the German word to add.");
+                        String gerWord = Genio.getString();
+                        
+                        //int engID = stringToInt(engWord);
+                        //int gerID = stringToInt(gerWord);
+                       
+                       //engTree.addToTree(engID, engWord, gerWord);
+                       //gerWord.addToTree(gerID, engWord, gerWord);
                 
                 
                 case 4: System.out.print('\f');
@@ -117,10 +131,32 @@ public class Menu
                         */
                        
                        
-                case 5:
+                case 5: System.out.print('\f');
+                        System.out.println("Opening English dictionary...");
+                        
+                        try
+                        {
+                            File engFile = new File("en.txt");
+                            Desktop.getDesktop().open(engFile);
+                        }
+                        catch(IOException e)
+                        {
+                            System.out.println("The English dictionary text file is missing...");
+                        }
                 
                 
-                case 6: 
+                case 6: System.out.print('\f');
+                        System.out.println("Opening German dictionary...");
+                        
+                        try
+                        {
+                            File gerFile = new File("de.txt");
+                            Desktop.getDesktop().open(gerFile);
+                        }
+                        catch(IOException e)
+                        {
+                            System.out.println("The German dictionary text file is missing...");
+                        }
                 
                 
             }
