@@ -6,7 +6,7 @@
  */
 public class TreeNode
 {
-    private int id;
+    private float id;
     private String engWord, gerWord;
     private TreeNode left, right;
 
@@ -25,7 +25,7 @@ public class TreeNode
     /**
      * alternate constructor for tree node objects that fills in fields according to users input
      */
-    public TreeNode(int id, String engWord, String gerWord)
+    public TreeNode(float id, String engWord, String gerWord)
     {
         this.id = id;
         this.engWord = engWord;
@@ -39,7 +39,7 @@ public class TreeNode
      * 
      * @return id - the ID as an integer
      */
-    public int getID()
+    public float getID()
     {
         return id;
     }
@@ -49,7 +49,7 @@ public class TreeNode
      * 
      * @param id The unique ID of the word
      */
-    public void setID(int id)
+    public void setID(float id)
     {
         this.id = id;
     }

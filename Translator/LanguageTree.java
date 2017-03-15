@@ -37,7 +37,7 @@ public class LanguageTree
      * @param subRoot - the root of the subtree currently being evaluated. Starts as the root of the tree, and changes as the program traverses left and right
      * @param searchID - the ID of the node the user wants to delete
      */
-    public void removeFromTree(TreeNode subRoot, int searchID)
+    public void removeFromTree(TreeNode subRoot, float searchID)
     {
         if (subRoot.getID() == searchID)    //if the root of the tree matches the search ID, extra steps have to be taken to replace the root
         {
@@ -271,13 +271,15 @@ public class LanguageTree
     }
 
     /**
+     * Built by WL
+     * 
      * Adds a new node to the tree
      * 
      * @param id The unique id of the english word
      * @param engWord The english word 
      * @param gerWord The germal translation of the english word
      */
-    public void addToTree(int id, String engWord, String gerWord)
+    public void addToTree(float id, String engWord, String gerWord)
     {
         //creates a new node
         TreeNode newNode = new TreeNode(id, engWord, gerWord);
@@ -328,5 +330,45 @@ public class LanguageTree
             }
         }
     }
+    
+    /**
+     * method for finding a translation
+     *
+     * @return
+     */
+    public TreeNode findInTree(float find) {
+
+        TreeNode current = null;
+        current = root;
+        boolean found = false;
+
+        while (current != null && found == false) {
+            if (find == current.getID()) {
+                System.out.println(current.getEngWord() + " translates to : " + current.getGerWord());
+
+                found = true;
+
+            } else {
+                if (find < current.getID()) {
+                    current = current.getLeft();
+                } else {
+                    current = current.getRight();
+                }
+            }
+        }
+
+        if (found = true) {
+            System.out.println("The translation for " + current.getEngWord() + " does not exist in the dictionary.");
+
+            return current;
+        } else {
+            return null;
+        }
+    }
+        
+    
+
+
+
 }
 

@@ -82,16 +82,17 @@ public class Menu
                 
                 case 3: System.out.print('\f');
                         System.out.println("Enter the English word to add.");
-                        String engWord = Genio.getString();
+                        String engWord = Genio.getString() + " ";
                         
                         System.out.println("Enter the German word to add.");
-                        String gerWord = Genio.getString();
+                        String gerWord = Genio.getString() + " ";
                         
-                        //int engID = stringToInt(engWord);
-                        //int gerID = stringToInt(gerWord);
+                        float engID = stringToInt(engWord);
+                        float gerID = stringToInt(gerWord);
                        
-                       //engTree.addToTree(engID, engWord, gerWord);
-                       //gerWord.addToTree(gerID, engWord, gerWord);
+                       engTree.addToTree(engID, engWord, gerWord);
+                       gerTree.addToTree(gerID, engWord, gerWord);
+                       break;
                 
                 
                 case 4: System.out.print('\f');
@@ -111,11 +112,8 @@ public class Menu
                         System.out.println("Enter the word to remove in lowercase.");
                         
                         String wordToRemove = Genio.getString();
-                        
-                        /**
-                         * The following is code to be added, but can't be compiled yet as stringToInt() has not yet been coded.
-                         
-                        int idToRemove = stringToInt(wordToRemove);
+
+                        float idToRemove = stringToInt(wordToRemove);
                         
                         if (languageChoice == 1)
                         {
@@ -127,8 +125,6 @@ public class Menu
                             gerTree.removeFromTree(gerTree.getRoot(), idToRemove);
                             System.out.println("The word has been removed from the German dictionary.");
                         }
-                        
-                        */
                        
                        
                 case 5: System.out.print('\f');
@@ -163,6 +159,93 @@ public class Menu
         }
         
         menuExit();
+    }
+    
+    /**
+    *Method designed to turn user input into usable integer value
+    *Uses charAt(i) to traverse string 
+    */
+    float stringToInt(String input)
+    {
+        String stringToChar;// Used to store user entry
+        String stringNum = "";// Used to store combined char strings
+        stringToChar = input;
+        int i = 0; // Used to traverse string
+        
+        do
+        {
+             char temp = stringToChar.charAt(i); // converts char i in string to char
+             String num = getNumber(temp); // gets number value in string form from getNumber
+             stringNum = stringNum + num; //Combines existing number string with new number 
+             i++;
+        }
+        while (stringToChar.charAt(i) != ' '); //or throws out of bounds exception
+        
+        float result = Float.parseFloat(stringNum); //converts stringNum to integer value
+        return result; //Returns result value
+    }
+     
+    /**
+    *Used to Convert char value into a number float
+    */
+    String getNumber(char temp)
+    {
+        String num = null;
+     
+        if (temp == 'A' || temp == 'a')
+                      num = "10";
+        else if (temp == 'B' || temp == 'b')
+                      num = "11";
+        else if (temp == 'C' || temp == 'c')
+                      num = "12";
+        else if (temp == 'D' || temp == 'd')
+                      num = "13";
+        else if (temp == 'E' || temp == 'e')
+                      num = "14";
+        else if (temp == 'F' || temp == 'f')
+                      num = "15";
+        else if (temp == 'G' || temp == 'g')
+                      num = "16";
+        else if (temp == 'H' || temp == 'h')
+                      num = "17";
+        else if (temp == 'I' || temp == 'i')
+                      num = "18";
+        else if (temp == 'J' || temp == 'j')
+                      num = "19";
+        else if (temp == 'K' || temp == 'k')
+                      num = "20";
+        else if (temp == 'L' || temp == 'l')
+                      num = "21";
+        else if (temp == 'M' || temp == 'm')
+                      num = "22";
+        else if (temp == 'N' || temp == 'n')
+                      num = "23";
+        else if (temp == 'O' || temp == 'o')
+                      num = "24";
+        else if (temp == 'P' || temp == 'p')
+                      num = "25";
+        else if (temp == 'Q' || temp == 'q')
+                      num = "26";
+        else if (temp == 'R' || temp == 'r')
+                      num = "27";
+        else if (temp == 'S' || temp == 's')
+                      num = "28";
+        else if (temp == 'T' || temp == 't')
+                      num = "29";
+        else if (temp == 'U' || temp == 'u')
+                      num = "30";
+        else if (temp == 'V' || temp == 'v')
+                      num = "31";
+        else if (temp == 'W' || temp == 'w')
+                      num = "32";
+        else if (temp == 'X' || temp == 'x')
+                      num = "33";
+        else if (temp == 'Y' || temp == 'y')
+                      num = "34";
+        else if (temp == 'Z' || temp == 'z')
+                      num = "35";
+                      
+        return num;
     }
   
     /**
