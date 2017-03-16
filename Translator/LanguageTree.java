@@ -1,9 +1,9 @@
-
 /**
  * Write a description of class LanguageTree here.
  * 
  * @author Sam Glendenning
  * @author Will Lockett
+ * @author Danyal Ali
  */
 public class LanguageTree
 {
@@ -244,6 +244,8 @@ public class LanguageTree
     }
 
     /**
+     * Built by SG
+     * 
      * Used to return the node with the smallest ID on the right hand side of the tree, used to set a new root when the old root is being deleted
      * 
      * @param subRoot - the root of the subtree currently being evaluated
@@ -284,91 +286,111 @@ public class LanguageTree
         //creates a new node
         TreeNode newNode = new TreeNode(id, engWord, gerWord);
 
-        //holds the current and previous locations in the tree
-        TreeNode current = root;
-        TreeNode previous = null;
-
-        //if the tree is empty then add the new node as the root of the tree
-        if (current == null)
+        if (root == null)
         {
-            root = newNode;
+            setRoot(newNode);       //if the tree is empty, set this node as the root
         }
         else
         {
-            //goes until it finds a null address in which to add the new node
+            TreeNode previous = new TreeNode();
+            previous = root;    //keeps track of the node in the layer above the one being evaluated in the following code
+            
+            TreeNode current = new TreeNode();
+            current = root;     //the node that the user's new node is being compared to
+            
             while (current != null)
             {
-                //saves the memory adress of the current node for later
                 previous = current;
-
-                //decides whether to go left or right down the tree
-                if (newNode.getID() == current.getID())
+                
+                if (newNode.getID() < previous.getID())     //if the new ID is less than the value of the one being compared to
                 {
-                    System.out.println("This word is already in the dictonary!");
-                    break;
+                    if (previous.getLeft() != null)         //if there is not a space in the tree to the left
+                    {
+                        current = previous.getLeft();       //set the current node to that node in preparation for the next iteration of the loop (next comparison)               
+                    }         
+                    else    //if there is a space to the left of the node
+                    {
+                        previous.setLeft(newNode);      //set that node's left to the new node
+                        current = null;                 //no more comparisons necessary, current = null so that the loop exits
+                    }
                 }
-                else if (newNode.getID() < current.getID())
+                else if (newNode.getID() > previous.getID())    //if the new ID is greater than the value of the one being compared to
                 {
-                    //goes down the left branch
-                    current = current.getLeft();
+                    if (previous.getRight() != null)            //if there is not a space in the tree to the right
+                    {
+                        current = previous.getRight();          //set the current node to that node in preparation for the next iteration of the loop (next comparison)   
+                    }
+                    else    //if there is a space to the right of the node
+                    {
+                        previous.setRight(newNode);     //set that node's right to the new node
+                        current = null;                 //no more comparisons necessary, current = null so that the loop exits
+                    }
+                }
+                else if (newNode.getID() == previous.getID())       //if the current node's ID equals the ID of the new node
+                {
+                    System.out.println("This word already exists in the dictionary.");       //cannot add a duplicate node to the tree
+                    current = null;                                                     //no more comparisons necessary, current = null so that the loop exits
+                }
+            }
+        }
+    }
+   
+    /**
+     * Built by DA
+     * 
+     * Method for finding a translation
+     *
+     * @param find - 
+     * @return
+      */
+    public String findNode(float find, int language)
+    {
+        if (root.getID() == find)        //if the current ID matches the user's search
+        {
+            if (language == 1)
+            {
+                return root.getGerWord();     
+            }
+            else
+            {
+                return root.getEngWord();
+            }
+        }   
+        else
+        {
+            TreeNode current = null;
+            current = root;
+            boolean found = false;
+             
+            while (current != null && found == false) {
+                if (find == current.getID()) {
+                    
+                    found = true;
+
+                } else {
+                    if (find < current.getID() && current.getLeft() != null) {
+                          current = current.getLeft();
+                    } else if (find > current.getID() && current.getRight() != null) {
+                          current = current.getRight();
+                    } else {
+                          found = true;
+                    }
+                }
+            }
+
+            if (found == true) {
+                if (language == 1)
+                {
+                    return current.getGerWord();
                 }
                 else
                 {
-                    //goes down the right branch
-                    current = current.getRight();
-                }
-            }
-
-            //assigns the new node either the left or right references of the previous node
-            if (newNode.getID() < previous.getID())
-            {
-                previous.setLeft(newNode);
-            }
-            else if (newNode.getID() > previous.getID())
-            {
-                previous.setRight(newNode);
-            }
-        }
-    }
-    
-    /**
-     * method for finding a translation
-     *
-     * @return
-     */
-    public TreeNode findInTree(float find) {
-
-        TreeNode current = null;
-        current = root;
-        boolean found = false;
-
-        while (current != null && found == false) {
-            if (find == current.getID()) {
-                System.out.println(current.getEngWord() + " translates to : " + current.getGerWord());
-
-                found = true;
-
+                    return current.getEngWord();
+                }           
             } else {
-                if (find < current.getID()) {
-                    current = current.getLeft();
-                } else {
-                    current = current.getRight();
-                }
-            }
-        }
-
-        if (found = true) {
-            System.out.println("The translation for " + current.getEngWord() + " does not exist in the dictionary.");
-
-            return current;
-        } else {
-            return null;
-        }
+                return null;
+            }  
+        }        
     }
-        
-    
-
-
-
 }
 

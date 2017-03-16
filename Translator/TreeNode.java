@@ -81,7 +81,7 @@ public class TreeNode
      */
     public String getGerWord()
     {
-        return engWord;
+        return gerWord;
     }
     
     /**
