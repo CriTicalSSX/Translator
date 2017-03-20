@@ -1,7 +1,5 @@
 import java.io.IOException;
-import java.io.File;
 import java.io.PrintWriter;
-import java.io.FileWriter;
 
 /**
  * Write a description of class LanguageTree here.
@@ -13,7 +11,9 @@ import java.io.FileWriter;
 public class LanguageTree
 {
     private TreeNode root;
-
+    
+    boolean dictionariesDone = false;
+    
     /**
      * Built by SG
      * 
@@ -333,7 +333,11 @@ public class LanguageTree
                 }
                 else if (newNode.getID() == previous.getID())       //if the current node's ID equals the ID of the new node
                 {
-                    System.out.println("This word already exists in the dictionary.");       //cannot add a duplicate node to the tree
+                    if (dictionariesDone == true)
+                    {
+                        System.out.println("This word already exists in the dictionary.");       //cannot add a duplicate node to the tree
+                    }
+                    
                     current = null;                                                     //no more comparisons necessary, current = null so that the loop exits
                 }
             }
@@ -398,39 +402,6 @@ public class LanguageTree
         }        
     }
     
-    /**
-     * built by WL
-     * 
-     * allows the user to add new words to the dictionaries
-     * 
-     * @param engWord The english word to be added to the dictionary
-     * @param gerWord The german word to be added to the dictionary
-     */
-    public void addToDictionary(String engWord, String gerWord)
-    {
-        //try-catch statement to catch any errors that may occur
-        try
-        {
-            //sets up an output stream to the english dictionary
-            File engDict = new File("en.txt");
-            PrintWriter engPR = new PrintWriter(new FileWriter(engDict, true));
-            
-            //sets up an output stream to the german dictionary
-            File gerDict = new File("de.txt");
-            PrintWriter gerPR = new PrintWriter(new FileWriter(gerDict, true));
-            
-            //adds the words to the dictionaries
-            engPR.append(engWord + "\n");
-            gerPR.append(gerWord + "\n");
-            
-            //closes the output streams
-            gerPR.close();
-            engPR.close();
-        }
-        catch (IOException e)
-        {
-            System.out.println("an error occured while writing to the dictionary!");
-        }
-    }
+    
 }
 
