@@ -60,7 +60,7 @@ public class Menu
             System.out.println("Please choose an option.");
             System.out.println("");
             System.out.println("1. Enter text for translation");            //findNode
-            System.out.println("2. Read text file to translate");           //Read custom user text file (not dictionaries)
+            System.out.println("2. Translate a text file");                 //Read custom user text file (not dictionaries)
             System.out.println("3. Add a word to the dictionary");          //stringToInt and then addToTree
             System.out.println("4. Remove a word from the dictionary");     //removeTree
             System.out.println("5. Display English dictionary");            //Desktop function, dead easy 
@@ -345,27 +345,34 @@ public class Menu
             
             while (nextLine != null)
             {
-                lineSplit = nextLine.split(" ");
-                
-                for (int i=0; i<lineSplit.length; i++)
+                if (nextLine.equals(""))
                 {
-                    float originalFloat = stringToInt(lineSplit[i] + " ");
-                                  
-                    if (languageChoice == 1)
-                    {        
-                        myPrintWriter.print(engTree.findNode(originalFloat, 1) + " ");
-                    }
-                    else
-                    {
-                        myPrintWriter.print(gerTree.findNode(originalFloat, 2) + " ");
+                    myPrintWriter.println("");
+                }
+                else
+                {
+                    lineSplit = nextLine.split(" ");
+                    
+                    for (int i=0; i<lineSplit.length; i++)
+                    {   
+                        float originalFloat = stringToInt(lineSplit[i] + " ");
+                        
+                        if (languageChoice == 1)
+                        {        
+                            myPrintWriter.print(engTree.findNode(originalFloat, 1) + " ");
+                        }
+                        else
+                        {
+                            myPrintWriter.print(gerTree.findNode(originalFloat, 2) + " ");
+                        }
+                            
+                        myPrintWriter.flush();
                     }
                     
+                    myPrintWriter.print("\n");
                     myPrintWriter.flush();
                 }
-                
-                myPrintWriter.print("\n");
-                myPrintWriter.flush();
-                
+                    
                 nextLine = filebr.readLine();        
             }
             
