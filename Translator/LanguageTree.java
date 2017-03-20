@@ -1,3 +1,8 @@
+import java.io.IOException;
+import java.io.File;
+import java.io.PrintWriter;
+import java.io.FileWriter;
+
 /**
  * Write a description of class LanguageTree here.
  * 
@@ -391,6 +396,41 @@ public class LanguageTree
                 return null;
             }  
         }        
+    }
+    
+    /**
+     * built by WL
+     * 
+     * allows the user to add new words to the dictionaries
+     * 
+     * @param engWord The english word to be added to the dictionary
+     * @param gerWord The german word to be added to the dictionary
+     */
+    public void addToDictionary(String engWord, String gerWord)
+    {
+        //try-catch statement to catch any errors that may occur
+        try
+        {
+            //sets up an output stream to the english dictionary
+            File engDict = new File("en.txt");
+            PrintWriter engPR = new PrintWriter(new FileWriter(engDict, true));
+            
+            //sets up an output stream to the german dictionary
+            File gerDict = new File("de.txt");
+            PrintWriter gerPR = new PrintWriter(new FileWriter(gerDict, true));
+            
+            //adds the words to the dictionaries
+            engPR.append(engWord + "\n");
+            gerPR.append(gerWord + "\n");
+            
+            //closes the output streams
+            gerPR.close();
+            engPR.close();
+        }
+        catch (IOException e)
+        {
+            System.out.println("an error occured while writing to the dictionary!");
+        }
     }
 }
 
