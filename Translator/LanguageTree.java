@@ -2,7 +2,9 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * Write a description of class LanguageTree here.
+ * Two instances of the LanguageTree class are created, one for the English binary tree and one for the German binary tree.
+ * Both are used to manipulate tens of thousands of their own TreeNode objects; one for each word in the dictionary text files. 
+ * This is an efficient data structure to use when searching through tens of thousands of objects because it only requires at most two dozen searches to find the word.
  * 
  * @author Sam Glendenning
  * @author Will Lockett
@@ -10,14 +12,16 @@ import java.io.PrintWriter;
  */
 public class LanguageTree
 {
-    private TreeNode root;
+    private TreeNode root;      //holds the first node in the tree, may be changed if the root is removed
     
-    boolean dictionariesDone = false;
+    boolean dictionariesDone = false;       //prevents a bug when the program is first opened. Changes to true when the dictionaries have been read in
     
     /**
      * Built by SG
      * 
-     * Used to return the root of the English tree (called from other classes)
+     * Used to return the root of the tree
+     * 
+     * @return root - the root of the current tree
      */
     public TreeNode getRoot()
     {
@@ -27,7 +31,9 @@ public class LanguageTree
     /**
      * Built by SG
      * 
-     * Used to set the root of the English tree to a new node
+     * Used to set the root of the tree to a new node. 
+     * 
+     * @param newRoot - the TreeNode object to become the new root
      */
     public void setRoot(TreeNode newRoot)
     {
@@ -37,7 +43,8 @@ public class LanguageTree
     /**
      * Built by SG
      * 
-     * Used to remove a node from the tree.
+     * Used to remove a node from the tree. Recursively called if the node is not found in the subroot or its children. Method is recalled with either the
+     * left or the right child as the new subRoot depending on which side of the tree is being traversed.
      * 
      * @param subRoot - the root of the subtree currently being evaluated. Starts as the root of the tree, and changes as the program traverses left and right
      * @param searchID - the ID of the node the user wants to delete
@@ -74,16 +81,16 @@ public class LanguageTree
 
                 setRoot(smallestRightNode);     //sets the smallest right node as the new root
 
-                if (leftOfRoot == null)
+                if (leftOfRoot == null)         //if there are no nodes to the left of the root
                 {
                     root.setLeft(null);
                 }
-                else
+                else                            
                 {
                     root.setLeft(leftOfRoot);
                 }
 
-                if (rightOfRoot == null)
+                if (rightOfRoot == null)        //if there are no nodes to the right of the root
                 {
                     root.setRight(null);
                 }
@@ -99,7 +106,7 @@ public class LanguageTree
         }
         else
         {
-            if (subRoot.getLeft() != null)
+            if (subRoot.getLeft() != null)      //if there is a node to the left of the subRoot
             {
                 if (subRoot.getLeft().getID() == searchID)  //if the left node of the subroot's ID equals the search ID
                 {
@@ -159,7 +166,7 @@ public class LanguageTree
                 }
             }
 
-            if (subRoot.getRight() != null)
+            if (subRoot.getRight() != null)         //if there is a node to the right of the subRoot
             {
                 if (subRoot.getRight().getID() == searchID)     //if the right node's ID equals the search ID
                 {
@@ -254,7 +261,7 @@ public class LanguageTree
      * Used to return the node with the smallest ID on the right hand side of the tree, used to set a new root when the old root is being deleted
      * 
      * @param subRoot - the root of the subtree currently being evaluated
-     * @return getSmallestRight - the node with the lowest value of ID
+     * @return smallestRightNode - the node with the lowest value of ID
      */
     public TreeNode getSmallestRight(TreeNode subRoot)
     {
@@ -347,22 +354,24 @@ public class LanguageTree
     /**
      * Built by DA
      * 
-     * Method for finding a translation
+     * Method for finding the translation of the word we already have. Contains a while loop that runs until the word is found or we reach the place where the word
+     * should be and it is not there.
      *
-     * @param find - 
-     * @return
+     * @param find - the ID number of the word being searched for
+     * @param language - an integer value of 1 or 2, used to determine which language of the word we wish to extract
+     * @return the translation of the word we already have
       */
     public String findNode(float find, int language)
     {
         if (root.getID() == find)        //if the current ID matches the user's search
         {
-            if (language == 1)
+            if (language == 1)          //if we have the English word
             {
-                return root.getGerWord();     
+                return root.getGerWord();     //return the German word
             }
             else
             {
-                return root.getEngWord();
+                return root.getEngWord();       //vice versa
             }
         }   
         else
@@ -371,18 +380,18 @@ public class LanguageTree
             current = root;
             boolean found = false;
              
-            while (current != null && found == false) {
-                if (find == current.getID()) {
+            while (current != null && found == false) {     //while the current node we are evaluating is not null and the correct node hasn't been found
+                if (find == current.getID()) {      //if the ID of the word we have matches the current node's ID
                     
-                    found = true;
+                    found = true;       //we have found the correct node
 
                 } else {
-                    if (find < current.getID() && current.getLeft() != null) {
-                          current = current.getLeft();
-                    } else if (find > current.getID() && current.getRight() != null) {
-                          current = current.getRight();
+                    if (find < current.getID() && current.getLeft() != null) {      //if the ID of the word is less than the current node's ID
+                          current = current.getLeft();                              //set the current node to the current node's left, run loop again
+                    } else if (find > current.getID() && current.getRight() != null) {      //if the ID of the word is greater than the current node's ID
+                          current = current.getRight();                             //set the current node to the current node's right, run loop again
                     } else {
-                          found = true;
+                          found = true;        
                     }
                 }
             }
@@ -390,18 +399,16 @@ public class LanguageTree
             if (found == true) {
                 if (language == 1)
                 {
-                    return current.getGerWord();
+                    return current.getGerWord();        //as above
                 }
                 else
                 {
                     return current.getEngWord();
                 }           
             } else {
-                return null;
+                return null;            //the word has not been found, return null value indicating this
             }  
         }        
-    }
-    
-    
+    }  
 }
 

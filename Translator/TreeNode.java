@@ -1,17 +1,16 @@
 /**
- * TreeNode class contains the specific fields for each node. The left and right fields are used to link the nodes together in the tree
+ * Class for every word object. Tens of thousands of these are manipulated by the LanguageTree class.
  * 
  * @author Sam Glendenning
- * @author 
  */
 public class TreeNode
 {
-    private float id;
-    private String engWord, gerWord;
-    private TreeNode left, right;
+    private float id;       //the ID of the word depends on whether it is present in the English tree or German tree (see stringToFloat on how this is created)
+    private String engWord, gerWord;        //contain the actual String English and German words
+    private TreeNode left, right;           //references to the TreeNode objects on the left and right hand sides of each TreeNode
 
     /**
-     * default constrctor for tree node objects
+     * Blank constructor, used when passing in values is not necessary
      */
     public TreeNode()
     {
@@ -23,7 +22,11 @@ public class TreeNode
     }
     
     /**
-     * alternate constructor for tree node objects that fills in fields according to users input
+     * Most commonly-used constructor. Left and right are left as null because we haven't placed the node in the tree yet. These are set once that happens
+     * 
+     * @param id - the ID constructed by the program, used as a reference number for each word. Is a float because an integer is not big enough for long words
+     * @param engWord - the String English version of the word
+     * @param gerWord - the String German version of the word
      */
     public TreeNode(float id, String engWord, String gerWord)
     {
@@ -37,7 +40,7 @@ public class TreeNode
     /**
      * Get the ID contained in this tree node. 
      * 
-     * @return id - the ID as an integer
+     * @return id - the ID as an float
      */
     public float getID()
     {
@@ -47,7 +50,7 @@ public class TreeNode
     /**
      * Sets the ID contained in this node
      * 
-     * @param id The unique ID of the word
+     * @param id - the unique ID number of this word
      */
     public void setID(float id)
     {
@@ -55,9 +58,9 @@ public class TreeNode
     }
     
     /**
-     * Gets the english word stored in the node
+     * Gets the English word stored in the node
      * 
-     * @return engWord The english word stored in the node
+     * @return engWord - the English word stored in the node
      */
     public String getEngWord()
     {
@@ -65,9 +68,9 @@ public class TreeNode
     }
     
     /**
-     * Sets the english word stored in the node
+     * Sets the English word stored in the node
      * 
-     * @param engWord The english word to be stored in the node
+     * @param engWord - the English word to be stored in the node
      */
     public void setEngWord(String engWord)
     {
@@ -75,9 +78,9 @@ public class TreeNode
     }
     
     /**
-     * Gets the german word stored in the node
+     * Gets the German word stored in the node
      * 
-     * @return gerWord The german word stored in the node
+     * @return gerWord - the German word stored in the node
      */
     public String getGerWord()
     {
@@ -85,9 +88,9 @@ public class TreeNode
     }
     
     /**
-     * Sets the german word to be stored in the node
+     * Sets the German word to be stored in the node
      * 
-     * @param gerWord The german word stored in the node
+     * @param gerWord - the German word stored in the node
      */
     public void setGerWord(String gerWord)
     {
@@ -95,9 +98,9 @@ public class TreeNode
     }
     
     /**
-     * Gets the memory adress of the left child of the node
+     * Fetches the node to the left of this one, used for tree traversal
      * 
-     * @return left The left child of the current node
+     * @return left - the left child of the current node
      */
     public TreeNode getLeft()
     {
@@ -105,9 +108,9 @@ public class TreeNode
     }
     
     /**
-     * Sets the memory adress of the left child of the node
+     * Sets the left child of this node to the one passed in, used during tree construction
      * 
-     * @param left The left child of the current node
+     * @param left - the left child of the current node
      */
     public void setLeft(TreeNode left)
     {
@@ -115,9 +118,9 @@ public class TreeNode
     }
     
     /**
-     * Gets the memory adress of the right child of the node
+     * Fetches the node to the right of this one, used for tree traversal
      * 
-     * @return right The right child of the current node
+     * @return right - the right child of the current node
      */
     public TreeNode getRight()
     {
@@ -125,9 +128,9 @@ public class TreeNode
     }
     
     /**
-     * Sets the memory adress of the right child of the node
+     * Sets the right child of this node to the one passed in, used during tree construction
      * 
-     * @param right The right child of the current node
+     * @param right - the right child of the current node
      */
     public void setRight(TreeNode right)
     {

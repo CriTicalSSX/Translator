@@ -61,7 +61,7 @@ public class Menu
             System.out.println("");
             System.out.println("1. Enter text for translation");            //findNode
             System.out.println("2. Translate a text file");                 //Read custom user text file (not dictionaries)
-            System.out.println("3. Add a word to the dictionary");          //stringToInt and then addToTree
+            System.out.println("3. Add a word to the dictionary");          //stringToFloat and then addToTree
             System.out.println("4. Remove a word from the dictionary");     //removeTree
             System.out.println("5. Display English dictionary");            //Desktop function, dead easy 
             System.out.println("6. Display German dictionary");             //Desktop function, dead easy 
@@ -156,7 +156,7 @@ public class Menu
     *Method designed to turn user input into usable integer value
     *Uses charAt(i) to traverse string 
     */
-    float stringToInt(String input)
+    float stringToFloat(String input)
     {
         String stringToChar;// Used to store user entry
         String stringNum = "";// Used to store combined char strings
@@ -298,13 +298,13 @@ public class Menu
             FileReader gerFileReader = new FileReader("de.txt");
             BufferedReader gerBufferedReader = new BufferedReader(gerFileReader);
             
-            String engWord = engBufferedReader.readLine() + " ";
-            String gerWord = gerBufferedReader.readLine() + " ";
+            String engWord = engBufferedReader.readLine();
+            String gerWord = gerBufferedReader.readLine();
             
             while (engWord != null && gerWord != null)
             {
-                float engID = stringToInt(engWord);
-                float gerID = stringToInt(gerWord);
+                float engID = stringToFloat(engWord);
+                float gerID = stringToFloat(gerWord);
                 
                 engTree.addToTree(engID, engWord, gerWord);
                 gerTree.addToTree(gerID, engWord, gerWord);
@@ -355,7 +355,7 @@ public class Menu
                     
                     for (int i=0; i<lineSplit.length; i++)
                     {   
-                        float originalFloat = stringToInt(lineSplit[i] + " ");
+                        float originalFloat = stringToFloat(lineSplit[i] + " ");
                         
                         if (languageChoice == 1)
                         {        
@@ -449,8 +449,17 @@ public class Menu
             languageChoice = Genio.getInteger();
         }
                         
-        System.out.println("Enter text for translation in lowercase.");
+        System.out.println("Enter text for translation.");
         String originalText = Genio.getString();
+        
+        boolean isStringValid = validateString(originalText);
+        
+        while (isStringValid == false)
+        {
+            System.out.println("Error. Ensure there are no symbols in your text.");
+            originalText = Genio.getString();
+            isStringValid = validateString(originalText);
+        }
                         
         System.out.println("");
         System.out.print("TRANSLATION: ");
@@ -459,7 +468,7 @@ public class Menu
                         
         for (int i=0; i<textSplit.length; i++)
         {
-            float originalFloat = stringToInt(textSplit[i] + " ");
+            float originalFloat = stringToFloat(textSplit[i] + " ");
                               
             if (languageChoice == 1)
             {                         
@@ -468,7 +477,7 @@ public class Menu
             else
             {
                 System.out.print(gerTree.findNode(originalFloat, 2) + " ");
-           }
+            }
         }
                         
         System.out.println("");
@@ -499,14 +508,14 @@ public class Menu
         System.out.println("Enter the word to remove in lowercase.");       //need to validate lowercase                     
         String wordToRemove = Genio.getString();
                         
-        float idToRemove = stringToInt(wordToRemove);
+        float idToRemove = stringToFloat(wordToRemove);
                         
         if (languageChoice == 1)
         {
             String tempGerWord = gerTree.findNode(idToRemove, 1);     //fetching the word to remove's translation
             engTree.removeFromTree(engTree.getRoot(), idToRemove);      //removing the original word from the English tree
             
-            idToRemove = stringToInt(tempGerWord);                      //converting the translation of the removed word to a float
+            idToRemove = stringToFloat(tempGerWord);                      //converting the translation of the removed word to a float
             gerTree.removeFromTree(gerTree.getRoot(), idToRemove);      //passing this into the German tree so the word to remove and its translation are removed from both trees
         }
         else
@@ -514,7 +523,7 @@ public class Menu
             String tempEngWord = engTree.findNode(idToRemove, 2);     //vice versa to above
             gerTree.removeFromTree(gerTree.getRoot(), idToRemove);
                             
-            idToRemove = stringToInt(tempEngWord);
+            idToRemove = stringToFloat(tempEngWord);
             engTree.removeFromTree(engTree.getRoot(), idToRemove);
         }
     }
@@ -526,13 +535,13 @@ public class Menu
     {
         System.out.print('\f');
         System.out.println("Enter the English word to add.");
-        String engWord = Genio.getString() + " ";
+        String engWord = Genio.getString();
                         
         System.out.println("Enter the German word to add.");
-        String gerWord = Genio.getString() + " ";
+        String gerWord = Genio.getString();
                         
-        float engID = stringToInt(engWord);
-        float gerID = stringToInt(gerWord);
+        float engID = stringToFloat(engWord);
+        float gerID = stringToFloat(gerWord);
                         
         if (engTree.findNode(engID, 2).equals(engWord) || gerTree.findNode(gerID, 1).equals(gerWord))
         {
@@ -545,7 +554,7 @@ public class Menu
                             
             addToDictionary(engWord, gerWord);
                             
-            System.out.println("The word in English and German has been added to the dictionary.");
+            System.out.println("The word in English and German has been added to the dictionaries.");
         }
                         
         try 
@@ -555,6 +564,18 @@ public class Menu
         catch(InterruptedException ex)
         {   
             Thread.currentThread().interrupt();
+        }
+    }
+    
+    public boolean validateString(String originalText)
+    {
+        if (originalText.contains("\"") || originalText.contains("£") || originalText.contains("$") || originalText.contains("%") || originalText.contains("^") || originalText.contains("&") || originalText.contains("*") || originalText.contains("(") || originalText.contains(")") || originalText.contains("-") || originalText.contains("+") || originalText.contains("=") || originalText.contains("_") || originalText.contains("[") || originalText.contains("]") || originalText.contains("{") || originalText.contains("}") || originalText.contains(":") || originalText.contains(";") || originalText.contains("@") || originalText.contains("#") || originalText.contains("~") || originalText.contains("/") || originalText.contains(">") || originalText.contains("<") || originalText.contains("|") || originalText.contains("\\") || originalText.contains("¬"))
+        {
+            return false;
+        }   
+        else
+        {
+            return true;
         }
     }
     
