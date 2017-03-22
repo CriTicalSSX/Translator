@@ -1,3 +1,5 @@
+import binarytrees.Genio;
+import binarytrees.Tree;
 import java.awt.Desktop;
 import java.io.File;
 import java.io.FileReader;
@@ -42,6 +44,29 @@ public class Menu
         
         menu.loadMenu();
     }
+     /**
+     * text based graphical interface
+     */
+    public void displayMenu() {
+        System.out.println("+-----------------------------------------------+");
+        System.out.println("|   Welcome to the English-German translator!   |");
+        System.out.println("|         Please Choose an option below:        |");
+        System.out.println("+-----------------------------------------------+");
+        System.out.println("|                                               |");
+        System.out.println("|      1) Enter text for translation            |");
+        System.out.println("|      2) Translate a text file                 |");
+        System.out.println("|      3) Add a word to the dictionary          |");
+        System.out.println("|      4) Remove a word from the dictionary     |");
+        System.out.println("|      5) Display English dictionary            |");
+        System.out.println("|      6) Display German dictionary             |");
+        System.out.println("|      7) Exit Program                          |");
+        System.out.println("|                                               |");
+        System.out.println("+-----------------------------------------------+");
+        System.out.println(" ");
+        System.out.print("Please select an option from above: ");
+        System.out.println(" ");
+    }
+
     
     /**
      * Built by SG, DA
@@ -51,29 +76,12 @@ public class Menu
      */
     public void loadMenu()
     {        
-        int menuChoice = 0;
-        
-        while (menuChoice != 7)
-        {    
-            System.out.print('\f');
-            System.out.println("Welcome to the English-German translator!");
-            System.out.println("Please choose an option.");
-            System.out.println("");
-            System.out.println("1. Enter text for translation");            //findNode
-            System.out.println("2. Translate a text file");                 //Read custom user text file (not dictionaries)
-            System.out.println("3. Add a word to the dictionary");          //stringToFloat and then addToTree
-            System.out.println("4. Remove a word from the dictionary");     //removeTree
-            System.out.println("5. Display English dictionary");            //Desktop function, dead easy 
-            System.out.println("6. Display German dictionary");             //Desktop function, dead easy 
-            System.out.println("7. Exit program");
-            
+        int menuChoice;
+        do {
+            displayMenu();
+
             menuChoice = Genio.getInteger();
-            
-            while (menuChoice < 1 || menuChoice > 7)
-            {
-                System.out.println("Please enter a number between 1 and 7.");
-                menuChoice = Genio.getInteger();
-            }
+
             
             switch(menuChoice)
             {
@@ -145,9 +153,8 @@ public class Menu
                         
                         break;
             }
-        }
+        } while (menuChoice < 9 && menuChoice > 0);
         
-        menuExit();
     }
     
     /**
