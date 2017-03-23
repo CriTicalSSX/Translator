@@ -1,6 +1,3 @@
-
-import binarytrees.Genio;
-import binarytrees.Tree;
 import java.awt.Desktop;
 import java.io.File;
 import java.io.FileReader;
@@ -45,13 +42,14 @@ public class Menu
         
         menu.loadMenu();
     }
+    
      /**
      * text based graphical interface
      */
     public void displayMenu() {
         System.out.println("+-----------------------------------------------+");
         System.out.println("|   Welcome to the English-German translator!   |");
-        System.out.println("|         Please Choose an option below:        |");
+        System.out.println("|         Please choose an option below:        |");
         System.out.println("+-----------------------------------------------+");
         System.out.println("|                                               |");
         System.out.println("|      1) Enter text for translation            |");
@@ -76,25 +74,28 @@ public class Menu
      * loading the menu, otherwise [System.out.print('\f');] will erase all text on screen (this can obviously be changed) (last edited by SG)
      */
     public void loadMenu()
-    {     
+    {        
         int menuChoice;
         do {
-            
+            System.out.print('\f');
             displayMenu();
 
             menuChoice = Genio.getInteger();
+
+            while (menuChoice < 1 || menuChoice > 7)
+            {
+                System.out.println("Please enter a number between 1 and 7.");
+                menuChoice = Genio.getInteger();
+            }
             
-            //switch statement allowing user to make their choice in the text based menu
             switch(menuChoice)
             {
-                //runs the method for translating words
                 case 1: textToTranslate();
                         
                         break;
                         
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////    
                 
-                        //asks user to input which language they would like to translate
                 case 2: System.out.print('\f');
                         System.out.println("Enter the name of the text file you wish to translate.");
                         System.out.println("The file must be in the same directory as the program files.");
@@ -157,8 +158,9 @@ public class Menu
                         
                         break;
             }
-        } while (menuChoice < 9 && menuChoice > 0);
+        } while (menuChoice != 7);
         
+        menuExit();
     }
     
     /**
@@ -299,10 +301,6 @@ public class Menu
         System.exit(0);
     }  
     
-    /**
-     * readDictionaries method, reads from the text file dictionaries 
-     * 
-     */
     public void readDictionaries()
     {
         try
@@ -340,15 +338,22 @@ public class Menu
         catch(IOException e)
         {
             System.out.println("SYSTEM ERROR. DICTIONARY FILES ARE MISSING.");
+            
+            try 
+            {
+                Thread.sleep(2000);
+            } 
+            catch(InterruptedException ex)
+            {
+                Thread.currentThread().interrupt();
+            }
+            
             menuExit();
         }
     }
     
     public void readFromFile(String nameOfTextFile, int languageChoice)
     {
-        Date currentDate = new Date();        
-        long currentTime = currentDate.getTime();
-        
         try
         {
             FileReader fileToRead = new FileReader(nameOfTextFile);
@@ -398,15 +403,6 @@ public class Menu
             filebr.close();
             
             System.out.println("Your file has been translated and can be found in translation.txt");
-            
-            Date newCurrentDate = new Date();
-            
-            long currentLongTime = newCurrentDate.getTime();        
-            long timeToTranslate = currentLongTime - currentTime;
-        
-            timeToTranslate = timeToTranslate / 1000;
-            
-            System.out.println("The time taken to translate this file was " + timeToTranslate + " seconds.");
         }
         catch (IOException e)
         {

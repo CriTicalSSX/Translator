@@ -27,17 +27,17 @@ erniedrigen
 abgeschafft
 erniedrigung
 abnimmt
-heftiger schlag
+heftigerschlag
 beschämt
 enttäuscht
 abschöpfen
 abnehmen
-die batable
+diebatable
 abatieren
 abgebrochen
 beeinträchtigung
 beeinträchtigungen
-nach unten
+nachunten
 abaters
 nachlässt
 abnehmen
@@ -91,8 +91,8 @@ abe
 querab
 auftritte
 abecedarian
-abc-schützen
-ein bett
+abcschützen
+einbett
 abel
 aberaeron
 aberavon
@@ -163,10 +163,10 @@ ablationen
 ablativ
 ablativen
 ablaut
-in flammen
+inflammen
 fähig
 abler
-am weitesten
+amweitesten
 abschöpfen
 waschung
 waschungen
@@ -182,7 +182,7 @@ abnormal
 anomalien
 anomalie
 abnormal
-an bord
+anbord
 aufenthalt
 wohnsitze
 abschaffen
@@ -220,14 +220,14 @@ abortiv
 abortiv
 abbricht
 abtreibung
-im überfluss
+imüberfluss
 reichlich
 reichlich
-ist reich an
+istreichan
 über
 über
 überirdisch
-im april
+imapril
 abrakadabra
 abschleifen
 abgerieben
@@ -253,7 +253,7 @@ verkürzt
 verkürzt
 verkürzung
 abkürzungen
-im ausland
+imausland
 abrogieren
 aufgehoben
 abrogiert
@@ -335,10 +335,10 @@ absorbiert
 absorption
 absorptiv
 verzichten
-enthielten sich
+enthieltensich
 abstinenzler
 abstoffer
-sich enthalten
+sichenthalten
 verzichtet
 enthaltsam
 enthaltsam
@@ -390,10 +390,10 @@ missbräuchlichkeit
 anstoßen
 abutment
 abutments
-stößt an
+stößtan
 abuttals
 anstoßen
-eine butter
+einebutter
 abutters
 anstoßen
 abgrund
@@ -472,7 +472,7 @@ beitritt
 zusätze
 zubehör
 accessorise
-zugänglich machen
+zugänglichmachen
 zubehörteil
 zufälligkeit
 unfall
@@ -637,7 +637,7 @@ gewohnt
 as
 gehackt
 schärfe
-noch größer
+nochgrößer
 acerbates
 acerbating
 acerbic
@@ -694,7 +694,7 @@ quittierbar
 anerkannt
 wissen
 danksagungen
-erkennt an
+erkenntan
 anerkennen
 wissen
 danksagungen
@@ -770,7 +770,7 @@ akropolise
 über
 akrostichon
 akrostics
-acryl-
+acryl
 acryl
 handlung
 acta
@@ -871,7 +871,7 @@ adaptiv
 adaptiv
 adapter
 adapter
-passt sich an
+passtsichan
 hinzufügen
 addax
 adtaxis
@@ -887,7 +887,7 @@ süchtig
 süchtig
 sucht
 süchtigkeiten
-süchtig machend
+süchtigmachend
 süchtigen
 hinzufügen
 addis
@@ -912,7 +912,7 @@ adressen
 adressen
 adressierung
 adressiermaschine
-fügt hinzu
+fügthinzu
 erbringen
 angeführt
 adducer
@@ -968,8 +968,8 @@ adiabatisch
 adidas
 adieu
 adieus
-auf wiedersehen
-auf wiedersehen
+aufwiedersehen
+aufwiedersehen
 adipocere
 adipösen
 adiposität
@@ -1018,7 +1018,7 @@ beschwörung
 anfechtungen
 beschwören
 beschlossen
-richtet sich
+richtetsich
 einstellend
 einstellen
 einstellbar
@@ -1029,7 +1029,7 @@ einsteller
 anpassen
 einstellung
 anpassungen
-passt sich an
+passtsichan
 adjutant
 adjutanten
 adler
@@ -1071,7 +1071,7 @@ eintritt
 zulassungen
 bewundernd
 eingestehen
-räumt ein
+räumtein
 zulassung
 zugelassen
 freilich
@@ -1107,7 +1107,7 @@ annahme
 annahme
 adoptionen
 adoptiv
-nimmt an
+nimmtan
 entzückend
 hinreißend
 anbetung
@@ -1237,7 +1237,7 @@ zweckmäßigkeit
 ratsam
 beraten
 empfohlen
-mit bedacht
+mitbedacht
 beraten
 beratung
 berater
@@ -1292,7 +1292,7 @@ aerofoil
 aerogramm
 fluggesellschaften
 aeronaut
-luftfahrt-
+luftfahrt
 aeronautisch
 aeronautisch
 luftfahrt
@@ -1342,7 +1342,7 @@ neigungen
 affektiv
 betrifft
 affeer
-affe ered
+affeered
 affeering
 zärtinnen
 afferent
@@ -1350,7 +1350,7 @@ affiance
 affianced
 affiances
 affiancing
-eidesstattliche erklärung
+eidesstattlicheerklärung
 eidesstattliche
 affiliate
 verbunden
@@ -1420,11 +1420,11 @@ afghanen
 liebhaber
 aficionados
 afield
-ein feuer
-in flammen
+einfeuer
+inflammen
 flott
 aufgeregt
-zu fuß
+zufuß
 afore
 vorgenannten
 vorstehend
@@ -1458,7 +1458,7 @@ nachmittag
 nachmittags
 nachfolger
 aftershave
-nach dem schock
+nachdemschock
 nachbeben
 nachgeschmack
 nachtastes
@@ -1620,7 +1620,7 @@ zustimmen
 zustimmung
 vereinbarungen
 agréer
-stimmt zu
+stimmtzu
 landwirtschaft
 landwirtschaftlich
 landwirtschafter
@@ -1858,7 +1858,7 @@ alfa
 alfalfa
 alfas
 alfred
-im freien
+imfreien
 alge
 algen
 algaecide
@@ -1915,7 +1915,7 @@ ausgerichtet
 ausrichten
 ausrichtung
 ausrichtungen
-richtet sich aus
+richtetsichaus
 wie
 lebensmittel
 feeds
@@ -1932,7 +1932,7 @@ alistair
 alit
 andernfalls
 quelle
-am leben
+amleben
 alizarin
 alkali
 alkalisch
@@ -2123,11 +2123,11 @@ alnmouth
 alnwick
 aloe
 aloes
-nach oben
+nachoben
 aloha
 allein
 einsamkeit
-eine lange
+einelange
 neben
 distanziert
 aloofly
@@ -2165,7 +2165,7 @@ alpinist
 alpinisten
 alpen
 bereits
-in ordung
+inordung
 elsass
 elsässisch
 eltern
@@ -2179,7 +2179,7 @@ altäre
 änderbar
 änderung
 änderungen
-sich auseinander setzen
+sichauseinandersetzen
 verändert
 verändert
 veränderung
@@ -2202,7 +2202,7 @@ alternativen
 generator
 lichtmaschinen
 wechseln
-ändert sich
+ändertsich
 althea
 althorn
 althorns
@@ -2294,7 +2294,7 @@ amazonas
 amazonisch
 amazons
 botschafter
-botschafter-
+botschafter
 botschafter
 botschaft
 botschafter
@@ -2350,8 +2350,8 @@ hinterhalt
 amebic
 verbessern
 gemildert
-verbessert sich
-sich verbessern
+verbessertsich
+sichverbessern
 verbesserung
 besserung
 ameliorator
@@ -2369,7 +2369,7 @@ geändert
 annehmlichkeiten
 amenity
 amenorrhoe
-stücken auferlegen
+stückenauferlegen
 amerced
 amercement
 amercements
@@ -2498,7 +2498,7 @@ stromstärke
 stromstärken
 ampere
 amperes
-et-zeichen
+etzeichen
 ampersands
 amphetamin
 amphetamine
@@ -2695,7 +2695,7 @@ anatomisieren
 anatomie
 vorfahr
 vorfahren
-ahnen-
+ahnen
 angestammt
 vorfahren
 abstammung
@@ -2732,7 +2732,7 @@ anden
 andiron
 andirons
 andorra
-und über
+undüber
 andrea
 andrew
 andrews
@@ -2770,7 +2770,7 @@ betäubung
 anästhesiert
 aneurysma
 aneurysmen
-ein neuer
+einneuer
 kommerziell
 engel
 angela
@@ -2852,7 +2852,7 @@ anilin
 anima
 animadversion
 animadversions
-sich kritisch äußern
+sichkritischäußern
 animadverted
 animadverting
 animadverts
@@ -2943,13 +2943,13 @@ anmerkung
 annotationen
 annotator
 annotatoren
-bekannt geben
+bekanntgeben
 angekündigt
 ankündigung
 ankündigungen
 ansager
 ansager
-kündigt an
+kündigtan
 ankündigung
 nerven
 ärger
@@ -3019,7 +3019,7 @@ anorexie
 magersüchtig
 anorexik
 anorthis
-ein anderer
+einanderer
 anoxie
 anoxisch
 hübsch
@@ -3072,7 +3072,7 @@ antenne
 antennen
 antennen
 antenuptial
-drittletzte silbe
+drittletztesilbe
 antepenultimate
 antepenults
 anterior
@@ -3141,7 +3141,7 @@ enttäuschung
 antiklimaxen
 anticline
 anticlines
-gegen den uhrzeigersinn
+gegendenuhrzeigersinn
 antikoagulans
 antikoagulantien
 antikoagulation
@@ -3225,7 +3225,7 @@ antiseptisch
 antiseptika
 antiserum
 antiserum
-gegen sklaverei
+gegensklaverei
 antisozial
 antisozial
 krampflösend
@@ -3271,11 +3271,11 @@ besorgt
 irgendein
 irgendjemand
 jedenfalls
-nicht mehr
+nichtmehr
 jemand
 überall
 etwas
-jederzeit wieder
+jederzeitwieder
 sowieso
 irgendwo
 irgendwie
@@ -3291,7 +3291,7 @@ apache
 apaches
 apanage
 appanages
-ein teil
+einteil
 apartheid
 wohnung
 wohnungen
@@ -3342,7 +3342,7 @@ bienenhaus
 apikale
 apices
 imkerei
-ein stück
+einstück
 aping
 apis
 apish
@@ -3372,13 +3372,13 @@ entschuldigung
 entschuldigung
 entschuldigen
 entschuldigten
-entschuldigt sich
+entschuldigtsich
 entschuldigung
 apologet
 apologen
 entschuldigen
-entschuldigte sich
-entschuldigt sich
+entschuldigtesich
+entschuldigtsich
 entschuldigung
 entschuldigung
 apofthegm
@@ -3458,7 +3458,7 @@ ansprechend
 ansprechend
 appelliert
 erscheinen
-das auftreten
+dasauftreten
 auftritte
 erschien
 erscheinen
@@ -3529,12 +3529,12 @@ applikator
 applikatoren
 angewendet
 gilt
-applikationen?
-appliqu? d
+applikationen
+appliqud
 applizieren
-appliqu? s
-sich bewerben
-bewirbt sich
+appliqus
+sichbewerben
+bewirbtsich
 ernennen
 ernannt
 appointee
@@ -3601,7 +3601,7 @@ anspruchsvoll
 ansatz
 zugänglichkeit
 zugänglich
-näherte sich
+nähertesich
 ansätze
 annäherung
 billigung
@@ -3609,13 +3609,13 @@ angemessen
 angeeignet
 passend
 angemessenheit
-passt sich an
+passtsichan
 aneignung
 aneignung
 mittel
 aneigner
 aneigner
-die genehmigung
+diegenehmigung
 genehmigungen
 genehmigen
 genehmigt
@@ -3627,7 +3627,7 @@ zustimmend
 ungefähre
 angenähert
 ca
-annähern sich
+annähernsich
 annähernd
 annäherung
 annäherungen
@@ -3662,7 +3662,7 @@ aquarien
 aquarium
 aquarien
 wassermann
-wasser-
+wasser
 aquatics
 aquatinta
 bekannt
@@ -3790,7 +3790,7 @@ architektonik
 architekten
 architektonisch
 architektonisch
-die architektur
+diearchitektur
 architekturen
 architrav
 architraves
@@ -3922,7 +3922,7 @@ bewaffnet
 armenien
 armenisch
 armenier
-arm voll
+armvoll
 armfuls
 armloch
 armholes
@@ -3939,7 +3939,7 @@ schrank
 schränke
 rüstung
 gepanzert
-wappen-
+wappen
 armierung
 rüstungen
 waffenkammer
@@ -3982,7 +3982,7 @@ arraignments
 arraigns
 arrangieren
 ordnen
-vereinbart worden
+vereinbartworden
 anordnung
 arrangements
 arrangeur
@@ -4010,8 +4010,8 @@ arrhythmisch
 ankunft
 ankunft
 ankommen
-ist eingetroffen
-kommt an
+isteingetroffen
+kommtan
 ankommen
 arroganz
 arrogant
@@ -4133,7 +4133,7 @@ aufstieg
 steigen
 oberlängen
 aufsteigend
-steigt auf
+steigtauf
 aufstieg
 aufstiegen
 aufstieg
@@ -4163,7 +4163,7 @@ asepses
 asepsis
 aseptisch
 asexuell
-a sexuell
+asexuell
 asche
 beschämt
 beschämt
@@ -4181,7 +4181,7 @@ ashland
 quader
 quader
 ashley
-an land
+anland
 ashram
 ashrams
 ashton
@@ -4293,7 +4293,7 @@ versammlung
 abgeordnete
 montagemänner
 zustimmung
-stimmte zu
+stimmtezu
 zustimmen
 zustimmt
 behaupten
@@ -4363,7 +4363,7 @@ unterstützt
 festlegung
 vereinigt
 assoziieren
-damit verbundenen
+damitverbundenen
 assoziierten
 assoziieren
 verband
@@ -4386,7 +4386,7 @@ annehmbar
 annehmen
 angenommen
 vermutlich
-geht davon aus
+gehtdavonaus
 vorausgesetzt
 nahm
 annehmen
@@ -4396,7 +4396,7 @@ sicherheit
 versicherungen
 versichern
 versichert
-ganz gewiss
+ganzgewiss
 gewährleisten
 versicherer
 versichert
@@ -4442,7 +4442,7 @@ astragals
 astrachan
 astrakhans
 astral
-in die irre
+indieirre
 astrid
 rittlings
 adstringenz
@@ -4498,7 +4498,7 @@ asynchron
 asynchronität
 getrennt
 beim
-hit c chi c
+hitcchic
 atavismus
 atavistisch
 ataxia
@@ -4522,7 +4522,7 @@ athleten
 sportlich
 athletisch
 athletik
-die leichtathletik
+dieleichtathletik
 quer
 atkins
 atkinson
@@ -4565,7 +4565,7 @@ gesühnt
 sühne
 atones
 sühnen
-oben auf
+obenauf
 atrien
 atrium
 atriums
@@ -4583,7 +4583,7 @@ anfügen
 anbringbar
 angebracht
 anhängt
-anfügen?
+anfügen
 anhängen
 befestigung
 anhänge
@@ -4604,7 +4604,7 @@ errungenschaften
 erreicht
 enteignen
 erreicht
-zu erreichen
+zuerreichen
 erreicht
 blumenessenz
 büros
@@ -4654,8 +4654,8 @@ einstellbar
 haltung
 haltung
 haltung
-haltbar gemacht
-hängt ein
+haltbargemacht
+hängtein
 haltung
 attlee
 attorn
@@ -4677,7 +4677,7 @@ sehenswürdigkeiten
 attraktiv
 attraktiv
 attraktivität
-zieht an
+ziehtan
 zurechenbar
 zurechenbar
 attribut
@@ -4719,7 +4719,7 @@ hörbar
 hörbar
 publikum
 publikum
-audio-
+audio
 kassette
 audiokassetten
 audiologe
@@ -4922,12 +4922,12 @@ herbstlich
 herbst
 auvergne
 hilfsmittel
-hilfs-
-in anspruch nehmen
+hilfs
+inanspruchnehmen
 verfügbarkeit
 verfügbar
 nutzte
-gebrauch machen
+gebrauchmachen
 nutzt
 lawine
 avalanchiert
@@ -4953,7 +4953,7 @@ avenues
 mit
 durchschnittlich
 gemittelt
-im durchschnitt
+imdurchschnitt
 durchschnittlich
 averment
 averments
@@ -5026,7 +5026,7 @@ onkelhaft
 erwarten
 erwartete
 warten
-wartet auf
+wartetauf
 wach
 erwacht
 wecken
@@ -5041,9 +5041,9 @@ vergeben
 verleihung
 auszeichnungen
 bewusst
-das bewusstsein
+dasbewusstsein
 awash
-ein weg
+einweg
 oder
 awed
 awes
@@ -5053,7 +5053,7 @@ großartigkeit
 furchtbar
 schrecklich
 schrecklichkeit
-eine weile
+eineweile
 awing
 peinlich
 ungeschickt
@@ -5247,7 +5247,7 @@ backspaces
 backspacing
 backspin
 backspins
-hinter den kulissen
+hinterdenkulissen
 hintertreppe
 backstitch
 backstitched
@@ -5302,7 +5302,7 @@ abzeichen
 badinage
 ödland
 schlecht
-schlechter mann
+schlechtermann
 badmen
 badminton
 badmouth
@@ -5609,7 +5609,7 @@ banjos
 banjul
 bank
 bankfähig
-bank buch
+bankbuch
 bankbücher
 banked
 banker
@@ -5652,7 +5652,7 @@ verbietet
 banshee
 banshees
 diäten
-bantam-
+bantam
 bantams
 bantamgewicht
 geplänkel
@@ -5725,14 +5725,14 @@ barde
 bards
 bardsey
 nackt
-ohne sattel
+ohnesattel
 entblößt
 barefaced
 barfuß
 barfüßig
 nackt
 barhäuptig
-nackten beinen
+nacktenbeinen
 kaum
 blöße
 barren
@@ -5923,7 +5923,7 @@ schüchtern
 schüchternheit
 bashing
 basic
-grundsätzlich gilt
+grundsätzlichgilt
 grundlagen
 basilikum
 basildon
@@ -5936,7 +5936,7 @@ basiert
 basingstoke
 becken
 basis
-sich aalen
+sichaalen
 gewebt
 korb
 basketball
@@ -5945,8 +5945,8 @@ korbvoll
 korbköpfe
 korbwaren
 körbe
-sich aalen
-sonnt sich
+sichaalen
+sonntsich
 basle
 baslow
 basophilen
@@ -6009,7 +6009,7 @@ gebadet
 badende
 badegäste
 badet
-essig-
+essig
 badehaus
 badehäuser
 baden
@@ -6144,7 +6144,7 @@ beaconsfield
 perle
 wulst
 beadier
-am liebsten
+amliebsten
 bördeln
 beadle
 beadles
@@ -6213,7 +6213,7 @@ beatifisch
 seligsprechung
 seligsprechung
 beatifiziert
-selig sprechen
+seligsprechen
 seligsprechung
 prügel
 schlägt
@@ -6251,7 +6251,7 @@ beavering
 biber
 bebington
 bebop
-ruhig sein
+ruhigsein
 angeblich
 beruhigt
 fahrzeuge
@@ -6295,7 +6295,7 @@ bett
 beddgelert
 bettwäsche
 beddington
-ich werde
+ichwerde
 schmücken
 geschmückt
 bedecking
@@ -6320,7 +6320,7 @@ bedford
 bedfordshire
 bedizen
 herausgeputzt
-abschnitt betrieb
+abschnittbetrieb
 bedizens
 bedlam
 beduine
@@ -6373,7 +6373,7 @@ beefeater
 beefeaters
 beefed
 beefier
-am besten
+ambesten
 beefiness
 beefing
 rindfleisch
@@ -6405,7 +6405,7 @@ käfer
 betäubt
 käfer
 beetling
-rote beete
+rotebeete
 rübenwurzeln
 rüben
 beeves
@@ -6414,7 +6414,7 @@ befallen
 einfallen
 fällt
 geschehen
-fit sein
+fitsein
 geziemt
 passte
 passend
@@ -6432,7 +6432,7 @@ befouls
 freundschaft
 befreundet
 befreunden
-freunde sein
+freundesein
 verwirren
 verwirrt
 verwirrt
@@ -6487,12 +6487,12 @@ betrübt
 betörend
 betrügerisch
 begonnen
-im auftrag
+imauftrag
 behalves
-sich verhalten
+sichverhalten
 artig
 verhält
-sich benehmen
+sichbenehmen
 verhalten
 verhaltensweisen
 verhaltensmäßig
@@ -6516,7 +6516,7 @@ behemoth
 behemoths
 geheiß
 hinter
-hinter sich
+hintersich
 erblicken
 verpflichtet
 betrachter
@@ -6529,7 +6529,7 @@ gehostet
 behooves
 aufregen
 sich
-verhielt sich
+verhieltsich
 geziemt
 behoving
 beige
@@ -6686,7 +6686,7 @@ biege
 bender
 benders
 biegen
-beugt sich
+beugtsich
 unter
 benedict
 benedektiner
@@ -6870,7 +6870,7 @@ bestialität
 bestiaries
 bestiarium
 besting
-sich rühren
+sichrühren
 bestirred
 bestirring
 tierisch
@@ -6890,7 +6890,7 @@ bestrides
 bestriding
 bestrode
 bests
-bestseller, verkaufsschlager, spitzenreiter
+bestseller
 bestseller
 wette
 beta
@@ -6971,7 +6971,7 @@ beklagen
 beklagte
 bewaffnet
 beklagt
-in acht nehmen
+inachtnehmen
 vorsicht
 bewusst
 haft
@@ -6990,18 +6990,18 @@ bezaubernd
 bexhill
 bexley
 bexleyheath
-darüber hinaus
+darüberhinaus
 lünette
 blenden
 bezique
-b? arnaise
-b? chamel
+barnaise
+bchamel
 bhopal
 bhutan
 mit
 weiß
 halbjährlich
-zweimal jährlich
+zweimaljährlich
 biarritz
 vorspannen
 voreingenommen
@@ -7064,12 +7064,12 @@ bideford
 bides
 bidet
 bidets
-gebunden an
+gebundenan
 bidirektional
 gebote
 biennia
 biennale
-alle zwei jahre
+allezweijahre
 biennalen
 immobilien
 bier
@@ -7089,10 +7089,10 @@ bigamie
 größer
 größte
 biggs
-großer kopf
+großerkopf
 eingebildet
 bigheads
-großes horn
+großeshorn
 bighorns
 bucht
 bights
@@ -7151,7 +7151,7 @@ brieftasche
 brieftaschen
 hippe
 billhooks
-billard-
+billard
 billard
 abrechnung
 billingham
@@ -7175,7 +7175,7 @@ billy
 bim
 bimbo
 bimbos
-alle zwei monate
+allezweimonate
 bimetallisch
 doppelwährung
 doppelwährung
@@ -7209,7 +7209,7 @@ binnacles
 gebohrt
 binokular
 fernglas
-binomial-
+binomial
 binomials
 behälter
 zweikernig
@@ -7218,7 +7218,7 @@ biochemisch
 biochemiker
 biochemie
 biochemiker
-biologisch abbaubar
+biologischabbaubar
 biotechnik
 biofeedback
 biogenese
@@ -7262,7 +7262,7 @@ biorhythmus
 biorhythmischen
 biorhythmen
 bios
-bios kopieren
+bioskopieren
 biosphäre
 biosynthese
 biosynthese
@@ -7437,8 +7437,8 @@ blackbody
 blackburn
 blackcap
 blackcaps
-schwarze johannisbeere
-schwarze johannisbeeren
+schwarzejohannisbeere
+schwarzejohannisbeeren
 blackdamp
 geschwärzt
 schwärzen
@@ -7460,10 +7460,10 @@ blackjack
 blackjacks
 blackleg
 blacklegs
-schwarze liste
+schwarzeliste
 aufgelistet
 blacklisting
-schwarze listen
+schwarzelisten
 erpressung
 erpresst
 erpresser
@@ -7664,7 +7664,7 @@ blinder
 blinders
 blind
 augenbinde
-mit verbundenen augen
+mitverbundenenaugen
 blindfolding
 augenbinden
 blendung
@@ -7767,7 +7767,7 @@ blutvergießen
 blutunterlaufen
 blutspots
 blutfleck
-blutig gefärbt
+blutiggefärbt
 blutflecken
 blutstein
 blutsteine
@@ -7835,7 +7835,7 @@ blasrohr
 blasrohre
 schläge
 blowsier
-blow-elect
+blowelect
 blowsy
 lötlampe
 blowtorches
@@ -7860,19 +7860,19 @@ blaubeeren
 blaubeere
 drossel
 drosseln
-blaues buch
+blauesbuch
 bluebooks
 schmeißfliege
 bluebottles
 blaufisch
 bluefishes
 bluegrass
-blaue jacke
+blauejacke
 bluejackets
-blaue nase
+blauenase
 bluenoses
 entwurf
-blau bedruckt
+blaubedruckt
 blueprinting
 blaupausen
 bluer
@@ -7937,7 +7937,7 @@ werden
 gut
 eber
 tafel
-an bord
+anbord
 boarder
 boarder
 einsteigen
@@ -7949,13 +7949,13 @@ promenaden
 ebern
 boas
 prahlerei
-rühmte sich
+rühmtesich
 prahler
 boasters
 prahlerisch
 prahlerisch
 prahlerei
-rühmt sich
+rühmtsich
 boot
 boatable
 gebootet
@@ -7989,7 +7989,7 @@ bobbled
 bobbles
 bobbling
 bobby
-junges mädchen
+jungesmädchen
 bobbysoxers
 bobcat
 rotluchse
@@ -8077,7 +8077,7 @@ stürmisch
 ausgelassenheit
 war
 bälle
-fett gedruckt
+fettgedruckt
 gefaltet
 kühner
 kühnsten
@@ -8100,7 +8100,7 @@ bollixed
 bollixes
 bollixing
 bolls
-es war
+eswar
 bologna
 bolognese
 kuchen
@@ -8170,11 +8170,11 @@ knechte
 bondsman
 bondsmenschen
 knochen
-ohne knochen
+ohneknochen
 bonefish
 dummkopf
 boneheads
-ohne knochen
+ohneknochen
 boner
 boners
 knochen
@@ -8228,7 +8228,7 @@ gebohrt
 boogie
 gebohrt
 drehgestelle
-bo oh versorgung
+boohversorgung
 boohoo
 boohooed
 boohooing
@@ -8384,7 +8384,7 @@ langeweile
 bohrer
 borders
 bohrungen
-bor-
+bor
 langweilig
 langweilig
 bohrungen
@@ -8457,12 +8457,12 @@ belästigen
 stören
 lästig
 beides
-beide gut
+beidegut
 schutzhütte
 botswana
 botticelli
 flasche
-flaschen-
+flaschen
 engpass
 engpässe
 abfüller
@@ -8537,7 +8537,7 @@ boutonniere
 boutonnieres
 kämpfe
 bovary
-rinder-
+rinder
 rinder
 bovril
 bogen
@@ -8551,16 +8551,16 @@ säubern
 bowdlerized
 bowdlerisiert
 bowdlerizing
-verbeugte sich
+verbeugtesich
 darm
 eingeweide
 laube
 bowers
-verbeugt sich
+verbeugtsich
 bowfin
 bowie
 bowie
-verbeugte sich
+verbeugtesich
 schüssel
 gebeugt
 bowler
@@ -8723,7 +8723,7 @@ kräftigste
 feurig
 feuchtigkeitsgefühl
 brasilien
-messing-
+messing
 brasserie
 messing
 brassier
@@ -8823,7 +8823,7 @@ halsbrecher
 ausbrechen
 haltepunkt
 haltepunkte
-geht kaputt
+gehtkaputt
 durchbruch
 durchbrüche
 beenden
@@ -8947,7 +8947,7 @@ ziegelsteine
 mauerwerk
 ziegelei
 ziegelsteine
-braut-
+braut
 bridals
 braut
 bräutigam
@@ -9008,7 +9008,7 @@ aufgehellt
 aufhellung
 erhellt
 heller
-am hellsten
+amhellsten
 brightlingsea
 hell
 helligkeit
@@ -9049,7 +9049,7 @@ briketts
 brisbane
 lebhaft
 züchmer
-sehr lebendig
+sehrlebendig
 brisket
 briskets
 lebhaft
@@ -9090,10 +9090,10 @@ breit
 ausgestrahlt
 broadcaster
 rundfunkveranstalter
-rundfunk-
+rundfunk
 sendungen
 sendungen
-breiten tuch
+breitentuch
 erweitern
 erweitert
 erweiterung
@@ -9176,7 +9176,7 @@ brontosaurier
 brontosaurus
 brontosaurus
 bronx
-bronze-
+bronze
 bronziert
 bronzen
 bronzing
@@ -9253,7 +9253,7 @@ gequetscht
 bruiser
 bruiser
 prellungen
-blaue flecken
+blaueflecken
 klingen
 gequetscht
 bruting
@@ -9465,7 +9465,7 @@ geschüttet
 schott
 schotte
 sperriger
-am stärksten
+amstärksten
 bulkily
 sperrigkeit
 bulking
@@ -9896,7 +9896,7 @@ käufer
 kauf
 buyout
 buyouts
-kauft ein
+kauftein
 summen
 bussard
 bussarde
@@ -9924,7 +9924,7 @@ umgehen
 umgehung
 stall
 pyres
-auf der straße
+aufderstraße
 umkreuzt
 byron
 byronic
@@ -10038,7 +10038,7 @@ cadged
 schnorrer
 cadgers
 cadges
-gewesen cadging
+gewesencadging
 cadillac
 cadiz
 cadmic
@@ -10213,7 +10213,7 @@ angeblich
 schwielen
 rücksichtslos
 gefühllosigkeit
-rufen sie an
+rufensiean
 anrufe
 kallus
 schwielig
@@ -10378,8 +10378,8 @@ kanäle
 sofa
 canape
 canapes
-sofa?
-sofa? s
+sofa
+sofas
 canaps
 ente
 enten
@@ -10399,7 +10399,7 @@ stornierung
 stornierungen
 abgebrochen
 stornieren
-bricht ab
+brichtab
 krebs
 krebs
 krebs
@@ -10449,7 +10449,7 @@ cankerous
 cankers
 schilf
 cannabis
-dosen-
+dosen
 kanal
 cannelloni
 karikaturen
@@ -10485,7 +10485,7 @@ kanonenkugeln
 kanoniert
 kanonen
 kanonen
-nicht können
+nichtkönnen
 canny
 kanu
 ausgelöscht
@@ -10525,9 +10525,9 @@ büchsen
 kippen
 cantab
 cantaloup
-cantaloup-melone
+cantaloupmelone
 cantaloupes
-cantaloup-melone
+cantaloupmelone
 cantankerous
 streitsüchtig
 kantate
@@ -10703,7 +10703,7 @@ fänger
 captors
 erfassung
 gefangen
-fängt ein
+fängtein
 einfangen
 verhaftet
 kapuziner
@@ -10749,11 +10749,11 @@ karabiner
 karabiner
 kohlenhydrat
 kohlenhydrate
-karbol-
+karbol
 kohlenstoff
 kohlenstoffhaltig
 karbonat
-mit kohlensäure
+mitkohlensäure
 carbonate
 karbonisieren
 karbonisierung
@@ -10815,7 +10815,7 @@ kardiologe
 kardiologen
 kardiologie
 kardiopulmonale
-herz-kreislauf
+herzkreislauf
 karten
 pflege
 gepflegt
@@ -10838,7 +10838,7 @@ leichtsinnig
 nachlässig
 nachlässigkeit
 betreuer
-interessiert sich
+interessiertsich
 streicheln
 gestreichelt
 streichelt
@@ -10855,7 +10855,7 @@ cargill
 ladung
 ladungen
 gebühren
-bedienung in einem drive-in-restaurant
+bedienungineinemdriveinrestaurant
 carhopped
 carhops
 carib
@@ -11048,7 +11048,7 @@ schnitzereien
 karyatide
 karyatiden
 fall
-er heiratete
+erheiratete
 casabas
 casablanca
 casanova
@@ -11186,7 +11186,7 @@ katalanen
 katalepsie
 kataleptisch
 kataleptika
-hab und gut
+habundgut
 katalog
 katalogisiert
 cataloguer
@@ -11229,7 +11229,7 @@ katastrophal
 katatonie
 katatonisch
 katatonik
-amerikanische spottdrossel
+amerikanischespottdrossel
 katzen
 katzen
 katziniert
@@ -11287,7 +11287,7 @@ caterer
 gastronomie
 raupe
 raupen
-kümmert sich
+kümmertsich
 caterwaul
 geschmückt
 katzenmusik
@@ -11335,7 +11335,7 @@ cattery
 cattier
 cattiest
 cattily
-das vieh
+dasvieh
 viehzüchter
 viehzüchter
 catty
@@ -11415,7 +11415,7 @@ gehackt
 höhlenmensch
 höhlenmenschen
 kavendish
-sich hüten
+sichhüten
 höhle
 höhlenartig
 höhlenartig
@@ -11442,7 +11442,7 @@ geschmückt
 tummeln
 cavorts
 krächzen
-auseinandersetzungen verdrängen tausende
+auseinandersetzungenverdrängentausende
 kauen
 caws
 caxton
@@ -11459,7 +11459,7 @@ aufhören
 aufgehört
 unaufhörlich
 unaufhörlich
-hört auf
+hörtauf
 aufhören
 cecil
 cecile
@@ -12027,7 +12027,7 @@ chartisten
 chartres
 chartreuse
 chartroom
-chat-räume
+chaträume
 charts
 chartwell
 putzfrau
@@ -12096,7 +12096,7 @@ chauffiert
 chauffeure
 treiber
 kaminecke
-arm-
+arm
 chauvinismus
 chauvenist
 chauvinistisch
@@ -12114,7 +12114,7 @@ billig
 billigend
 billigt
 günstiger
-am billigsten
+ambilligsten
 billig
 billigkeit
 cheapskate
@@ -12541,7 +12541,7 @@ abgehackt
 koteletts
 stäbchen
 essstäbchen
-chor-
+chor
 chorale
 chorales
 akkord
@@ -12608,7 +12608,7 @@ christianson
 christie
 christina
 christine
-wie christus
+wiechristus
 weihnachten
 weihnachtlich
 weihnachtszeit
@@ -13038,7 +13038,7 @@ clarets
 klärung
 klärungen
 geklärt
-klärt sich
+klärtsich
 klären
 klären
 klarinette
@@ -13146,12 +13146,12 @@ räumungen
 geklärt
 klarer
 klarste
-klar geleitet
+klargeleitet
 clearing
 klarungen
 deutlich
 klarheit
-klärt sich
+klärtsich
 clearway
 clearways
 klemme
@@ -13212,7 +13212,7 @@ klischee
 klischee
 klischees
 klischee
-clich? s
+clichs
 klichs
 klicken
 geklickt
@@ -13260,7 +13260,7 @@ cline
 clines
 haften
 klammern
-klammert sich
+klammertsich
 clingstone
 clingstones
 klammern
@@ -13279,7 +13279,7 @@ klirrt
 clint
 clinton
 clip
-clip art
+clipart
 zwischenablage
 zwischenablagen
 moment
@@ -13315,7 +13315,7 @@ uhr
 getaktet
 taktung
 uhren
-im uhrzeigersinn
+imuhrzeigersinn
 uhrwerk
 uhrwerk
 scholle
@@ -13332,7 +13332,7 @@ verstopfen
 klumpig
 verstopft
 cloisonn
-cloisonn?
+cloisonn
 kloster
 kloster
 kloster
@@ -13355,7 +13355,7 @@ eng
 nähe
 näher
 schließt
-am nächsten
+amnächsten
 schrank
 verschlossen
 schliessen
@@ -13368,7 +13368,7 @@ schließung
 schließungen
 gerinnen
 tuch
-tuch gebunden
+tuchgebunden
 kleiden
 gekleidet
 kleider
@@ -13448,7 +13448,7 @@ unbeholfen
 ungeschickt
 ungeschicklichkeit
 ungeschickt
-klammerte sich
+klammertesich
 clus
 cluster
 gruppiert
@@ -13728,7 +13728,7 @@ erkennbar
 erkenntnis
 bewusst
 kognitiv
-erkennt sich
+erkenntsich
 nachname
 cognomens
 nachnamen
@@ -13781,13 +13781,13 @@ münze
 prägung
 münzen
 übereinstimmen
-fiel zusammen
+fielzusammen
 zufall
 zufälligkeiten
 zusammenfallen
 zufällig
 zufällig
-fällt zusammen
+fälltzusammen
 zusammenfallen
 geprägt
 prägung
@@ -13835,7 +13835,7 @@ kolomosen
 colitis
 zusammenarbeiten
 zusammengearbeitet
-arbeitet zusammen
+arbeitetzusammen
 zusammenarbeiten
 zusammenarbeit
 kollaborationistisch
@@ -14109,8 +14109,8 @@ verbrennen
 verbrennung
 verbrennung
 verbrennt
-kommen sie
-komm zurück
+kommensie
+kommzurück
 comebacks
 komiker
 komödien
@@ -14119,7 +14119,7 @@ komikerin
 comediennes
 komödien
 komisch
-herunter kommen
+herunterkommen
 comedowns
 komödie
 comelier
@@ -14189,7 +14189,7 @@ gedenkt
 gedenken
 gedenkfeier
 gedenken
-gedenk-
+gedenk
 gedenk
 gedenkt
 beginnen
@@ -14304,7 +14304,7 @@ gemeinsamkeiten
 gemeinsamkeit
 gemeiner
 bürger
-am häufigsten
+amhäufigsten
 häufig
 häufigkeit
 alltäglich
@@ -14350,7 +14350,7 @@ communiqu
 kommunique
 communiques
 communiqu
-communiqu? s
+communiqus
 communiqus
 communis
 kommunikation
@@ -14498,7 +14498,7 @@ beschwert
 beschwerer
 beschwerer
 beschwert
-beschwert sich
+beschwertsich
 beschwerde
 beschwerden
 selbstzufriedenheit
@@ -14680,7 +14680,7 @@ verbirgt
 zugeben
 zugegeben
 zugeben
-räumt ein
+räumtein
 zugeben
 einbildung
 eingebildet
@@ -14777,7 +14777,7 @@ prägnanz
 prägnose
 konklave
 konklaven
-daraus schließen
+darausschließen
 abgeschlossen
 schließt
 abschliessen
@@ -15129,7 +15129,7 @@ glückwünsche
 gratulieren
 versammeln
 versammelt
-versammelt sich
+versammeltsich
 versammeln
 gemeinde
 gemeinde
@@ -15139,7 +15139,7 @@ kolporationalisten
 gemeinden
 kongress
 kongresse
-kongress-
+kongress
 kongressabgeordnete
 kongressabgeordnete
 kongressabgeordneter
@@ -15211,7 +15211,7 @@ conks
 verständigen
 verbinden
 anschließbar
-in verbindung gebracht
+inverbindunggebracht
 verbunden
 connecticut
 verbinden
@@ -15293,7 +15293,7 @@ konsens
 zustimmung
 eingewilligt
 zustimmen
-stimmt zu
+stimmtzu
 folge
 folgen
 konsequent
@@ -15328,7 +15328,7 @@ bedenken
 berücksichtigung
 überlegungen
 berücksichtigt
-in anbetracht
+inanbetracht
 betrachtet
 senden
 versandt
@@ -15349,10 +15349,10 @@ konsistenzen
 konsistenz
 konsistent
 konsequent
-bestehend aus
+bestehendaus
 consistor
 konsistoren
-besteht aus
+bestehtaus
 tröstlich
 trödlich
 trost
@@ -15373,8 +15373,8 @@ tröstlich
 konsolen
 verbraucht
 verbraucht
-verbraucht?
-verbraucht? s
+verbraucht
+verbrauchts
 consomms
 konsonanz
 konsonant
@@ -15460,7 +15460,7 @@ verengungen
 constrictive
 constrictor
 constrictors
-verengt sich
+verengtsich
 bauen
 konstruiert
 konstruieren
@@ -15497,7 +15497,7 @@ beratung
 beratungen
 beratende
 konsultiert
-beratung & verkauf
+beratungverkauf
 berät
 verbrauchbar
 verbrauchsmaterial
@@ -15563,9 +15563,9 @@ contemners
 contemning
 contemns
 betrachten
-in betracht gezogen
+inbetrachtgezogen
 kontempliert
-in erwägung
+inerwägung
 betrachtung
 kontemplativ
 kontemplativ
@@ -15590,7 +15590,7 @@ behauptet
 inhalt
 zufrieden
 zufrieden
-zufrieden stellen
+zufriedenstellen
 streit
 umstände
 umstritten
@@ -15635,8 +15635,8 @@ fortsetzung
 fortsetzungen
 fortsetzen
 fortgesetzt
-geht weiter
-auch weiterhin
+gehtweiter
+auchweiterhin
 kontinuitäten
 kontinuität
 kontinuierlich
@@ -15668,7 +15668,7 @@ empfängnisverhütung
 verhütungsmittel
 kontrazeptiva
 vertrag
-vertrag abgeschlossen
+vertragabgeschlossen
 kontrahierbar
 kontraktil
 kontraktilität
@@ -15732,7 +15732,7 @@ zuwiderhandlung
 rückschlag
 beitragen
 beigetragen
-trägt dazu bei
+trägtdazubei
 beitragen
 beitrag
 beiträge
@@ -15948,7 +15948,7 @@ kühlmittel
 abgekühlt
 kühler
 kühler
-am coolsten
+amcoolsten
 coolheaded
 kuli
 kühler
@@ -16071,11 +16071,11 @@ copyholds
 kopieren
 kopistisch
 kopisten
-kopie leser
+kopieleser
 copyreaders
 copyright
-urheberrechtlich geschützt
-urheberrechtlich geschützt
+urheberrechtlichgeschützt
+urheberrechtlichgeschützt
 copyrights
 texter
 verfasser
@@ -16168,7 +16168,7 @@ cornelius
 ecke
 rückblick
 backbacks
-in die enge getrieben
+indieengegetrieben
 kurvenfahrt
 ecken
 grundstein
@@ -16188,7 +16188,7 @@ corning
 kornisch
 cornishman
 kornische
-mahlzeit mit getreide
+mahlzeitmitgetreide
 cornrow
 cornrows
 hühneraugen
@@ -16205,7 +16205,7 @@ corodium
 corody
 blumenkrone
 folgerungen
-logische folge
+logischefolge
 corollas
 corona
 krone
@@ -16285,7 +16285,7 @@ berichtigung
 korrigierbar
 bestätigen
 bestätigt
-bestätigt sich
+bestätigtsich
 bestätigen
 bestätigung
 korrosiv
@@ -16475,7 +16475,7 @@ cotyledons
 couch
 couched
 sonnenuntergang
-sonnenuntergänge gänge~~pos=headcomp
+sonnenuntergängegängeposheadcomp
 liegen
 couchette
 couchettes
@@ -16929,7 +16929,7 @@ absturz
 abgestürzt
 crasher
 crashers
-stürzt ab
+stürztab
 abstürzen
 krass
 krasser
@@ -16945,13 +16945,13 @@ kisten
 kisten
 halstuch
 cravats
-sehnen sich
+sehnensich
 begehrte
 feige
 verrückt
 cravenness
 cravens
-sehnt sich
+sehntsich
 verlangen
 heißhunger
 kriechen
@@ -17110,7 +17110,7 @@ crested
 niedergeschlagen
 kratzend
 kämme
-kreide-
+kreide
 kretisch
 kreta
 kreta
@@ -17133,8 +17133,8 @@ crewing
 crewman
 crewmen
 besatzungen
-cr? che
-cr? ches
+crche
+crches
 schrei
 crianlarich
 krippe
@@ -17150,7 +17150,7 @@ cricketer
 grillen
 krumpfen
 cricks
-hat geweint
+hatgeweint
 schrei
 criers
 schreit
@@ -17326,7 +17326,7 @@ querbalken
 querträger
 crossbill
 querbrücken
-gekreuzten knochen
+gekreuztenknochen
 armbrust
 armbrüste
 gekreuzt
@@ -17423,7 +17423,7 @@ grob
 grobheit
 grob
 grausamsten
-grausam? s
+grausams
 crudites
 crudits
 roheit
@@ -17748,7 +17748,7 @@ gerinnen
 geronnen
 curdles
 gerinnung
-die quarkmasse
+diequarkmasse
 heilen
 geheilt
 heilt
@@ -17794,7 +17794,7 @@ johannisbeeren
 währungen
 währung
 strom
-zur zeit
+zurzeit
 strömungen
 curricula
 curriculum
@@ -17906,7 +17906,7 @@ anpassen
 zoll
 kosten
 schneiden
-haut-
+haut
 cutaway
 cutaways
 rückschnitt
@@ -18098,7 +18098,7 @@ dairymaid
 dairymaids
 dairyman
 molkereien
-kapitel ry oman
+kapitelryoman
 molkerei
 podium
 gänseblümchen
@@ -18165,7 +18165,7 @@ dämpft
 dämpfer
 dämpfer
 dämpfung
-etwas feucht
+etwasfeucht
 feucht
 feuchtigkeit
 dämpft
@@ -18248,7 +18248,7 @@ aber
 dardanellen
 wagen
 wagte
-traut sich
+trautsich
 kühn
 kühn
 darjeeling
@@ -18258,7 +18258,7 @@ verdunkelt
 verdunkeln
 verdunkelt
 dunkler
-am dunkelsten
+amdunkelsten
 dunkel
 dunkel
 dunkelheit
@@ -18303,8 +18303,8 @@ gestrichelt
 dasher
 dasher
 bindestriche
-out ki
-dashiki s
+outki
+dashikis
 schneidig
 schrecklich
 ruchlosigkeit
@@ -18340,7 +18340,7 @@ entmutigend
 unerschrocken
 unerschrocken
 unerschrockenheit
-unten ts
+untents
 dauphin
 dauphine
 delfine
@@ -18445,7 +18445,7 @@ deafen
 betäubt
 ohrenbetäubend
 ohrenbetäubend
-taubt sich
+taubtsich
 tauber
 deafest
 taubheit
@@ -18466,11 +18466,11 @@ dean
 dekanate
 dekanat
 dekan
-sehr geehrter
+sehrgeehrter
 lieber
 liebste
 teuer
-lieber s
+liebers
 mangel
 tod
 sterbebett
@@ -18787,7 +18787,7 @@ zersetzbarkeit
 zerlegbar
 zersetzen
 zersetzt
-zersetzt sich
+zersetztsich
 zersetzung
 zersetzung
 dekomprimieren
@@ -18847,9 +18847,9 @@ enttäuschend
 entschärft
 verringern
 verringert
-nimmt ab
+nimmtab
 abnehmen
-immer weniger
+immerweniger
 dekret
 verordnet
 dekrementieren
@@ -18886,16 +18886,16 @@ dekutieren
 dekutiert
 dekutiert
 entscheidend
-er sagte,
+ersagte
 widmen
 gewidmet
-widmet sich
+widmetsich
 widmen
 hingabe
 widmungen
 widmet
 dedifferenzierung
-wir haben gegeben
+wirhabengegeben
 ableiten
 abgeleitet
 ableitet
@@ -18918,17 +18918,17 @@ deeding
 taten
 betrachten
 erachtet
-zu beachten
+zubeachten
 meint
-das breiteste
-mit ters
+dasbreiteste
+mitters
 tief
 vertiefen
 vertieft
 vertiefung
 vertieft
 tiefer
-am tiefsten
+amtiefsten
 tief
 tiefe
 tiefe
@@ -18954,7 +18954,7 @@ defalcation
 veruntreuungen
 abziehen
 defalcators
-einmal verwendet
+einmalverwendet
 diffamierung
 verleumderisch
 diffamieren
@@ -19072,7 +19072,7 @@ endgültig
 deflagration
 entleeren
 deflationiert
-entleert sich
+entleertsich
 ablassen
 deflation
 deflationär
@@ -19110,12 +19110,12 @@ abblättern
 entlaubung
 defoliator
 defoliatoren
-de force
+deforce
 deforced
 deforcement
 deforcements
 deforces
-de force
+deforce
 deforciants
 deforcing
 entwalden
@@ -19131,7 +19131,7 @@ deformiert
 deformieren
 verformungen
 deformität
-verformt sich
+verformtsich
 betrügen
 betrug
 betrogen
@@ -19194,7 +19194,7 @@ abbaubar
 degradierung
 degradieren
 abgebaut
-verschlechtert sich
+verschlechtertsich
 abbauend
 entfetten
 entfettet
@@ -19677,9 +19677,9 @@ denitrifiziert
 denitrifts
 denitifizieren
 denitrifikation
-die denizatio
+diedenizatio
 denizations
-über bord
+überbord
 verleugnet
 bewohner
 bürger
@@ -19806,7 +19806,7 @@ abteilungsabteilung
 abteilung
 abteilungsweise
 abteilungen
-fährt ab
+fährtab
 abreise
 abflüge
 depasture
@@ -19819,7 +19819,7 @@ zuverlässig
 zuverlässig
 abhängig
 abhängigen
-hing ab
+hingab
 abhängigkeit
 abhängigkeiten
 abhängigkeit
@@ -19827,14 +19827,14 @@ abhängig
 abhängig
 abhängigen
 abhängig
-hängt davon ab
+hängtdavonab
 depersonalisierung
 entpersönlich
 entpersonalisiert
 entpersönlich
 entpersonalisieren
 depersonalisierung
-entpersönlich machen
+entpersönlichmachen
 depersonalisiert
 entpersönlich
 depersonalisieren
@@ -19973,13 +19973,13 @@ depressor
 depressoren
 druckentlastung
 drucklos
-drucklos gemacht
+drucklosgemacht
 drucklos
 drucklos
 druckentlastung
-drucklos machen
-drucklos gemacht
-drucklos macht
+drucklosmachen
+drucklosgemacht
+drucklosmacht
 drucklos
 deprivalieren
 deprivals
@@ -20068,7 +20068,7 @@ derivat
 derivate
 ableiten
 abgeleitet
-leitet sich
+leitetsich
 ableiten
 spende
 dermal
@@ -20123,12 +20123,12 @@ descartes
 absteigen
 nachkomme
 nachkommenschaft
-stieg ab
+stiegab
 descendent
 absteigen
 unterlängen
 absteigend
-steigt ab
+steigtab
 abstammung
 abfahrten
 beschreibbar
@@ -20157,7 +20157,7 @@ entsammeln
 abgesondert
 entsammelt
 entschärft
-aufhebung der rassentrennung
+aufhebungderrassentrennung
 abwählen
 abgewählt
 abwählen
@@ -20304,7 +20304,7 @@ schicksal
 mittellos
 elend
 zerstören
-kaputt gemacht
+kaputtgemacht
 zerstörer
 zerstörer
 zerstören
@@ -20329,7 +20329,7 @@ desynchronisieren
 ablösen
 abnehmbar
 freistehend
-löst sich
+löstsich
 ablösen
 ablösung
 abteilungen
@@ -20364,8 +20364,8 @@ waschmittel
 reinigungsmittel
 verschlechtern
 verschlechtert
-verschlechtert sich
-sich verschlechtern
+verschlechtertsich
+sichverschlechtern
 verschlechterung
 abschreckung
 beeinträchtigungen
@@ -20494,7 +20494,7 @@ entwicklung
 entwicklung
 entwicklungsweise
 entwicklungen
-entwickelt sich
+entwickeltsich
 devest
 verwüstet
 entschuldigung
@@ -20595,11 +20595,11 @@ traubenzucker
 dextrous
 dextrously
 dextrose
-d? klasse?
-d? colletage
-d? spannzange?
-von versuchen,
-d? zelte
+dklasse
+dcolletage
+dspannzange
+vonversuchen
+dzelte
 dfc
 dfm
 dhabi
@@ -20737,7 +20737,7 @@ würfel
 gewürfelt
 dicer
 dicers
-sie sagen,
+siesagen
 riskant
 dichlorid
 dichotisch
@@ -20803,7 +20803,7 @@ didgeridoo
 didsbury
 didymium
 die
-ist verstorben
+istverstorben
 diego
 dielektrikum
 sterben
@@ -20811,7 +20811,7 @@ dieppe
 diereses
 trema
 stirbt
-diesel-
+diesel
 diesel
 diesel
 diät
@@ -20847,7 +20847,7 @@ differenzieren
 differenzierung
 anders
 unterschiedlich
-unterscheidet sich
+unterscheidetsich
 schwer
 schwierigkeiten
 schwierigkeit
@@ -20858,7 +20858,7 @@ beugen
 gebeugt
 beugend
 beugung
-beugt sich
+beugtsich
 diffus
 diffundiert
 diffus
@@ -20882,7 +20882,7 @@ verdaulichkeit
 verdaulich
 verdauen
 verdauung
-verdauungs-
+verdauungs
 verdauungsfördernd
 verdaut
 bagger
@@ -21048,7 +21048,7 @@ dinky
 dinned
 abendessen
 abendessen
-zeit für das abendessen
+zeitfürdasabendessen
 geschirr
 dinning
 dinosaurier
@@ -21092,7 +21092,7 @@ getaucht
 löffel
 kassen
 eintauchen
-taucht ein
+tauchtein
 dipsomania
 dipsomaniac
 dipsomaniacs
@@ -21129,7 +21129,7 @@ aussagekräftig
 schlau
 direkt
 direr
-am liebsten
+amliebsten
 klagelied
 dirges
 luftschiff
@@ -21188,20 +21188,20 @@ disafforest
 enttäuscht
 veräußerung
 wahnsinn
-nicht zustimmen
+nichtzustimmen
 unangenehm
 unzufriedenheit
 unangenehm
-nicht einverstanden
-nicht einverstanden
+nichteinverstanden
+nichteinverstanden
 uneinigkeit
 meinungsverschiedenheiten
 widerspricht
-nicht zulassen
-nicht zulässig
+nichtzulassen
+nichtzulässig
 unzulänglichkeit
-nicht zugelassen
-nicht zulassen
+nichtzugelassen
+nichtzulassen
 verweigert
 disalts
 disambiguieren
@@ -21327,7 +21327,7 @@ ausgeschlossen
 haftungsausschluss
 haftungsausschluss
 ausschließen
-lehnt ab
+lehntab
 offenbaren
 offenbart
 offenbart
@@ -21345,16 +21345,16 @@ verfärben
 verfärbung
 verfärbt
 verfärben
-verfärbt sich
+verfärbtsich
 verfärben
 verfärbt
 verfärben
-verfärbt sich
+verfärbtsich
 discbobulieren
 discombobuliert
 discbobuliert
 diskriminierend
-unbehagen verursachen
+unbehagenverursachen
 enttäuscht
 beschwerden
 beschwerden
@@ -21373,7 +21373,7 @@ enttäuschend
 bezahlungen
 zerlegen
 zerlegt
-zersetzt sich
+zersetztsich
 zerlegen
 zerlegen
 beunruhigen
@@ -21387,7 +21387,7 @@ getrennt
 getrennt
 trennen
 abschaltung
-trennt sich
+trenntsich
 trostlos
 untrennbar
 unzufriedenheit
@@ -21602,14 +21602,14 @@ verkleidung
 verkleidet
 verkleidet
 verkleidung
-der ekel
+derekel
 angeekelt
 angewidert
 widerlich
 ekelhaft
 ekelt
 gericht
-häusliche bekleidung
+häuslichebekleidung
 disharmonien
 disharmonisch
 disharmonie
@@ -21626,7 +21626,7 @@ zerlegen
 zerzaust
 dishevelling
 zerzaust
-jishie r
+jishier
 dishiest
 dishing
 unehrlich
@@ -21664,7 +21664,7 @@ unaufrichtig
 abschreckend
 beleidigungen
 abneigung
-abgeneigt machen
+abgeneigtmachen
 abgeneigt
 abtrennt
 abneigung
@@ -21725,13 +21725,13 @@ diskette
 disketten
 bescheiden
 scheiben
-nicht gefallen
-nicht gemocht
+nichtgefallen
+nichtgemocht
 abneigungen
 abneigung
 verrenken
 verschoben
-verschiebt sich
+verschiebtsich
 verlagern
 luxation
 versetzungen
@@ -21880,7 +21880,7 @@ anzeigen
 anzeigbar
 angezeigt
 anzeigen
-zeigt an
+zeigtan
 missfallen
 unzufrieden
 mißfallen
@@ -21897,7 +21897,7 @@ verfügung
 veräußerungen
 entsorgen
 entsorgt
-verfügt über
+verfügtüber
 entsorgen
 anordnung
 dispositionen
@@ -21952,8 +21952,8 @@ disrate
 disrated
 disrates
 disrating
-außer acht lassen
-nicht beachtet
+außerachtlassen
+nichtbeachtet
 ignorieren
 missachtung
 disremember
@@ -21985,7 +21985,7 @@ unzufriedenheit
 unbefriedigend
 unzufrieden
 unzufrieden
-nicht befriedigen
+nichtbefriedigen
 unzufrieden
 sezieren
 seziert
@@ -22029,7 +22029,7 @@ bärendienst
 dissever
 dissevered
 zergliederung
-diese verse
+dieseverse
 dissidenten
 dissident
 dissidenten
@@ -22062,9 +22062,9 @@ unauffällig
 zügellosigkeit
 auflösung
 auflösbar
-sich auflösen
+sichauflösen
 aufgelöst
-löst sich
+löstsich
 auflösung
 dissonanz
 dissonant
@@ -22213,7 +22213,7 @@ disyllabischen
 disyllisch
 diese
 graben
-fallen gelassen
+fallengelassen
 ditcher
 graben
 gräben
@@ -22290,7 +22290,7 @@ dividende
 dividenden
 teiler
 teiler
-teilt sich
+teiltsich
 teilung
 dividivi
 wahrsagerei
@@ -22356,7 +22356,7 @@ dmus
 dna
 machen
 machbar
-die zeiten,
+diezeiten
 dobermann
 dobermans
 doc
@@ -22420,7 +22420,7 @@ dodgem
 dodgems
 dodger
 dodgers
-weicht aus
+weichtaus
 dodgier
 dodgiest
 ausweichen
@@ -22466,7 +22466,7 @@ dogmatiker
 dogmatiker
 hunde
 hundeschlitten
-hunde schlitten
+hundeschlitten
 dogtrot
 dogtrots
 dogtrotting
@@ -22523,10 +22523,10 @@ kuppel
 gewölbt
 kuppeln
 domesday
-des gleichen
+desgleichen
 domesmen
 inländisch
-im inland
+iminland
 domestizieren
 häuslich
 domestiziert
@@ -22540,7 +22540,7 @@ domizil
 domiziliert
 domiciles
 domiciliary
-seinen wohnsitz
+seinenwohnsitz
 dominiert
 domizilisierung
 domizilisierung
@@ -22601,7 +22601,7 @@ schwanz
 dongle
 wollen
 gewährt
-don jon
+donjon
 esel
 esel
 donna
@@ -22634,7 +22634,7 @@ untergang
 verurteilt
 verurteilt
 untergang
-tag des jüngsten gerichts
+tagdesjüngstengerichts
 doone
 tür
 türklingel
@@ -22715,7 +22715,7 @@ dossed
 baldachin
 dossers
 dosses
-um punkt kleine
+umpunktkleine
 dossier
 aufzeichnungen
 dostoyevsky
@@ -22836,7 +22836,7 @@ verstohlen
 herunterfallen
 herunterladen
 heruntergeladen
-wird heruntergeladen
+wirdheruntergeladen
 downloads
 downpatrick
 herunterspielen
@@ -22849,7 +22849,7 @@ downrange
 geradezu
 downs
 nachteil
-nach unten
+nachunten
 unten
 stromabwärts
 abschwung
@@ -22862,9 +22862,9 @@ abwärtstrends
 niedergeschlagen
 abschwung
 abschwünge
-nach unten
-nach unten
-im wind
+nachunten
+nachunten
+imwind
 flaumig
 dowress
 dowresses
@@ -22924,7 +22924,7 @@ dragger
 draggers
 schleppen
 draggle
-drachen glitten
+drachenglitten
 draggles
 draggling
 dragnet
@@ -22940,10 +22940,10 @@ dragoons
 schleppt
 dragster
 schlepper
-abtropfen lassen
+abtropfenlassen
 drainage
 entwässert
-abtropfen lassen
+abtropfenlassen
 abläuft
 erpel
 drakes
@@ -23173,7 +23173,7 @@ tröpfchen
 tröpfchen
 aussteigen
 aussteiger
-fallen gelassen
+fallengelassen
 tropfer
 droppers
 fallenlassen
@@ -23205,7 +23205,7 @@ betrunken
 niederlage
 drubs
 schuften
-sträubte sich
+sträubtesich
 widerhöhlen
 mühsal
 stört
@@ -23498,7 +23498,7 @@ zwang
 durham
 während
 durmast
-eichen mit
+eichenmit
 durrell
 durst
 fall
@@ -23619,8 +23619,8 @@ dysprosium
 dystrophischen
 dystrophie
 e
-jede einzelne
-die gleiche
+jedeeinzelne
+diegleiche
 eifrig
 eifrig
 eifer
@@ -23710,7 +23710,7 @@ erleichterung
 erleichterungen
 erleichtert
 einfacher
-am einfachsten
+ameinfachsten
 leicht
 leichtigkeit
 lockerung
@@ -23729,11 +23729,11 @@ ostland
 eastleigh
 ostmann
 ostnor
-nach osten
+nachosten
 ostwärts
 ostholz
 einfach
-läuft einfach
+läufteinfach
 essen
 essbar
 eatables
@@ -24113,7 +24113,7 @@ achtzehnte
 achtfach
 achte
 achte
-achtziger jahre
+achtzigerjahre
 achtzigstes
 achtzigerjahre
 achtzig
@@ -24315,7 +24315,7 @@ elephantine
 elefanten
 erheben
 erhöht
-erhebt sich
+erhebtsich
 heben
 elevation
 erhebungen
@@ -24431,11 +24431,11 @@ aufklärer
 aufklärend
 entziehen
 entzogen
-entzieht sich
+entziehtsich
 entziehen
 elusion
 elusions
-schwer fassbar
+schwerfassbar
 ausweichend
 flüchtigkeit
 eluieren
@@ -24498,8 +24498,8 @@ einschiffung
 einschiffungen
 eingeschlagen
 einschiffend
-begibt sich
-in verlegenheit bringen
+begibtsich
+inverlegenheitbringen
 verlegen
 peinlich
 peinlich
@@ -24629,7 +24629,7 @@ entstehung
 notfälle
 notfall
 emergent
-taucht auf
+tauchtauf
 entstehenden
 emeritus
 emerson
@@ -24898,7 +24898,7 @@ ermutigend
 aufmunternd
 beeinträchtigen
 eingegriffen
-greift ein
+greiftein
 eindringend
 eingriff
 eingriffe
@@ -24946,11 +24946,11 @@ liebt
 bemühen
 bemüht
 bemüht
-bemüht sich
+bemühtsich
 bemühen
 bemüht
 bemüht
-bemüht sich
+bemühtsich
 endete
 endemisch
 endemisch
@@ -24963,7 +24963,7 @@ endiviert
 endlos
 endlos
 unendlichkeit
-am ende
+amende
 endoblast
 endoblasts
 endokarp
@@ -25224,7 +25224,7 @@ anfragen
 erfragt
 frau
 fragen
-erkundigt sich
+erkundigtsich
 anfragen
 fragen
 anfrage
@@ -25299,9 +25299,9 @@ erfolgen
 folgte
 folgt
 folgend
-dafür sorgen
+dafürsorgen
 sichergestellt
-stellt sicher
+stelltsicher
 gewährleisten
 gebälk
 entablaturen
@@ -25323,7 +25323,7 @@ entendres
 vereinbarung
 vereinbarungen
 eingeben
-trat ein
+tratein
 enterisch
 eintreten
 enteritis
@@ -25449,7 +25449,7 @@ umschlingt
 umschlingen
 aufzählen
 aufgezählt
-zählt auf
+zähltauf
 aufzählen
 aufzählung
 enumerativ
@@ -25464,7 +25464,7 @@ enunciator
 enunciators
 sicherung
 enured
-sorgt dafür
+sorgtdafür
 enuresis
 enuring
 umhüllen
@@ -25495,12 +25495,12 @@ umgebungen
 umgebung
 vorschlagen
 vorgesehen
-sieht vor
+siehtvor
 vorsicht
 vorstellen
 vorgestellt
 vorstellung
-sieht vor
+siehtvor
 versand
 sendungen
 gesandte
@@ -25625,7 +25625,7 @@ epizootisch
 epoche
 epochal
 epochen
-in epo
+inepo
 epodes
 eponym
 gleichnamig
@@ -25666,7 +25666,7 @@ ausgleich
 gleich
 gleich
 gleichermaßen
-gleich ist
+gleichist
 gleichmut
 gleichsetzen
 gleichgesetzt
@@ -25695,7 +25695,7 @@ equilibriert
 equilibrierung
 gleichgewichte
 gleichgewicht
-pferde-
+pferde
 pferde
 equinoctial
 equinoctials
@@ -25708,7 +25708,7 @@ ausrüstung
 gleichgewicht
 ausgestattet
 ausrüstung
-rüstet aus
+rüstetaus
 gerecht
 gleichheit
 gerecht
@@ -25841,7 +25841,7 @@ erythroblasten
 erythrozyten
 erythrozyten
 erythromycin
-dies ist
+diesist
 esau
 esc
 flug
@@ -25954,7 +25954,7 @@ essen
 wesen
 essenzen
 wesentlich
-im wesentlichen
+imwesentlichen
 wesentliche
 essex
 essoin
@@ -26026,7 +26026,7 @@ und
 etagere
 etageren
 etc
-und so weiter
+undsoweiter
 etceteras
 ätzen
 geätzt
@@ -26160,8 +26160,8 @@ eurocheque
 eurocheques
 eurocrat
 eurokraten
-euro währung
-euro dollar
+eurowährung
+eurodollar
 euroldollar
 euro
 europa
@@ -26197,11 +26197,11 @@ evakuieren
 evakuiert
 ausweichen
 umgangen
-entzieht sich
+entziehtsich
 ausweichen
 bewerten
 ausgewertet
-wertet aus
+wertetaus
 bewerten
 auswertung
 auswertungen
@@ -26280,14 +26280,14 @@ ewig
 ewig
 jeden
 jeder
-jeden tag
-jeder mann
+jedentag
+jedermann
 jeder
-jeder platz
+jederplatz
 alles
 überall
-jede frau
-jede frau
+jedefrau
+jedefrau
 eves
 evesham
 vertreiben
@@ -26337,8 +26337,8 @@ evolutionistin
 evolutionisten
 entwickeln
 entwickelt
-entwickelt sich
-sich entwickeln
+entwickeltsich
+sichentwickeln
 ewag
 ewages
 mutterschaf
@@ -26349,7 +26349,7 @@ schafe
 ex
 verschärfen
 verschärft
-verschärft sich
+verschärftsich
 verschärfen
 verschärfung
 genau
@@ -26413,17 +26413,17 @@ bagger
 überschreitet
 übertreffen
 übertroffen
-hervorragende leistung
+hervorragendeleistung
 exzellenzen
 exzellenz
 ausgezeichnet
 hervorragend
 hervorragend
-zeichnet sich aus
+zeichnetsichaus
 holzwolle
 außer
 ausgenommen
-ausgenommen von
+ausgenommenvon
 ausnahme
 aussagekräftig
 ausnahmsweise
@@ -26440,7 +26440,7 @@ auszüge
 übertrieben
 übermäßig
 übertreibung
-austausch-
+austausch
 austauschbarkeit
 austauschbar
 ausgetauscht
@@ -26473,12 +26473,12 @@ erregt
 aufregend
 aufregend
 ausrufen
-rief aus
-rief aus
-ruft aus
+riefaus
+riefaus
+ruftaus
 ausruf
 ausrufe
-ausrufe-
+ausrufe
 ausgeschlossen
 ausschließen
 ausgeschlossen
@@ -26563,7 +26563,7 @@ execs
 ausführbar
 ausführen
 ausgeführt
-ausgeführt wird
+ausgeführtwird
 ausführen
 ausführung
 henker
@@ -26763,7 +26763,7 @@ expatriiert
 expatriates
 aussiedeln
 ausbürgerung
-erwarten von
+erwartenvon
 erwartungsvoll
 erwartungen
 erwartung
@@ -26825,7 +26825,7 @@ erleben
 erfahrungsorientiert
 erfahrungsmäßig
 experiment
-experimental-
+experimental
 experimentellismus
 experimentell
 experimentieren
@@ -26851,7 +26851,7 @@ abläufe
 exspiratorisch
 verfallen
 abgelaufen
-läuft ab
+läuftab
 auslaufend
 ablauf
 erklären
@@ -26945,7 +26945,7 @@ auslegen
 erklärt
 ausdrücken
 ausgedrückt
-drückt aus
+drücktaus
 ausdrucksvoll
 ausdrücken
 expressio
@@ -27024,7 +27024,7 @@ umfang
 erweitert
 beschönigen
 ausgedehnt
-dehnt aus
+dehntaus
 abschwächen
 beschönigung
 außen
@@ -27051,7 +27051,7 @@ externalisieren
 externalisiert
 externalisiert
 externalisierung
-nach außen
+nachaußen
 äußerlichkeiten
 extern
 äußere
@@ -27168,8 +27168,8 @@ extrusive
 üppig
 exsudat
 verströmen
-strahlt aus
-strahlt aus
+strahltaus
+strahltaus
 ausströmen
 frohlocken
 jubelnd
@@ -27217,7 +27217,7 @@ schandfleck
 augenschmuck
 eyestalk
 eyestalks
-überanstrengung der augen
+überanstrengungderaugen
 augenwasch
 augenzeuge
 augenzeugen
@@ -27267,7 +27267,7 @@ facettiert
 furchtbar
 furchtbar
 facetten
-gesichts-
+gesichts
 gesicht
 gesichtsbehandlungen
 tun
@@ -27331,7 +27331,7 @@ erledigt
 fakultativ
 fakultäten
 fakultät
-in? desm
+indesm
 mode
 fabelhaft
 faddy
@@ -27365,8 +27365,8 @@ scheitert
 fehler
 ausfälle
 fein
-vin? sie
-fain? ameisen
+vinsie
+fainameisen
 ohnmacht
 ohnmächtig
 schwächer
@@ -27374,7 +27374,7 @@ leiseste
 ohnmacht
 schwach
 schwäche
-wird ohnmächtig
+wirdohnmächtig
 messe
 fairbanks
 fairbourne
@@ -27485,17 +27485,17 @@ berühmt
 familiär
 familiär
 vertrautmachen
-vertraut machen
-vertraut gemacht
+vertrautmachen
+vertrautgemacht
 vertraut
-vertraut machen
+vertrautmachen
 vertrautheit
 vertrautheit
 vertrautmachen
-vertraut machen
-vertraut gemacht
+vertrautmachen
+vertrautgemacht
 vertraut
-vertraut machen
+vertrautmachen
 vertraulich
 familie
 familien
@@ -27573,7 +27573,7 @@ faraday
 farads
 farandole
 farandolen
-weit weg
+weitweg
 farce
 farcen
 hofnarr
@@ -27588,7 +27588,7 @@ fareham
 tarife
 abschied
 verabschiedet
-weit hergeholt
+weithergeholt
 farina
 meisterhaft
 faring
@@ -27624,7 +27624,7 @@ weitblick
 furz
 farted
 weiter
-am weitesten
+amweitesten
 farthing
 farthings
 farting
@@ -27656,7 +27656,7 @@ gestaltung
 moden
 faso
 schnell
-schnell zurück
+schnellzurück
 fastbacks
 fastet
 befestigen
@@ -27667,7 +27667,7 @@ befestigung
 befestigungen
 fesselt
 schneller
-am schnellsten
+amschnellsten
 anspruchsvoll
 anspruchsvoll
 anspruchsvoll
@@ -27716,7 +27716,7 @@ gefettet
 mästen
 gemästet
 mast
-fühlt sich an
+fühltsichan
 dicker
 fetteste
 fattier
@@ -27729,7 +27729,7 @@ fatuity
 müde
 mürrisch
 töricht
-ein narr
+einnarr
 faubourg
 stadtrand
 faucen
@@ -27748,7 +27748,7 @@ fehler
 defekt
 faun
 fauna
-die fauna
+diefauna
 faunen
 fauns
 fauntleroy
@@ -27904,7 +27904,7 @@ fühler
 gefühl
 fühlend
 gefühle
-fühlt sich
+fühltsich
 gebühren
 füße
 vortäuschen
@@ -28172,9 +28172,9 @@ fieberhaft
 fieber
 wenige
 weniger
-am wenigsten
+amwenigsten
 in
-er tat
+ertat
 fezzes
 ffestiniog
 sein
@@ -28182,8 +28182,8 @@ verlobter
 verlobte
 verlobten
 fiances
-verlobter?
-fianc? s
+verlobter
+fiancs
 fiasko
 fiascoes
 fiascos
@@ -28300,7 +28300,7 @@ fünfzehntel
 fünfte
 fünfte
 fünfte
-fünfziger jahre
+fünfzigerjahre
 fünfzigste
 fünfziger
 fünfzig
@@ -28315,10 +28315,10 @@ kämpft
 figment
 figuren
 feigen
-figural-
+figural
 figuration
 figurativ
-im übertragenen sinne
+imübertragenensinne
 zahl
 gedacht
 galionsfigur
@@ -28598,7 +28598,7 @@ firmen
 firmware
 tannen
 zuerst
-aus erster hand
+ausersterhand
 erstling
 erstlinge
 erstens
@@ -28672,7 +28672,7 @@ tailliert
 monteur
 monteure
 geeignetste
-passend zu
+passendzu
 passend
 fittings
 fitzgerald
@@ -28697,7 +28697,7 @@ fest
 fest
 fixer
 fixierer
-behebt sich
+behebtsich
 festsetzung
 fixierungen
 beiläufig
@@ -28845,7 +28845,7 @@ flachboot
 flachboote
 flachwagen
 flatcars
-flache füße
+flachefüße
 flatfish
 flatfishes
 flachkopf
@@ -28887,7 +28887,7 @@ besteck
 flatworm
 flachwürmer
 flaubert
-zur schau stellen
+zurschaustellen
 ausgefallen
 flaunting
 flaunts
@@ -28900,7 +28900,7 @@ aromen
 geschmacklos
 aromen
 geschmack
-mit...-geschmack
+mit...geschmack
 aroma
 aromen
 flavourless
@@ -28948,7 +28948,7 @@ flieht
 flotte
 fleeted
 fleeter
-fliehen test
+fliehentest
 flüchtig
 flüchtig
 flotte
@@ -28970,7 +28970,7 @@ fletcher
 geflogen
 biegen
 gebeugt
-beugt sich
+beugtsich
 flexibilität
 flexibel
 flexibel
@@ -28980,11 +28980,11 @@ gleitzeit
 flexor
 flexoren
 gleitzeit
-biege-
+biege
 biegung
 biegungen
-junges gänschen
-heinzelmännchens wachtparade
+jungesgänschen
+heinzelmännchenswachtparade
 flick
 geschlagen
 flackern
@@ -29018,7 +29018,7 @@ flinging
 flings
 feuerstein
 flintier
-feuerstein elect
+feuersteinelect
 kieselartigkeit
 flintlock
 flintlocks
@@ -29058,7 +29058,7 @@ schwimmt
 floc
 ausflocken
 ausgeflockt
-flockt aus
+flocktaus
 flockend
 flockung
 herde
@@ -29112,7 +29112,7 @@ floppy
 flops
 flora
 flora
-blumen-
+blumen
 floras
 florenz
 florentin
@@ -29165,7 +29165,7 @@ fließen
 fließend
 flussdiagramm
 flussdiagramme
-ist geflossen
+istgeflossen
 blume
 geblüht
 blumiger
@@ -29281,7 +29281,7 @@ flattern
 flattert
 flattern
 fluvial
-der fluss
+derfluss
 fluss
 geflutet
 flüsse
@@ -29290,7 +29290,7 @@ fließen
 fliege
 wegfliegen
 flyblown
-fliegen durch
+fliegendurch
 flybys
 fliegenfänger
 fliegenfänger
@@ -29309,8 +29309,8 @@ flypast
 flypasts
 flyspeck
 fliegenfalle
-bewegen vergewaltigung
-weg fliegen
+bewegenvergewaltigung
+wegfliegen
 flyways
 fliegengewicht
 flyweights
@@ -29420,7 +29420,7 @@ folgen
 gefolgt
 anhänger
 anhänger
-es folgen
+esfolgen
 folge
 folgt
 torheit
@@ -29435,7 +29435,7 @@ lieb
 fondant
 fondants
 mittel
-am liebsten
+amliebsten
 streicheln
 streichelte
 streicheln
@@ -29527,7 +29527,7 @@ futter
 gefälscht
 futter
 futterbohrer
-seit ewigkeiten
+seitewigkeiten
 foraging
 foraker
 foramen
@@ -29588,7 +29588,7 @@ prognosen
 prognosen
 ausschließen
 ausgeschlossen
-schlägt aus
+schlägtaus
 abschottung
 abschottung
 zwangsvollstreckungen
@@ -29634,7 +29634,7 @@ vorarbeiter
 fockmast
 foremasts
 vorarbeiter
-vor allem
+vorallem
 vorname
 vorherrschend
 vornamen
@@ -29662,7 +29662,7 @@ vorhersehbarkeit
 absehbar
 vorhersehen
 vorausgesehen
-sieht voraus
+siehtvoraus
 vorahnung
 vorausgesagt
 foreshashing
@@ -29702,8 +29702,8 @@ foretokened
 foretokening
 foretokens
 vorausgesagt
-für immer
-für immer
+fürimmer
+fürimmer
 forewarn
 vorgewarnt
 vorwarnung
@@ -29714,7 +29714,7 @@ vorarbeiterin
 forewomen
 vorwort
 vorwort
-für weit
+fürweit
 einbüßen
 verfallen
 verfallen
@@ -29760,7 +29760,7 @@ vergessen
 vergessen
 löcher
 forint
-im freien
+imfreien
 forisfamiliate
 forisfamiliated
 forisfamiliates
@@ -29799,7 +29799,7 @@ formalisiert
 formalisieren
 formal
 form
-für mann
+fürmann
 format
 form
 bildung
@@ -29869,7 +29869,7 @@ offen
 ehrfürchtig
 aufrichtigkeit
 unverzüglich
-vierziger jahre
+vierzigerjahre
 fortieth
 fortieths
 befestigung
@@ -29884,7 +29884,7 @@ fortiori
 fortissimo
 kämpfer
 kraft
-vierzehn tage
+vierzehntage
 vierzehntägig
 vierzehntägige
 fortran
@@ -29905,7 +29905,7 @@ vierzig
 vierzig
 forum
 foren
-vorwärts-
+vorwärts
 weitergeleitet
 forwarder
 forwarder
@@ -30100,7 +30100,7 @@ frankest
 frankfort
 frankfurt
 frankfurter
-frankfurter würstchen
+frankfurterwürstchen
 weihrauch
 frankierung
 franklin
@@ -30210,7 +30210,7 @@ freestones
 freistil
 freidenker
 freethinkers
-freies denken
+freiesdenken
 freetown
 autobahn
 freeways
@@ -30222,7 +30222,7 @@ freewill
 einfrieren
 gefrierschrank
 gefriergeräte
-friert ein
+friertein
 einfrieren
 gebraten
 fracht
@@ -30236,7 +30236,7 @@ fremont
 französisch
 franzose
 frenchmen
-französische frau
+französischefrau
 frenchwomen
 frenetisch
 frenetisch
@@ -30275,10 +30275,10 @@ frischste
 freshet
 freshets
 frisch
-student im ersten jahr
+studentimerstenjahr
 neulinge
 frische
-frisches wasser
+frischeswasser
 fresnel
 fresno
 bund
@@ -30317,7 +30317,7 @@ kühlschränke
 gebraten
 friedman
 freund
-ohne freunde
+ohnefreunde
 freundlicher
 freundschaftsspiele
 freundlichste
@@ -30353,7 +30353,7 @@ frillier
 frilliest
 frilliness
 frills
-rüschen-
+rüschen
 franse
 gesäumt
 fransen
@@ -30409,7 +30409,7 @@ tummeln
 scherzen
 scherzhaft
 von
-von einem
+voneinem
 von
 wedel
 wedeln
@@ -30450,7 +30450,7 @@ schäumen
 schaumig
 schaumig
 stirnrunzeln
-runzelte die stirn
+runzeltediestirn
 stirnrunzelnd
 stirnrunzeln
 frowzier
@@ -30628,7 +30628,7 @@ funerary
 funereal
 kirmes
 funfairs
-pilz-
+pilz
 pilze
 fungible
 fungible
@@ -30657,7 +30657,7 @@ trichter
 trichter
 lustiger
 funnies
-am lustigsten
+amlustigsten
 lustig
 lustigkeit
 funning
@@ -30669,7 +30669,7 @@ stehlen
 falbel
 falten
 stören
-neu gebaut
+neugebaut
 flaviert
 stören
 furien
@@ -30713,14 +30713,14 @@ furchen
 pelz
 pelze
 schüchtern
-des weiteren
+desweiteren
 förderung
-weiter gefördert
+weitergefördert
 förderung
 außerdem
-am weitesten
+amweitesten
 fördert
-am weitesten
+amweitesten
 verstohlen
 verstohlen
 heimlichkeit
@@ -30752,7 +30752,7 @@ umständlichkeit
 fussing
 fusspot
 pingelig
-barchent-
+barchent
 fustier
 fustiest
 fustis
@@ -30772,7 +30772,7 @@ futurities
 futurologe
 futurologen
 futurologie
-verantwortlich für
+verantwortlichfür
 fuzes
 flaum
 unscharf
@@ -30929,7 +30929,7 @@ gallen
 gallenstein
 gallensteine
 gallup
-in hülle und fülle
+inhülleundfülle
 galosche
 galoshes
 gals
@@ -30995,7 +30995,7 @@ schinken
 gammons
 gams
 gamut
-bereich von
+bereichvon
 gänserich
 ganders
 gandhi
@@ -31041,7 +31041,7 @@ knastbruder
 höhepunkt
 gefängniswärter
 gaolers
-höheres alter
+höheresalter
 gaols
 spalt
 klaffen
@@ -31066,7 +31066,7 @@ garbles
 verstümmelung
 kleider
 gardein
-gard als
+gardals
 garten
 garten
 gärtner
@@ -31177,7 +31177,7 @@ vergasung
 vergasungen
 gashaltig
 gast
-magen-
+magen
 gastritis
 gastrointestinale
 gastronome
@@ -31254,7 +31254,7 @@ gaze
 gauzy
 gab
 hammer
-geschenk ton
+geschenkton
 realteilung
 gavellers
 übernehmen
@@ -31499,7 +31499,7 @@ genuflecting
 kniefall
 genuflects
 genuflexion
-original-
+original
 wirklich
 echtheit
 gattung
@@ -31661,7 +31661,7 @@ gurke
 gurken
 ghetto
 ghetto
-ghetto gemacht
+ghettogemacht
 ghettoisierungen
 ghettoing
 ghettoisieren
@@ -31703,7 +31703,7 @@ gibbs
 stichelei
 zogen
 gibes
-gibin g
+gibing
 giblet
 innereien
 gibraltar
@@ -31767,7 +31767,7 @@ minderwertig
 gimcracks
 handbohrer
 gimlets
-gib mir
+gibmir
 spielerei
 gimmert
 gimmicking
@@ -31896,7 +31896,7 @@ blicke
 blickend
 drüse
 drüsen
-drüsen-
+drüsen
 blendung
 glänzte
 grell
@@ -32130,10 +32130,10 @@ glyndebourne
 glyphe
 glyphen
 gm
-mittlere greenwich-zeit
+mittleregreenwichzeit
 gnarl
 knotig
-gnar ling
+gnarling
 gnarls
 knorrig
 knirschen
@@ -32201,7 +32201,7 @@ godalming
 patenkind
 patenkinder
 gottverdammt
-gott verdammt
+gottverdammt
 goddard
 patentochter
 gottstöcke
@@ -32225,7 +32225,7 @@ gottmütter
 pate
 paten
 götter
-geschenk des himmels
+geschenkdeshimmels
 götter
 patensohn
 götter
@@ -32235,7 +32235,7 @@ goer
 goers
 geht
 goethe
-mädchen für alles
+mädchenfüralles
 gofers
 goff
 goggle
@@ -32267,8 +32267,8 @@ golf
 golfiert
 golfspieler
 golfer
-golf spielen
-golf spielen
+golfspielen
+golfspielen
 goliath
 golly
 gomorra
@@ -32296,22 +32296,22 @@ schmiere
 goober
 goobers
 gut
-auf wiedersehen
-auf wiedersehen
-auf wiedersehen
+aufwiedersehen
+aufwiedersehen
+aufwiedersehen
 goodie
 goodies
 gut
 gut
-guter mann
+gutermann
 güte
-gute nacht
+gutenacht
 waren
-guten willen
+gutenwillen
 goodwin
-gutes holz
+gutesholz
 gutmütig
-gutes jahr
+gutesjahr
 klebrig
 goof
 goofed
@@ -32332,7 +32332,7 @@ gooiest
 gook
 gooks
 goole
-mach weiter
+machweiter
 gooney
 gooneys
 goons
@@ -32366,7 +32366,7 @@ stechginster
 gorton
 blutig
 gosforth
-meine güte
+meinegüte
 hühnerhabicht
 habicht
 gänschen
@@ -32632,7 +32632,7 @@ grapnels
 greifen
 kaputt
 greift
-auseinander greifen
+auseinandergreifen
 grasmere
 griff
 erfaßt
@@ -32721,7 +32721,7 @@ schwerkraft
 soße
 grau
 graubraun
-graue bärte
+grauebärte
 grau
 grau
 grau
@@ -32738,7 +32738,7 @@ streift
 grazier
 graziers
 weiden
-es ist
+esist
 fett
 gefettet
 fettlos
@@ -32775,7 +32775,7 @@ grün
 greenback
 greenbacks
 greenbelt
-grüne gürtel
+grünegürtel
 greene
 grünlich
 grüner
@@ -32788,7 +32788,7 @@ greenfly
 greengage
 greengages
 greengrocer
-obst- und gemüsehändler
+obstundgemüsehändler
 grünschnabel
 greenhorns
 gewächshaus
@@ -32801,7 +32801,7 @@ grüngemacht
 greenmails
 grün
 greenock
-grüner raum
+grünerraum
 greenrooms
 grüne
 greensboro
@@ -33068,7 +33068,7 @@ grovellers
 kriechen
 kriegt
 wälder
-größer werden
+größerwerden
 erzeuger
 züchter
 wachsend
@@ -33408,7 +33408,7 @@ gymnasien
 gymnasium
 gymnasien
 turner
-gymnastik-
+gymnastik
 gymnastik
 gymnasts
 gymnosperm
@@ -33428,7 +33428,7 @@ gynäkologe
 gynäkologen
 gynäkologie
 gyp
-übers ohr gehauen
+übersohrgehauen
 gypping
 gips
 zigeuner
@@ -33460,7 +33460,7 @@ gyrostabilizer
 gyrostabilisatoren
 gyves
 h
-er hat
+erhat
 haas
 habakkuk
 habeas
@@ -33496,10 +33496,10 @@ gewöhnung
 gewohnheit
 gewohnheiten
 gewohnt
-kleiden?
-kleiden? s
+kleiden
+kleidens
 sprechen
-sie sprechen
+siesprechen
 habsburg
 diese
 hazienda
@@ -33553,7 +33553,7 @@ hafnium
 hatte
 hafted
 hafting
-worden war,
+wordenwar
 hexe
 hagfish
 hagfishes
@@ -33626,7 +33626,7 @@ hellebarde
 halberds
 halcyon
 gesund
-halten blindheit
+haltenblindheit
 halbiert
 halesowen
 haley
@@ -33693,7 +33693,7 @@ halters
 halt
 stockend
 warte
-hält an
+hältan
 haltwhistle
 halvah
 halvahs
@@ -33770,7 +33770,7 @@ handschellen
 handel
 hander
 handers
-hand voll
+handvoll
 handvoll
 handfeuerwaffe
 handfeuerwaffen
@@ -33824,7 +33824,7 @@ handsets
 handshake
 handshakes
 handshaking
-gut aussehend
+gutaussehend
 hübsch
 handsomeness
 hübscher
@@ -33896,10 +33896,10 @@ geschehen
 passiert
 happening
 geschehen
-das passiert
+daspassiert
 zufall
 glücklicher
-am glücklichsten
+amglücklichsten
 glücklich
 glück
 glücklich
@@ -33948,10 +33948,10 @@ härter
 härten
 härtet
 schwerer
-am härtesten
+amhärtesten
 hartherzig
 härter
-am härtesten
+amhärtesten
 kühnheit
 hardincanute
 widerstandsfähigkeit
@@ -33965,12 +33965,12 @@ hardtack
 hardtacks
 hardtop
 hardtops
-hardware-
+hardware
 hardwick
-fest verdrahtet
+festverdrahtet
 hartholz
 hartholz
-hart arbeitend
+hartarbeitend
 winterhart
 hase
 harebell
@@ -34130,7 +34130,7 @@ eile
 eilen
 eilte
 beschleunigung
-beeilt sich
+beeiltsich
 eiliger
 hastigste
 hastig
@@ -34302,7 +34302,7 @@ stirnband
 stirnbänder
 kopfteil
 kopfbretter
-kopf käse
+kopfkäse
 kopfschmuck
 geleitet
 header
@@ -34314,7 +34314,7 @@ headhunt
 headhunted
 headhunts
 hübscher
-am stärksten
+amstärksten
 headily
 überschrift
 überschriften
@@ -34409,7 +34409,7 @@ anhörungen
 höre
 hörte
 hörend
-hört auf
+hörtauf
 hört
 hörensagen
 leichenwagen
@@ -34424,7 +34424,7 @@ herzensbrecher
 herzensbrecher
 herzzerreißend
 herzschmerzen
-herz gebrochen
+herzgebrochen
 sodbrennen
 herzlich
 herzlich
@@ -34457,7 +34457,7 @@ hitzig
 heizung
 heizungen
 heide
-heiden-
+heiden
 heidnischen
 heidentum
 heizt
@@ -34473,7 +34473,7 @@ himmel
 paradiesisch
 himmel
 himmlisch
-zum himmel
+zumhimmel
 hebt
 schwerer
 schwere
@@ -34572,7 +34572,7 @@ höhe
 erhöhen
 erhöht
 steigerung
-erhebt sich
+erhebtsich
 höhen
 heineken
 abscheulich
@@ -34753,7 +34753,7 @@ heralds
 kraut
 krautig
 herbage
-kräuter-
+kräuter
 herbalist
 herbalisten
 kräuter
@@ -34779,7 +34779,7 @@ hirt
 hirten
 hier
 hierfür
-hier herum
+hierherum
 jenseits
 hiermit
 erben
@@ -34791,7 +34791,7 @@ vererbung
 hereford
 hierfordshire
 hierin
-im folgenden
+imfolgenden
 hiervon
 hiermit
 heres
@@ -34811,7 +34811,7 @@ heriot
 heriots
 vererbbar
 erbe
-ihr mann
+ihrmann
 zwitter
 hermaphroditen
 hermaphroditisch
@@ -34847,8 +34847,8 @@ hering
 fischgrätmuster
 heringe
 ihres
-sie selber
-ihr hey
+sieselber
+ihrhey
 herstmonceux
 hertford
 hertfordshire
@@ -34988,7 +34988,7 @@ flugball
 hochgeboren
 highballing
 highballs
-hoch bindet
+hochbindet
 hochgeboren
 kommode
 highboys
@@ -35039,7 +35039,7 @@ wanderer
 wanderungen
 wandern
 urkomisch
-unglaublich witzig
+unglaublichwitzig
 heiterkeit
 hilary
 hilda
@@ -35277,7 +35277,7 @@ holborn
 halt
 reisetasche
 halten
-halte zurück
+haltezurück
 holdbacks
 halter
 inhaber
@@ -35391,7 +35391,7 @@ homesteaders
 homesteading
 gehöfte
 heimwärts
-nach hause
+nachhause
 hausaufgaben
 gemütlich
 mörderisch
@@ -35535,7 +35535,7 @@ ehren
 honshu
 fusel
 haube
-mit kapuze
+mitkapuze
 hooding
 ganove
 hoodlums
@@ -35793,13 +35793,13 @@ hotlines
 heiß
 schärfe
 hotpot
-frisiertes auto
+frisiertesauto
 hots
 überflieger
-hot shots
+hotshots
 geheilt
 heisser
-am heißesten
+amheißesten
 hotting
 houdini
 hough
@@ -35884,7 +35884,7 @@ heuler
 heuler
 heulen
 heult
-wie auch immer
+wieauchimmer
 heute
 boyden
 hoydens
@@ -35929,7 +35929,7 @@ schlägt
 huffy
 umarmung
 enorm
-sehr groß
+sehrgroß
 hugeness
 umarmte
 hugger
@@ -36147,7 +36147,7 @@ rasen
 geschleudert
 hurtles
 hurtling
-tut weh
+tutweh
 mann
 geheiratet
 ehemann
@@ -36459,7 +36459,7 @@ hypothetisch
 hypothetisch
 hypothyroid
 hypothyreose
-das kaninchen
+daskaninchen
 hyrax
 hyraxen
 ysop
@@ -36546,7 +36546,7 @@ ikosaeder
 icosahedron
 icus
 eisig
-ich würde
+ichwürde
 osten
 idaho
 hier
@@ -36569,7 +36569,7 @@ idealisieren
 idealisiert
 idealisiert
 idealisieren
-im idealfall
+imidealfall
 idealen
 ideen
 entworfen
@@ -36580,7 +36580,7 @@ ideation
 ideen
 ideen
 ideen
-die gleiche
+diegleiche
 identisch
 identisch
 identisch
@@ -36626,7 +36626,7 @@ idiotisch
 idiotisch
 idioten
 müßig
-im leerlauf
+imleerlauf
 faulheit
 leerlauf
 müßer
@@ -36676,7 +36676,7 @@ igneous
 zündfähig
 entzünden
 entzündet
-entzündet sich
+entzündetsich
 zünden
 zündung
 zündungen
@@ -36805,14 +36805,14 @@ phantasievoll
 phantasievoll
 einfallsreichtum
 vorstellen
-sich vorgestellt
-stellt sich vor
+sichvorgestellt
+stelltsichvor
 bildgebung
-sich vorstellen
+sichvorstellen
 vorstellungen
 bild
 imagoes
-ich habe
+ichhabe
 imame
 ungleichgewicht
 ungleichgewichte
@@ -36886,8 +36886,8 @@ einwandern
 einwanderung
 immigrationen
 drohen
-unmittelbar bevorstehend
-unmittelbar bevorsteht
+unmittelbarbevorstehend
+unmittelbarbevorsteht
 immingham
 immix
 unbeweglich
@@ -36983,7 +36983,7 @@ impaling
 untauglichkeit
 unempfindlich
 unauffällig
-als geschworenen einsetzen
+alsgeschworeneneinsetzen
 impaneled
 impaneling
 impanels
@@ -37199,7 +37199,7 @@ importunes
 eindringend
 einflüsse
 bedingungslosigkeit
-sich aufdrängen
+sichaufdrängen
 auferlegt
 auferlegt
 auferlegen
@@ -37310,7 +37310,7 @@ verbessern
 verbessert
 verbesserung
 verbesserungen
-verbessert sich
+verbessertsich
 leichtsinn
 improvisieren
 sorglos
@@ -37360,7 +37360,7 @@ im
 ein
 unfähigkeit
 unzugänglichkeit
-nicht zugänglich
+nichtzugänglich
 unzugänglich
 ungenauigkeiten
 ungenauigkeit
@@ -37385,7 +37385,7 @@ versehen
 versehentlich
 versehentlich
 unratsamkeit
-nicht ratsam
+nichtratsam
 unerwünscht
 unveräußerlich
 unveräußerlich
@@ -37399,7 +37399,7 @@ inanities
 inanition
 inanity
 unanwendbarkeit
-nicht anwendbar
+nichtanwendbar
 unauffällig
 unangemessen
 unangemessen
@@ -37589,8 +37589,8 @@ beliefert
 beeinträchtigt
 anpacken
 unbequem
-nicht übertragbar
-ohne kommunika
+nichtübertragbar
+ohnekommunika
 mitkommunikativ
 mitkommunikativ
 unverkäuflich
@@ -37619,7 +37619,7 @@ inkompressibel
 unvorstellbarkeit
 undenkbar
 unvorstellbar
-nicht schlüssig
+nichtschlüssig
 ergebnislos
 inkongruent
 inkongruities
@@ -37683,9 +37683,9 @@ unverbesserlich
 unbestechlichkeit
 unbestechlich
 unbestechlich
-erhöhen, ansteigen
+erhöhenansteigen
 erhöht
-erhöht sich
+erhöhtsich
 zunehmend
 zunehmend
 unglaubwürdigkeit
@@ -37833,7 +37833,7 @@ indianapolis
 inder
 zeigen
 angegeben
-zeigt an
+zeigtan
 anzeigen
 indikation
 indikationen
@@ -37854,7 +37854,7 @@ kennzeichen
 anklage
 anklage
 anklagen
-zeigt an
+zeigtan
 indies
 gleichgültigkeit
 gleichgültig
@@ -37878,7 +37878,7 @@ indigos
 indirekt
 indirekt
 indirekt
-nicht erkennbar
+nichterkennbar
 unmerklich
 disziplinlosigkeit
 indiskret
@@ -37901,7 +37901,7 @@ unauflöslichkeit
 unauflöslich
 undeutlich
 undeutlich
-nicht zu unterscheiden
+nichtzuunterscheiden
 ununterscheidbar
 indite
 indium
@@ -38039,7 +38039,7 @@ uneleganz
 unelegant
 unelegant
 unzulässigkeit
-nicht zuschussfähig
+nichtzuschussfähig
 unzulässigkeit
 unaufrichtbarkeit
 unausweichlich
@@ -38073,7 +38073,7 @@ zwangsläufig
 ungenau
 ungenauigkeit
 ungenauigkeiten
-in genau
+ingenau
 unentschuldbar
 unentschuldbar
 undurchführbar
@@ -38208,7 +38208,7 @@ infixe
 infixierung
 entflammen
 entzündet
-in flammen
+inflammen
 entzünden
 entflammbar
 brennbar
@@ -38241,7 +38241,7 @@ zufügen
 zugefügt
 zufügen
 zufügung
-fügt hinzu
+fügthinzu
 blütenstand
 zufluss
 zuflüsse
@@ -38298,7 +38298,7 @@ verletzt
 verletzen
 infurieren
 wütend
-ärgert sich
+ärgertsich
 ärgerlich
 aufreizend
 erregung
@@ -38319,7 +38319,7 @@ einfallsreichtum
 genial
 naiv
 ingenuousness
-freier mann
+freiermann
 ingersoll
 aufnehmen
 aufgenommen
@@ -38331,7 +38331,7 @@ unrühmlich
 barren
 barren
 ingrain
-tief verwurzelt
+tiefverwurzelt
 ingraining
 ingrains
 undankbare
@@ -38346,7 +38346,7 @@ zutat
 zutaten
 eintreten
 ingrid
-sich kreuzen
+sichkreuzen
 einwachsen
 eingewachsen
 bewohnen
@@ -38374,7 +38374,7 @@ inhaliert
 einatmen
 unharmonisch
 unharmonisch
-hier drin
+hierdrin
 geerbt
 inhärenz
 inhärent
@@ -38463,10 +38463,10 @@ injektion
 injektionen
 injektor
 injektoren
-spritzt ein
+spritztein
 unklug
 unachtsam
-einstweilige verfügung
+einstweiligeverfügung
 unterlassungsansprüche
 unterlassungskraft
 verletzen
@@ -38486,7 +38486,7 @@ inkblots
 eingefärbt
 inkhorn
 inkhorns
-ink-jet
+inkjet
 tierischste
 färben
 inkjet
@@ -38509,7 +38509,7 @@ einlass
 einlässe
 insasse
 häftling
-in den meisten
+indenmeisten
 gasthaus
 innereien
 angeboren
@@ -38558,7 +38558,7 @@ inofficious
 inoperable
 unwirksam
 unangemessen
-zur unzeit
+zurunzeit
 unangemessen
 unangemessen
 anorganisch
@@ -38573,7 +38573,7 @@ anfragen
 erfragt
 frau
 fragen
-erkundigt sich
+erkundigtsich
 anfragen
 fragen
 fragend
@@ -38653,7 +38653,7 @@ einsätze
 einsatz
 einsätze
 einlage
-an land
+anland
 innen
 insider
 insider
@@ -38682,14 +38682,14 @@ fade
 fieber
 fälschlicherweise
 fadheit
-darauf bestehen
+daraufbestehen
 beharrte
 beharren
 unauffällig
 beharrlich
 beharrlich
 beharrt
-besteht darauf
+bestehtdarauf
 insobriety
 insofern
 insolation
@@ -38821,7 +38821,7 @@ lehrer
 lehrer
 lehrerin
 instructresses
-weist an
+weistan
 instrument
 instrumental
 instrumentalist
@@ -38842,7 +38842,7 @@ insuffizienz
 unzureichend
 ungenügend
 insel
-die inseln
+dieinseln
 insular
 insularität
 isolieren
@@ -38893,10 +38893,10 @@ immaterielle
 immateriell
 immateriellen
 immateriell
-ganze zahl
-ganze zahlen
+ganzezahl
+ganzezahlen
 integra
-integral-
+integral
 integral
 integrals
 mitglied
@@ -39024,7 +39024,7 @@ gegensprechanlagen
 verbinden
 verbunden
 vernetzung
-miteinander verbinden
+miteinanderverbinden
 zusammenschaltung
 zusammenhänge
 zusammenhänge
@@ -39035,7 +39035,7 @@ abteilungsübergreifend
 abteilungsübergreifend
 interdependenz
 interdependenzen
-voneinander abhängig
+voneinanderabhängig
 interdikt
 verboten
 interdicting
@@ -39079,7 +39079,7 @@ zwischenruf
 interjektionen
 interjector
 interjektionen
-spritzt ein
+spritztein
 verschachteln
 interlaced
 interlaces
@@ -39139,9 +39139,9 @@ vermittler
 begräbnis
 interments
 intermesh
-ineinander greifen
+ineinandergreifen
 intermeshes
-ineinander greifen
+ineinandergreifen
 zwischenspiele
 intermezzo
 intermezzos
@@ -39149,7 +39149,7 @@ endlos
 endlos
 vermischen
 vermischt
-vermischt sich
+vermischtsich
 vermischen
 pause
 einreichungen
@@ -39179,7 +39179,7 @@ verinnerlichen
 verinnerlicht
 verinnerlicht
 verinnerlicht
-im inneren
+iminneren
 einbauten
 international
 internationalisierung
@@ -39238,7 +39238,7 @@ interpolator
 interpolatoren
 einfügen
 eingefügt
-schlägt ein
+schlägtein
 interposing
 interposition
 interpretieren
@@ -39268,7 +39268,7 @@ zusammenhänge
 interringieren
 abfragen
 verhört
-fragt ab
+fragtab
 abfragen
 verhör
 verhörungen
@@ -39345,7 +39345,7 @@ intestacies
 intestacy
 intestate
 intestate
-darm-
+darm
 darm
 innereien
 intimitäten
@@ -39422,7 +39422,7 @@ intrinsisch
 intro
 vorstellen
 eingeführt
-führt ein
+führtein
 einbringen
 einführung
 einführungen
@@ -39480,16 +39480,16 @@ inured
 abhärtung
 inurements
 inures
-inulin g
+inuling
 einfallen
 eingedrungen
 eindringling
 eindringlinge
 eindringt
-invasion-
+invasion
 ungültig
-ungültig machen
-ungültig gemacht
+ungültigmachen
+ungültiggemacht
 ungültig
 ungültig
 ungültig
@@ -39607,18 +39607,18 @@ einladen
 eingeladen
 einladen
 einladen
-lädt ein
+lädtein
 einladend
 einladend
 aufruf
 aufruf
 rechnung
-in rechnung gestellt
+inrechnunggestellt
 rechnungen
 fakturierung
 aufrufen
 aufgerufen
-ruft an
+ruftan
 aufrufen
 unwillkürlich
 unwillkürlich
@@ -39634,7 +39634,7 @@ unverwundbar
 innere
 innerlich
 innerlichkeit
-nach innen
+nachinnen
 jodid
 iodide
 iodinat
@@ -39678,7 +39678,7 @@ sehr
 ipswich
 ira
 iraklion
-ich rannte
+ichrannte
 iranisch
 iraner
 irak
@@ -39708,7 +39708,7 @@ irisch
 ire
 irländer
 irin
-irischen frauen
+irischenfrauen
 ärgern
 ärgerte
 irking
@@ -39756,7 +39756,7 @@ unwiderruflich
 unwiderruflich
 irredentismus
 irredentist
-nicht reduzierbar
+nichtreduzierbar
 irreduzibel
 unwiderlegbarkeit
 unwiderlegbar
@@ -39779,7 +39779,7 @@ irremisible
 unentfernbarkeit
 unentbehrlich
 unwiderruflich
-nicht reparierbar
+nichtreparierbar
 irreparabel
 irrepealable
 unersetzlich
@@ -39791,7 +39791,7 @@ unbändiger
 unbändiger
 untadelig
 tadellos
-nicht reproduzierbar
+nichtreproduzierbar
 unwiderstehlichkeit
 unwiderstehlich
 unwiderstehlich
@@ -39799,7 +39799,7 @@ unentschlossen
 unschlüssig
 unentschlossenheit
 unlösbar
-unabhängig davon
+unabhängigdavon
 unwiderruflich
 unbreathable
 verantwortungslosigkeit
@@ -39870,7 +39870,7 @@ insel
 insulaner
 inselbewohner
 inseln
-ich schlachte
+ichschlachte
 insel
 isles
 inselchen
@@ -39881,7 +39881,7 @@ iso
 isobare
 isobarisch
 isobaren
-auf iso schildkröten
+aufisoschildkröten
 isogamites
 isolieren
 isoliert
@@ -39956,7 +39956,7 @@ italien
 jucken
 juckreiz
 juckt
-es t chie r
+estchier
 itchiest
 juckreiz
 juckreiz
@@ -39968,7 +39968,7 @@ aufgestellt
 gegenstände
 itemising
 artikelierung
-stellen sie ein
+stellensieein
 aufgestellt
 artikel
 aufstellung
@@ -39980,7 +39980,7 @@ iterieren
 iteration
 iterationen
 iterativ
-wander-
+wander
 wanderer
 reiserouten
 route
@@ -40123,7 +40123,7 @@ janus
 japan
 japanisch
 japanned
-japan garten
+japangarten
 japanisch
 scherz
 jped
@@ -40447,7 +40447,7 @@ schreiner
 schreiner
 tischlerei
 beitreten
-schließt sich an
+schließtsichan
 joint
 gegliedert
 zusammenfügen
@@ -40473,7 +40473,7 @@ joker
 witze
 jokester
 jokey
-witze machen
+witzemachen
 scherzhaft
 jollier
 lustigste
@@ -40504,7 +40504,7 @@ joshing
 joshua
 josiah
 joss
-meine güte
+meinegüte
 jostens
 gedränge
 gedreht
@@ -40657,7 +40657,7 @@ saftig
 saftigkeit
 entsaften
 saftig
-tag des herrn
+tagdesherrn
 juju
 jujube
 jujubes
@@ -40688,7 +40688,7 @@ sprang
 jumper
 brücken
 springender
-am stärksten
+amstärksten
 jumpily
 nervosität
 springen
@@ -40772,7 +40772,7 @@ gerechtigkeiten
 gerechtigkeit
 berechtigung
 gerechtfertigt
-zu recht
+zurecht
 rechtfertigung
 begründungen
 rechtfertiger
@@ -40787,7 +40787,7 @@ justin
 justine
 justinian
 gerechtigkeit
-mit recht
+mitrecht
 gerechtigkeit
 kommen
 jute
@@ -40799,10 +40799,10 @@ jugendlich
 juvenile
 juvenilia
 jugendlichkeit
-nebeneinander stellen
-nebeneinander gestellt
+nebeneinanderstellen
+nebeneinandergestellt
 gegenüberstellungen
-nebeneinander stellen
+nebeneinanderstellen
 nebeneinander
 gegenüberstellungen
 k
@@ -40838,7 +40838,7 @@ känguru
 kängurus
 kansas
 kaolin
-ich erhalte
+icherhalte
 kappa
 tor
 karachi
@@ -40873,7 +40873,7 @@ kajak
 kajaks
 kayla
 sie
-nehmen sie an d
+nehmensieand
 kayoing
 kayos
 kasachstan
@@ -40909,7 +40909,7 @@ kielte
 kiel
 keelson
 keelsons
-daran interessiert
+daraninteressiert
 keened
 schärfer
 schärfsten
@@ -40951,7 +40951,7 @@ kennet
 kenneth
 kenney
 theorie
-lehren ing
+lehrening
 kenny
 keno
 kena
@@ -41023,7 +41023,7 @@ tastaturen
 tastendruck
 schlüsseldrücke
 keypunch
-kete ein
+keteein
 keypunches
 keypunching
 schlüssel
@@ -41155,7 +41155,7 @@ kindergartener
 kindergärtner
 kindergärten
 kindergartner
-am freundlichsten
+amfreundlichsten
 entzünden
 entzündet
 entzündet
@@ -41324,7 +41324,7 @@ kniete
 kneeler
 knien
 kniend
-kniet sich
+knietsich
 knieschoner
 knieschoner
 knie
@@ -41338,7 +41338,7 @@ knickerbocker
 knickerbockers
 schlüpfer
 knickknack
-knick knacks
+knickknacks
 messer
 kniff
 witzig
@@ -41600,7 +41600,7 @@ laktose
 lacuna
 lacunae
 lücken
-spitzen-
+spitzen
 junge
 leiter
 geleitet
@@ -41671,7 +41671,7 @@ lamaseries
 lamasery
 lamm
 lambast
-fertig machen
+fertigmachen
 lambasted
 lambastes
 lambasting
@@ -41701,7 +41701,7 @@ klagend
 klagt
 lamer
 klingen
-am ehesten
+amehesten
 lamina
 laminae
 laminar
@@ -41897,7 +41897,7 @@ larry
 larve
 larven
 larval
-kehlkopf-
+kehlkopf
 kehlkopf
 laryngitis
 laryngologen
@@ -41913,7 +41913,7 @@ lasagne
 lasziv
 lüstern
 lüsternheit
-laser-
+laser
 laserjet
 lasers
 peitsche
@@ -41946,7 +41946,7 @@ latchkeys
 spät
 spät
 spät
-in letzter zeit
+inletzterzeit
 latenzen
 latenz
 verspätung
@@ -42163,7 +42163,7 @@ blatt
 laubwerk
 blätterte
 blatt
-am wenigsten
+amwenigsten
 blattigkeit
 blättern
 blattlos
@@ -42193,13 +42193,13 @@ leal
 lealte
 leamington
 lehnen
-lehnte sich
+lehntesich
 schlanker
 schlanksten
 lehnend
 lehnt
 magerkeit
-lehnt sich
+lehntsich
 lehnte
 sprung
 gesprungen
@@ -42235,8 +42235,8 @@ gepachtet
 leinen
 leine
 leasing
-am wenigsten
-am wenigsten
+amwenigsten
+amwenigsten
 leder
 gekleidet
 kunstleder
@@ -42304,19 +42304,19 @@ misstrauisch
 lesen
 leet
 leets
-lee-
+lee
 spielraum
 links
 lefties
 linkismus
 linke
 linke
-ganz links
-übrig bleiben
+ganzlinks
+übrigbleiben
 reste
 linke
-nach links
-nach links
+nachlinks
+nachlinks
 lefty
 bein
 legaten
@@ -42417,7 +42417,7 @@ legitimiert
 legitimieren
 legitim
 legitim
-ohne beine
+ohnebeine
 beinfreiheit
 legrooms
 beine
@@ -42473,7 +42473,7 @@ verlängert
 verlängerung
 verlängert
 länger
-am längsten
+amlängsten
 ausführlich
 langigkeit
 längen
@@ -42527,7 +42527,7 @@ leptonen
 leroy
 lerwick
 lesben
-lesbische liebe
+lesbischeliebe
 lesben
 lesen
 lesen
@@ -42549,7 +42549,7 @@ lektion
 unterricht
 vermieter
 leasinggeber
-damit nicht
+damitnicht
 lester
 lassen
 letchworth
@@ -42560,7 +42560,7 @@ tödlich
 lethargisch
 lethargisch
 lethargie
-lasst uns
+lasstuns
 brief
 briefkasten
 briefkästen
@@ -42575,7 +42575,7 @@ briefe
 letterset
 lassen
 vermietung
-grüner salat
+grünersalat
 kopfsalat
 nachlassen
 leukoplast
@@ -42605,7 +42605,7 @@ nutzt
 nutzen
 geheftet
 geliefert
-live-rechtliche
+liverechtliche
 lieferung
 hebel
 levi
@@ -42719,7 +42719,7 @@ liberalistisch
 libertarianismus
 libertären
 freiheits
-freiheit raub
+freiheitraub
 freiheiten
 libertin
 libertines
@@ -42779,7 +42779,7 @@ leckt
 lakritze
 deckel
 deckel
-ohne deckel
+ohnedeckel
 lido
 deckel
 lüge
@@ -42855,7 +42855,7 @@ beleuchtung
 feuerschiff
 lichtschiffe
 leicht
-leichte gewichte
+leichtegewichte
 lüttich
 lüttich
 hartnäckig
@@ -42867,7 +42867,7 @@ mögen
 sympathisch
 gefallen
 wahrscheinlicher
-am wahrscheinlichsten
+amwahrscheinlichsten
 wahrscheinlichkeit
 wahrscheinlichkeit
 wahrscheinlich
@@ -42981,7 +42981,7 @@ linefeed
 linefeeds
 lineman
 linemen
-leinen-
+leinen
 bettwäsche
 liner
 liner
@@ -43107,12 +43107,12 @@ unecht
 geschmeidig
 liste
 aufgeführt
-hör mal zu
-hörte zu
+hörmalzu
+hörtezu
 hörer
 zuhörer
 hören
-hört zu
+hörtzu
 lister
 listers
 auflistung
@@ -43132,7 +43132,7 @@ litem
 liter
 punkt
 alphabetisierung
-der brief
+derbrief
 wörtlich
 literalismus
 buchstäblich
@@ -43145,7 +43145,7 @@ literatur
 liter
 geschmeidig
 leise
-ein chromosom
+einchromosom
 lithium
 litho
 lithographie
@@ -43187,7 +43187,7 @@ wenig
 littleborough
 littlehampton
 littler
-am geringsten
+amgeringsten
 littleton
 litton
 littoral
@@ -43208,7 +43208,7 @@ lebendigste
 lebensunterhalt
 lebensunterhalt
 lebendigkeit
-lebe lang
+lebelang
 lebendig
 beleben
 belebt
@@ -43424,7 +43424,7 @@ löss
 dachboden
 lofted
 höherer
-am höchsten
+amhöchsten
 hoch
 erhabenheit
 lofting
@@ -43513,11 +43513,11 @@ langbogen
 longbows
 sehnsüchtig
 länger
-am längsten
+amlängsten
 langlebigkeit
 longfellow
 longford
-lange haare
+langehaare
 langschrift
 longhorn
 longhorns
@@ -43526,12 +43526,12 @@ sehnsüchtig
 sehnsucht
 längst
 länge
-in längsrichtung
+inlängsrichtung
 längs
-in längsrichtung
+inlängsrichtung
 longleaf
 langlebig
-sehnt sich
+sehntsich
 hafenarbeiter
 longshoremen
 lonsdale
@@ -43548,8 +43548,8 @@ blicker
 suchen
 achtung
 ausblicke
-sieht aus
-sieh nach oben
+siehtaus
+siehnachoben
 webstuhl
 drohte
 drohend
@@ -43557,7 +43557,7 @@ webstühle
 loon
 vieler
 loonies
-am längsten
+amlängsten
 loons
 verrückt
 schleife
@@ -43577,7 +43577,7 @@ lösen
 gelockert
 lockerheit
 lockerung
-löst sich
+löstsich
 locker
 verliert
 lose
@@ -43601,14 +43601,14 @@ schief
 redselig
 rücksichtslos
 redseligkeit
-er spricht
+erspricht
 loralisch
 laurent
 herr
 herrsch
 lording
 oberhosmarschall
-herr liest
+herrliest
 überheblichkeit
 herrlich
 lords
@@ -43632,7 +43632,7 @@ verliert
 verlieren
 verlust
 verluste
-hat verloren
+hatverloren
 los
 loth
 lothian
@@ -43649,7 +43649,7 @@ lotusse
 lou
 laut
 lauter
-am lautesten
+amlautesten
 lautsprecher
 lautsprecher
 laut
@@ -43694,7 +43694,7 @@ loutish
 loutishness
 louts
 jalousie
-lud aus
+ludaus
 louvers
 louvre
 louvres
@@ -43722,7 +43722,7 @@ liebeskummer
 liebend
 liebevoll
 niedrig
-von niedriger geburt
+vonniedrigergeburt
 lowboy
 lowboys
 lowbrow
@@ -43733,7 +43733,7 @@ kleinbuchstaben
 abgesenkt
 senkung
 unterste
-senkt sich
+senktsich
 niedrigste
 niedrigste
 erniedrigend
@@ -43790,7 +43790,7 @@ lucit
 glück
 glück
 glücklicher
-am glücklichsten
+amglücklichsten
 glücklicherweise
 glücklos
 lucknow
@@ -43805,7 +43805,7 @@ lucubratt
 lucubrated
 lucubratt
 lucubrating
-geistige arbeit
+geistigearbeit
 lucy
 ludic
 lächerlich
@@ -43864,7 +43864,7 @@ lummox
 lummoxen
 klumpen
 lumpektomien
-weite exzision
+weiteexzision
 gespritzt
 lumpfish
 lumpfishes
@@ -43878,7 +43878,7 @@ lumpur
 klumpig
 lunacies
 wahnsinn
-mond-
+mond
 verrückt
 verrückte
 lunation
@@ -43967,7 +43967,7 @@ luxemburg
 üppig
 luxuriös
 geschätzt
-ärgert sich
+ärgertsich
 luxuriös
 luxuriös
 luxuriös
@@ -44134,11 +44134,11 @@ wütend
 madagascan
 madagascans
 madagaskar
-gnädige frau
+gnädigefrau
 madame
 madams
 verrücktheit
-verrückt machen
+verrücktmachen
 verrückt
 verrückt
 unerträglich
@@ -44157,7 +44157,7 @@ madhouses
 madison
 verrückt
 verrückt
-verrückte männer
+verrücktemänner
 wahnsinn
 madonna
 madras
@@ -44283,7 +44283,7 @@ mahatma
 mahatmas
 mahler
 mahagonen
-mahagoni-
+mahagoni
 mahout
 mahouts
 maid
@@ -44401,9 +44401,9 @@ malachi
 malachit
 unangemessen
 krankheiten
-falsch eingestellt
+falscheingestellt
 maljustierung
-missstand in der verwaltungstätigkeit
+missstandinderverwaltungstätigkeit
 umständlich
 maladroitly
 krankheit
@@ -44416,7 +44416,7 @@ malapropismus
 wortverwechslungen
 malapropos
 malaria
-malaria-
+malaria
 malarkey
 malawi
 malawischen
@@ -44500,9 +44500,9 @@ unterernährung
 klein
 übelriechen
 übelriechend
-schlechte gerüchte
-schlechten geruch
-schlechten schlechten
+schlechtegerüchte
+schlechtengeruch
+schlechtenschlechten
 missbilligung
 fehlverhalten
 malz
@@ -44534,7 +44534,7 @@ mamboing
 mambos
 mama
 säugetier
-säugetier-
+säugetier
 säugetiere
 säugetiere
 mamma
@@ -44542,7 +44542,7 @@ mutter
 mommies
 mammographie
 mammon
-mammut-
+mammut
 mammuts
 mammy
 mann
@@ -44554,7 +44554,7 @@ verwalten
 verwaltbarkeit
 überschaubar
 überschaubar
-gelang es
+gelanges
 management
 leitungen
 manager
@@ -44590,7 +44590,7 @@ mandat
 beauftragt
 mandate
 beauftragen
-zwingend notwendig
+zwingendnotwendig
 unterkiefer
 mandibles
 mandoline
@@ -44661,7 +44661,7 @@ manifestieren
 offensichtlich
 manifest
 manifestos
-manifestiert sich
+manifestiertsich
 vielfältig
 mannigfaltigkeiten
 männchen
@@ -44705,7 +44705,7 @@ manierismen
 manierist
 manieristen
 gelegentlich
-sitten und bräuche
+sittenundbräuche
 mannheim
 besatzung
 männlich
@@ -44722,7 +44722,7 @@ manorbier
 manorial
 herrenhäuser
 arbeitskräfte
-andernfalls?
+andernfalls
 mans
 mansarde
 dachboden
@@ -44766,7 +44766,7 @@ herstellung
 hergestellt
 hersteller
 hersteller
-stellt her
+stellther
 herstellung
 manumission
 manumissionen
@@ -44803,7 +44803,7 @@ rassel
 maracas
 maraschinokirsche
 maraschinos
-marathon-
+marathon
 marathoner
 marathonläufer
 marathons
@@ -44872,7 +44872,7 @@ ränder
 margl
 margo
 margot
-manch ein
+manchein
 viel
 margerite
 marguerites
@@ -45272,7 +45272,7 @@ immatrikulieren
 immatrikulation
 matriculationen
 matrilineal
-ehe-
+ehe
 ehelichen
 ehe
 matrix
@@ -45386,7 +45386,7 @@ maya
 maya
 mayans
 maya
-könnte sein
+könntesein
 maybes
 maifeiertag
 maydays
@@ -45496,7 +45496,7 @@ mäander
 schlängelte
 schlängelnd
 mäanderhaft
-schlängelt sich
+schlängeltsich
 gemein
 gemein
 meanies
@@ -45790,17 +45790,17 @@ memorialisiert
 memorialisierung
 denkmäler
 erinnerungen
-auswendig lernen
-sich einprägen
-auswendig gelernt
+auswendiglernen
+sicheinprägen
+auswendiggelernt
 merken
-auswendig lernen
+auswendiglernen
 speicher
-auswendig lernen
-sich einprägen
-auswendig gelernt
+auswendiglernen
+sicheinprägen
+auswendiggelernt
 speichert
-auswendig lernen
+auswendiglernen
 erinnerung
 memos
 memphis
@@ -45851,7 +45851,7 @@ tabelle
 mensaris
 monatlich
 menses
-menstruation-
+menstruation
 menstruieren
 menstruiert
 menstruiert
@@ -45866,12 +45866,12 @@ geistig
 geist
 minze
 menthol
-menthol-
+menthol
 erwähnen
 erwähnt
 erwähnen
 erwähnt
-der geist
+dergeist
 mentition
 mentor
 mentoren
@@ -46011,7 +46011,7 @@ gekröse
 mesh
 vermischt
 maschen
-ineinander greifen
+ineinandergreifen
 hypnotisieren
 hypnotisiert
 mesmerises
@@ -46059,7 +46059,7 @@ unordentlich
 mestize
 mestizos
 getroffen
-stoffwechsel-
+stoffwechsel
 metabolisch
 metabolisieren
 metabolisiert
@@ -46092,7 +46092,7 @@ metallurgie
 metalle
 metallarbeiten
 schlosser
-metall arbeiter
+metallarbeiter
 metallbearbeitung
 metamorphen
 metamorphismus
@@ -46124,7 +46124,7 @@ metastasieren
 metastasiert
 metastasierung
 metastasierung
-mittelfuß-
+mittelfuß
 metatarsalen
 mittelfuß
 naturalpacht
@@ -46204,7 +46204,7 @@ metronom
 metronome
 metropole
 metropolen
-metropolitan-
+metropolitan
 metropolitaner
 meter
 mets
@@ -46232,7 +46232,7 @@ mittel
 mezzos
 mezzotinto
 mezzotints
-m? tier
+mtier
 kunsthandwerk
 mg
 mho
@@ -46240,9 +46240,9 @@ mhos
 meine
 miami
 miauen
-s wed
-zweite flügel
-s online
+swed
+zweiteflügel
+sonline
 miasma
 miasmal
 miasmas
@@ -46359,14 +46359,14 @@ mücke
 mücken
 zwerg
 zwerge
-midi-
+midi
 zwischen
 midland
 midlander
 midlanders
 midlands
 midlothian
-mitte morgen
+mittemorgen
 mitternacht
 mittelpunkt
 mittelpunkte
@@ -46383,12 +46383,12 @@ midships
 mittelgroß
 mitte
 midstream
-hochsommer-
+hochsommer
 midtown
-auf halbem weg
+aufhalbemweg
 mittlerweile
 woche
-mittlerer westen
+mittlererwesten
 mittelwesten
 midwester
 midwesters
@@ -46482,7 +46482,7 @@ militarisieren
 militarisiert
 militarisiert
 militarisieren
-militär-
+militär
 sprechen
 militiert
 militiert
@@ -46669,7 +46669,7 @@ mineworker
 mineworkers
 mischen
 vermischt
-vermischt sich
+vermischtsich
 vermischung
 mini
 miniatur
@@ -46770,7 +46770,7 @@ minuend
 minuends
 menuett
 minuets
-minus-
+minus
 minuscule
 minus
 minute
@@ -46789,14 +46789,14 @@ miozän
 mirabelle
 wunder
 wunder
-wunder-
-auf wundersame weise
-fata morgana
+wunder
+aufwundersameweise
+fatamorgana
 mirages
 miranda
 was
 gemischt
-sie schauen
+sieschauen
 miriam
 neigung
 spiegel
@@ -46825,14 +46825,14 @@ misanthropisch
 menschenfeind
 misanthropisten
 misanthropie
-falsche anwendung
-falsche anwendungen
-falsch angelegt
+falscheanwendung
+falscheanwendungen
+falschangelegt
 missbilligt
-falsch anwenden
-falsch anwenden
+falschanwenden
+falschanwenden
 missverständlich
-falsch verstanden
+falschverstanden
 missverständlich
 fehlt
 missverständnis
@@ -46847,7 +46847,7 @@ misbecame
 misbecome
 misbecomes
 misbecoming
-falsch gemacht
+falschgemacht
 missbilligen
 missbilligt
 misbehaves
@@ -46861,13 +46861,13 @@ missgläubig
 misbeliever
 missbilligt
 falsch
-falsch berechnen
-falsch berechnet
+falschberechnen
+falschberechnet
 fälschlicherweise
 fehlerhaft
 fehlkalkulation
 fehlschlüsse
-falsch bewerten
+falschbewerten
 abgefangen
 missbilligend
 miscalls
@@ -46902,7 +46902,7 @@ missverstanden
 missverständnisse
 missverständnis
 missverständnis
-falsche vorstellungen
+falschevorstellungen
 fehlverhalten
 missdeutung
 missverstanden
@@ -46920,11 +46920,11 @@ miscue
 falsch
 miscues
 miscuing
-falsch datieren
+falschdatieren
 misdated
 misdates
 misdating
-sich vergeben
+sichvergeben
 misdealing
 misdeals
 misdealt
@@ -46977,11 +46977,11 @@ misgauged
 misgauging
 bedenken
 bedenken
-schlecht regieren
+schlechtregieren
 falsch
 missbräuchlich
 misswirtschaft
-misg regiert
+misgregiert
 verleiten
 fehlgeleitet
 fehlgeleitet
@@ -46992,7 +46992,7 @@ mischungen
 mißhandeln
 missgeschick
 pannen
-falsch hören
+falschhören
 verhört
 falsch
 falsch
@@ -47000,59 +47000,59 @@ mischmasch
 mishmashes
 falschidentifikation
 falschidentifikationen
-falsch identifiziert
-falsch identifiziert
-falsch identifizieren
-falsch identifizieren
-falsch informieren
+falschidentifiziert
+falschidentifiziert
+falschidentifizieren
+falschidentifizieren
+falschinformieren
 fehlinformation
-falsch informiert
-falsch informieren
-falsch informiert
-falsch interpretieren
+falschinformiert
+falschinformieren
+falschinformiert
+falschinterpretieren
 fehlinterpretation
 fehlinterpretationen
-falsch interpretiert
-falsch interpretieren
+falschinterpretiert
+falschinterpretieren
 fehlinterpretiert
 misjoinder
 misjoinders
 verkennen
-falsch eingeschätzt
+falscheingeschätzt
 fehleinschätzung
-falsche einschätzungen
+falscheeinschätzungen
 fehleinschätzungen
-falsch verurteilen
+falschverurteilen
 fehleinschätzung
-falsche entscheidungen
+falscheentscheidungen
 mislabel
-falsch markiert
+falschmarkiert
 fehlerhaft
-falsch markiert
+falschmarkiert
 mislabelling
 mislabels
 verlegt
 verlegen
-falsch machen
+falschmachen
 verkehrt
 irreführen
 irreführend
 irreführend
 irreführt
 irregeführt
-schlecht verwalten
+schlechtverwalten
 mismanaged
 misswirtschaft
 mismanagen
 mismanaging
-nicht übereinstimmen
-nicht übereinstimmend
+nichtübereinstimmen
+nichtübereinstimmend
 mismatches
-nicht übereinstimmen
-unzutreffend benennen
-falsch benannt
+nichtübereinstimmen
+unzutreffendbenennen
+falschbenannt
 falschnamen
-falsch benennen
+falschbenennen
 falsch
 falschmänner
 misogam
@@ -47063,7 +47063,7 @@ misogynisten
 misogyn
 misogynie
 falsch
-falsch gemacht
+falschgemacht
 misperceives
 fehlerhaft
 verlegen
@@ -47079,43 +47079,43 @@ misplays
 mispleading
 mispleadings
 druckfehler
-falsch bedruckt
+falschbedruckt
 falschdruck
 druckfehler
 falsch
 falsch
-falsch aussprechen
-falsch ausgesprochen
-falsch ausgesprochen
-falsch aussprechen
-falsche aussprache
-falsche aussprachen
-falsches zitat
+falschaussprechen
+falschausgesprochen
+falschausgesprochen
+falschaussprechen
+falscheaussprache
+falscheaussprachen
+falscheszitat
 misquotations
-falsch zitieren
-falsch zitiert
-falsch zitiert
+falschzitieren
+falschzitiert
+falschzitiert
 falsch
-falsch verstanden
-falsch lesen
+falschverstanden
+falschlesen
 falsch
-falsch machen
-falsch gerüstet
-falsch rechnen
+falschmachen
+falschgerüstet
+falschrechnen
 misreckons
 misrelate
 misrelated
 misrelates
 misrelating
-falsch melden
-falsch gemeldet
-falsch berichten
-falsch meldet
-falsch darstellen
-falsche darstellung
-falsche darstellungen
-falsch dargestellt
-falsch darstellen
+falschmelden
+falschgemeldet
+falschberichten
+falschmeldet
+falschdarstellen
+falschedarstellung
+falschedarstellungen
+falschdargestellt
+falschdarstellen
 misrepresents
 misswirtschaft
 missbraucht
@@ -47146,22 +47146,22 @@ missouri
 misspeak
 misspeaking
 misspeaks
-falsch schreiben
-falsch geschrieben
-falsch geschrieben
+falschschreiben
+falschgeschrieben
+falschgeschrieben
 rechtschreibfehler
 falsch
-falsch gespalten
-falsch verpassen
+falschgespalten
+falschverpassen
 falsch
 misspendiert
 vergeudet
 versprochen
-falsch ausgesprochen
-falsch darstellen
+falschausgesprochen
+falschdarstellen
 falsch
-falsche angaben
-falsche angaben
+falscheangaben
+falscheangaben
 fehlt
 falsch
 fehltritt
@@ -47181,10 +47181,10 @@ mister
 mistier
 mistiest
 nebelhaft
-falsch stoppen
-falsch gemacht
+falschstoppen
+falschgemacht
 fällen
-falsch machen
+falschmachen
 nebelhaftigkeit
 vernebeln
 mistel
@@ -47192,11 +47192,11 @@ mistelzweige
 falsch
 mistral
 mistrals
-falsch übersetzen
-falsch übersetzt
+falschübersetzen
+falschübersetzt
 mistranslatiert
 falschübersetzung
-falsche übersetzung
+falscheübersetzung
 misshandeln
 misshandelt
 misshandeln
@@ -47218,7 +47218,7 @@ missverstehen
 missverständnis
 missverständnisse
 missversteht
-falsch verstanden
+falschverstanden
 missbrauch
 missbraucht
 misuser
@@ -47334,7 +47334,7 @@ modalitäten
 modalität
 modal
 modus
-modell-
+modell
 modelliert
 modellieren
 modelliert
@@ -47344,7 +47344,7 @@ modem
 modems
 mäßig
 moderiert
-in maßen
+inmaßen
 mäßigkeit
 moderate
 moderieren
@@ -47662,11 +47662,11 @@ monolog
 monolog
 monologe
 monologuist
-monomer chy
+monomerchy
 monomanie
 monomanisch
-monomanie oder l
-monomanie cs
+monomanieoderl
+monomaniecs
 monomer
 monomere
 monomial
@@ -47721,7 +47721,7 @@ monsignore
 monsignoren
 monsun
 monsoons
-monster-
+monster
 monster
 monstranz
 monstrositäten
@@ -47791,7 +47791,7 @@ schwarzarbeiter
 moonlighters
 schwarzarbeit
 mondschein
-wie der mond
+wiedermond
 moonlit
 mondaufgang
 moonrises
@@ -47823,7 +47823,7 @@ gefeiert
 mooting
 moots
 mopp
-trübsal blasen
+trübsalblasen
 moped
 mopeds
 mopes
@@ -47837,7 +47837,7 @@ teppich
 teppiche
 moräne
 moränen
-moral-
+moral
 moral
 moralisierung
 moralisieren
@@ -47875,7 +47875,7 @@ morbid
 morbidität
 krankhaft
 beißend
-beißender humor
+beißenderhumor
 mordancy
 beize
 mörderisch
@@ -47982,7 +47982,7 @@ leichenhäuser
 leichenhalle
 tot
 morwenstow
-mosaik-
+mosaik
 mosaik
 moskau
 moses
@@ -48002,7 +48002,7 @@ moose
 mossier
 moosigsten
 moosig
-die meisten
+diemeisten
 meist
 gegen
 wann
@@ -48051,8 +48051,8 @@ motiv
 motivlos
 motive
 bunt
-moto-cross
-motor-
+motocross
+motor
 motorrad
 motorräder
 motorcade
@@ -48062,7 +48062,7 @@ kraftfahrzeuge
 motorrad
 motorradiert
 motorräder
-motorrad fahren
+motorradfahren
 angetrieben
 motoren
 motorisieren
@@ -48076,7 +48076,7 @@ motorisiert
 motorisiert
 motorisierung
 motormann
-fahrer selbst
+fahrerselbst
 motorola
 motoren
 autobahn
@@ -48184,7 +48184,7 @@ bewegung
 bewegungen
 mover
 beweger
-bewegt sich
+bewegtsich
 film
 kinogänger
 kinobesucher
@@ -48332,7 +48332,7 @@ multiform
 multilateral
 mehrstufig
 mehrsprachig
-multi-level
+multilevel
 multimedia
 multimillionär
 multimillionäre
@@ -48475,7 +48475,7 @@ musen
 museum
 museen
 gitter
-mushie r
+mushier
 mushiest
 mushily
 mushiness
@@ -48484,7 +48484,7 @@ pilziert
 mushrooming
 pilze
 matschig
-musik-
+musik
 musical
 musical
 musical
@@ -48640,7 +48640,7 @@ myrmidon
 myrmidons
 myrrhe
 myrte
-mich selber
+michselber
 geheimnisse
 geheimnisvoll
 geheimnisvoll
@@ -48727,8 +48727,8 @@ naiv
 naiven
 naivet
 naivität
-na? f
-in? fs
+naf
+infs
 nackt
 nackt
 nacktheit
@@ -48770,7 +48770,7 @@ napalm
 napalm
 nacken
 napery
-sun und
+sunund
 naphtha
 naphthalin
 serviette
@@ -48826,14 +48826,14 @@ engste
 verengung
 eng
 enge
-verengt sich
+verengtsich
 narr
 narthex
 narthexes
 narwal
 narwhals
 nary
-nasal-
+nasal
 nasalise
 nasalised
 nasalises
@@ -48932,7 +48932,7 @@ nutzten
 natürliche
 naturen
 fkk
-fkk-
+fkk
 naturisten
 nichts
 frech
@@ -48957,11 +48957,11 @@ navaho
 navahos
 navajo
 navajos
-marine-
+marine
 kirchenschiff
 nabel
 nabeln
-nabel wort
+nabelwort
 navelworts
 schiffe
 marine
@@ -48995,15 +48995,15 @@ neap
 neapolitanischen
 neapolitaner
 neaps
-in der nähe von
-in der nähe
+indernähevon
+indernähe
 näher
 näher
 nächste
 nah
 fast
 nähe
-nähert sich
+nähertsich
 kurzsichtig
 kurzsichtig
 ordentlich
@@ -49033,7 +49033,7 @@ notwendig
 erfordern
 erforderlich
 erfordert
-erforderlich machen
+erforderlichmachen
 notwendigkeiten
 notwendig
 notwendigkeit
@@ -49184,7 +49184,7 @@ neolithisch
 neologismus
 neologismen
 neomycin
-neon-
+neon
 neonatale
 neonate
 neonates
@@ -49234,7 +49234,7 @@ nester
 nisten
 schmiegen
 eingebettet
-schmiegt sich
+schmiegtsich
 nestling
 nester
 netz
@@ -49253,7 +49253,7 @@ nessel
 nettled
 nesseln
 nettlesome
-web-entwicklung
+webentwicklung
 netzwerk
 vernetzt
 vernetzung
@@ -49323,7 +49323,7 @@ nevada
 nie
 nimmermehr
 niemals
-trotz dessen
+trotzdessen
 art
 neville
 neville
@@ -49349,13 +49349,13 @@ neufundländer
 neufundländer
 newgate
 newham
-neuer hafen
+neuerhafen
 neu
 neu
-frisch verheiratet
+frischverheiratet
 jungvermählten
-neuer mann
-neuer markt
+neuermann
+neuermarkt
 neuheit
 newport
 newquay
@@ -49461,13 +49461,13 @@ nackt
 nackt
 nackt
 nahe
-nacht-
+nacht
 nachtmütze
 nightcaps
 nachtclub
 nachtclubs
 nachthemd
-einbruch der dunkelheit
+einbruchderdunkelheit
 nachthemd
 nachthemden
 nighthawk
@@ -49523,7 +49523,7 @@ neun
 neunzehn
 neunzehnten
 neunzehnte
-neunziger jahre
+neunzigerjahre
 neunziger
 neunzigerjahre
 neunzig
@@ -49573,7 +49573,7 @@ nitrit
 nitriten
 nitro
 nitrobenzol
-stickstoff-
+stickstoff
 stickstoffhaltig
 nitroglycerin
 nitrose
@@ -49602,7 +49602,7 @@ adel
 uns
 edel
 edelmann
-edle menschen
+edlemenschen
 edler
 edel
 adel
@@ -49714,7 +49714,7 @@ nonillion
 nonillions
 nonillionth
 nonjury
-nicht verhandelbar
+nichtverhandelbar
 nonpareil
 nonpareils
 verblüffen
@@ -49779,7 +49779,7 @@ northallerton
 northampton
 northamptonshire
 nordwärts
-nordost-
+nordost
 nordöstlich
 nördlich
 nördlich
@@ -49839,17 +49839,17 @@ bemerkungen
 bemerkenswert
 bemerkenswert
 notables
-vor allem
+vorallem
 markierungen
 notariell
 notare
 notarisieren
-notariell beglaubigt
+notariellbeglaubigt
 notarisiert
 notariell
 notarisieren
-notariell beglaubigt
-notariell beglaubigt
+notariellbeglaubigt
+notariellbeglaubigt
 notariell
 notar
 notation
@@ -49922,7 +49922,7 @@ novationen
 roman
 novelette
 novelettes
-zu einer novelle bearbeiten
+zueinernovellebearbeiten
 neugeboren
 neugeborenen
 neumachen
@@ -50104,7 +50104,7 @@ kindergarten
 gärtner
 kindergärtner
 krankenschwestern
-pflege-
+pflege
 pflege
 pflege
 nähren
@@ -50259,7 +50259,7 @@ verpflichten
 verpflichtet
 verpflichtet
 verpflichtet
-die verpflichtung
+dieverpflichtung
 verpflichtung
 verpflichtungen
 obligatorisch
@@ -50286,7 +50286,7 @@ auslöschung
 obliterator
 obliteratoren
 vergessenheit
-nicht vergessen
+nichtvergessen
 vergesslich
 länglich
 oblongata
@@ -50475,7 +50475,7 @@ aufgetreten
 auftreten
 vorkommen
 auftritt
-tritt ein
+trittein
 ozean
 ozeanien
 ozeanischen
@@ -50614,7 +50614,7 @@ anbieten
 angebote
 angebot
 angeboren
-bietet an
+bietetan
 offertorien
 offertorium
 offhand
@@ -50658,7 +50658,7 @@ offsets
 kompensieren
 ableger
 ableger
-off-shore
+offshore
 abseits
 nachwuchs
 offstage
@@ -50713,7 +50713,7 @@ salben
 ok
 okapi
 okapis
-in ordnung
+inordnung
 okay
 okay
 okay
@@ -50760,7 +50760,7 @@ oligopole
 oligopol
 oligopsonien
 oligopsony
-ich hatte
+ichhatte
 öl
 olive
 oliver
@@ -50832,7 +50832,7 @@ omnivorös
 omsk
 auf
 onanie
-am bord
+ambord
 einmal
 onkologe
 onkologen
@@ -50844,7 +50844,7 @@ belastung
 belästigend
 aufdringlich
 einsen
-man selbst
+manselbst
 einmal
 oneupmanship
 ongar
@@ -50867,12 +50867,12 @@ stürzt
 anstürzen
 beginn
 onsets
-land-
+land
 weiter
 ansturm
-greift an
+greiftan
 ontario
-auf zu
+aufzu
 ontologisch
 ontologisch
 ontologie
@@ -50959,7 +50959,7 @@ opiiert
 meinen
 dachte
 opinen
-zu betrachten
+zubetrachten
 meinung
 rechthaberisch
 meinungen
@@ -50985,7 +50985,7 @@ ablehnen
 gegensätzlich
 opponieren
 oppensoren
-widersetzt sich
+widersetztsich
 gegensätzlich
 gegenteil
 opposität
@@ -51036,7 +51036,7 @@ optimierer
 optimiert
 optimieren
 optimum
-sich entscheiden
+sichentscheiden
 option
 optional
 wahlweise
@@ -51046,7 +51046,7 @@ optionen
 optiker
 optometriker
 optometrie
-entscheidet sich
+entscheidetsich
 opulenz
 opulent
 opulent
@@ -51081,7 +51081,7 @@ oratorium
 oratorien
 redner
 oratorium
-frauen-lautsprecher
+frauenlautsprecher
 oratrix
 orb
 orbicular
@@ -51120,7 +51120,7 @@ ordner
 ordentlichkeit
 ordentlich
 bestellungen
-ordinal-
+ordinal
 ordinals
 verordnung
 verordnungen
@@ -51189,7 +51189,7 @@ orientalisch
 orientalien
 orientieren
 orientiert
-orientiert sich
+orientiertsich
 orientierung
 orientierung
 orientierungen
@@ -51384,8 +51384,8 @@ unze
 unzen
 unser
 unsere
-uns selbst
-uns selbst
+unsselbst
+unsselbst
 ouse
 verdrängen
 verdrängt
@@ -51594,7 +51594,7 @@ reichweite
 überholt
 outreaches
 outreaching
-othe?
+othe
 vorreiter
 outriders
 ausleger
@@ -51665,8 +51665,8 @@ outthought
 überholt
 outvotes
 outvoting
-nach außen
-nach außen
+nachaußen
+nachaußen
 auswärts
 outwear
 outwearing
@@ -51701,7 +51701,7 @@ ofen
 ofensicher
 öfen
 ovenware
-zu ende
+zuende
 überfülle
 überreich
 überholen
@@ -51747,7 +51747,7 @@ herrisch
 überbisse
 überblasen
 übertrieben
-über bord
+überbord
 überbewertet
 überbuchen
 überbucht
@@ -51765,7 +51765,7 @@ herrisch
 überlastet
 überlasten
 überlastet
-zu viel kaufen
+zuvielkaufen
 überkaufen
 überbucht
 übertreffen
@@ -51824,7 +51824,7 @@ overcool
 übertrieben
 überentwickeln
 überentwickelt
-über die entwicklung von
+überdieentwicklungvon
 overdevelops
 übertrieben
 übertreiben
@@ -51857,7 +51857,7 @@ overdub
 übermindert
 überfällig
 übereifrig
-zu viel essen
+zuvielessen
 übereuert
 overeater
 überessen
@@ -51941,12 +51941,12 @@ fonds
 überholt
 überholen
 überholt
-über kopf
+überkopf
 gemeinkosten
 überhört
 überhört
 überhörung
-hört auf
+hörtauf
 überhitzen
 überhitzt
 überhitzung
@@ -51963,7 +51963,7 @@ overindulging
 überversichert
 überversichert
 überversichert
-über ausgabe
+überausgabe
 overissued
 überträgt
 overissuing
@@ -51982,7 +51982,7 @@ vergrössert
 überlagern
 überlagert
 umseitig
-sprung über
+sprungüber
 sprungen
 springt
 springt
@@ -51998,7 +51998,7 @@ sprungen
 übersehen
 übersehen
 überlüfter
-mit übersicht
+mitübersicht
 übersieht
 überlord
 overlords
@@ -52018,8 +52018,8 @@ overmasters
 übertrifft
 übergreifend
 übertrieben
-über nacht
-über nacht
+übernacht
+übernacht
 übertrieben
 überoptimistisch
 überbezahlt
@@ -52095,7 +52095,7 @@ aufdruck
 überläuft
 overs
 beaufsichtigt
-übersee-
+übersee
 überwachen
 beaufsichtigen
 betreut
@@ -52125,8 +52125,8 @@ aufsicht
 versehen
 vereinfachung
 vereinfacht
-vereinfacht sich
-zu vereinfachen
+vereinfachtsich
+zuvereinfachen
 überdimensioniert
 übergroß
 überdimensioniert
@@ -52218,7 +52218,7 @@ sturz
 stürzen
 gestürzt
 stürzt
-im laufe der zeit
+imlaufederzeit
 überstunden
 offen
 overton
@@ -52227,13 +52227,13 @@ obertöne
 überholt
 übertreiben
 overtraded
-auf trades
+auftrades
 oversrading
-über trick
-über tricks
-über trumpf
+übertrick
+übertricks
+übertrumpf
 übertrumpft
-über trumping
+übertrumping
 übertrumpft
 ouvertüre
 ouvertüren
@@ -52376,7 +52376,7 @@ oxymoron
 oxymorone
 oyer
 oyers
-achtung, achtung
+achtungachtung
 auster
 oystercatcher
 austernfänger
@@ -52388,7 +52388,7 @@ p
 jedoch
 pablo
 pabulum
-seine freundin
+seinefreundin
 paccar
 tempo
 geschritten
@@ -52580,7 +52580,7 @@ palavers
 palazzo
 blass
 erbleichte
-blasses gesicht
+blassesgesicht
 bleichen
 palely
 blässe
@@ -52613,7 +52613,7 @@ palimpsests
 palindrom
 palindrome
 palindromic
-am meisten
+ammeisten
 palings
 palinodie
 palinodes
@@ -52680,7 +52680,7 @@ klopfend
 herzklopfen
 herzklopfen
 kumpel
-kumpels grab
+kumpelsgrab
 gelähmt
 lähmungen
 lähmung
@@ -52735,7 +52735,7 @@ pandora
 pandowdies
 pandowdy
 scheibe
-sie setzen
+siesetzen
 lobrede
 panegyrics
 panegyrist
@@ -52765,8 +52765,8 @@ panhandlers
 panhandles
 panhandling
 panik
-in panik geraten
-in panik geraten
+inpanikgeraten
+inpanikgeraten
 panisch
 rispe
 rispen
@@ -52782,7 +52782,7 @@ outfits
 palette
 panorama
 panoramas
-panorama-
+panorama
 pfannen
 stiefmütterchen
 stiefmütterchen
@@ -52828,16 +52828,16 @@ papaw
 papaws
 papaya
 papayas
-papier-
+papier
 taschenbuch
 taschenbücher
 pappe
 papiergebunden
 zeitungsjunge
-papier jungen
+papierjungen
 geputzt
 papergirl
-papier mädchen
+papiermädchen
 papier
 papieren
 papiere
@@ -53034,7 +53034,7 @@ beziehung
 klammern
 klammern
 parenthesise
-klammerte sich
+klammertesich
 klammern
 klammern
 klammern
@@ -53183,9 +53183,9 @@ partials
 partible
 teilnehmer
 teilnehmer
-sich beteiligen
+sichbeteiligen
 teilgenommen
-beteiligt sich
+beteiligtsich
 teilnehmen
 beteiligung
 teilnehmer
@@ -53198,8 +53198,8 @@ partikel
 teilchen
 besonders
 partikularisierung
-vor allem
-besonders hervorgehoben
+vorallem
+besondershervorgehoben
 besonderheiten
 besonders
 besondersheitlich
@@ -53207,7 +53207,7 @@ besonderheiten
 besonderheit
 partikularisierung
 spezifizieren
-besonders bevorzugt
+besondersbevorzugt
 kennzeichnet
 partikularisieren
 insbesondere
@@ -53242,9 +53242,9 @@ rebhuhn
 rebhühner
 teile
 parturient.suspendisse
-die geburt
+diegeburt
 party
-party machen
+partymachen
 parva
 emporkömmling
 erreicht
@@ -53272,8 +53272,8 @@ passieren
 passerine
 passerinen
 passanten
-geht vorbei
-bestehen?
+gehtvorbei
+bestehen
 überall
 vorbeigehen
 leidenschaft
@@ -53304,7 +53304,7 @@ paste
 pappe
 pasteboards
 eingefügt
-pastell-
+pastell
 pastelle
 fessel
 pasternak
@@ -53415,7 +53415,7 @@ pfade
 weg
 wege
 patibulär
-die geduld
+diegeduld
 patiens
 geduldig
 geduldig
@@ -53509,7 +53509,7 @@ paunchiest
 paunchiness
 paunchy
 pauper
-die armen
+diearmen
 verarmung
 pauperise
 verarmt
@@ -53573,7 +53573,7 @@ payne
 auszahlen
 auszahlungen
 schmiergeld
-lohn-und gehaltsabrechnung
+lohnundgehaltsabrechnung
 gehaltslisten
 zahlt
 paz
@@ -53734,7 +53734,7 @@ peebles
 gepinnt
 pissen
 spähen
-guck-guck
+guckguck
 spähte
 spähend
 peeks
@@ -53814,7 +53814,7 @@ fell
 pelted
 schmelzen
 pelz
-becken-
+becken
 becken
 becken
 pembroke
@@ -53853,7 +53853,7 @@ pendenle
 pendens
 pendent
 anhänger
-steht aus
+stehtaus
 pendle
 pendlebury
 hängt
@@ -53931,7 +53931,7 @@ penologie
 penrith
 stifte
 denken
-die pension
+diepension
 pensionsfähig
 pensioniert
 rentner
@@ -54152,7 +54152,7 @@ durchgeführt
 künstler
 ausführer
 durchführen
-führt aus
+führtaus
 parfüm
 parfümiert
 parfümeur
@@ -54214,7 +54214,7 @@ verderbliche
 umkam
 perisher
 verderber
-geht um
+gehtum
 verderben
 peristaltik
 peristaltisch
@@ -54226,7 +54226,7 @@ periwig
 periwigs
 immergrün
 immergrün
-meineid leisten
+meineidleisten
 verletzt
 perjurer
 perjurer
@@ -54364,7 +54364,7 @@ beharrlichkeit
 hartnäckig
 beharrlich
 anhaltend
-bleibt bestehen
+bleibtbestehen
 persnickety
 person
 person
@@ -54810,7 +54810,7 @@ photoelektron
 photoelektronen
 fotogravur
 fotograviert
-foto-gravuren
+fotogravuren
 fotogravieren
 fotoblatt
 fotoblätter
@@ -54838,7 +54838,7 @@ photometer
 photometer
 photometrisch
 photometrie
-mikroskopische aufnahme
+mikroskopischeaufnahme
 fotomikrographie
 fotomontage
 fotomontagen
@@ -55087,7 +55087,7 @@ pike
 pikemen
 mädchen
 hechte
-mädchen personal
+mädchenpersonal
 pikestaffs
 pilaw
 pilaw
@@ -55207,7 +55207,7 @@ pinkies
 pinking
 pinkish
 rosa
-kleiner finger
+kleinerfinger
 pinasse
 pinnaces
 höhepunkt
@@ -55308,7 +55308,7 @@ pistolen
 kolben
 kolben
 grube
-pita-brot
+pitabrot
 pitcairn
 tonhöhe
 pitchblende
@@ -55356,7 +55356,7 @@ pittsburg
 pittsburgh
 bischöfe
 hypophyse
-das mitleid
+dasmitleid
 mitleidig
 mitleidig
 pius
@@ -55435,7 +55435,7 @@ plaids
 ebene
 zivilkleidung
 planer
-am deutlichsten
+amdeutlichsten
 deutlich
 klarheit
 ebenen
@@ -55464,7 +55464,7 @@ pläne
 planer
 flugzeuge
 planet
-planeten-
+planeten
 planetarium
 planetarien
 planetarischen
@@ -55649,7 +55649,7 @@ angenehm
 vergnügen
 freuden
 falte
-falten-
+falten
 plissee
 falten
 plebs
@@ -55820,7 +55820,7 @@ plunking
 brunnen
 plusquamperfekt
 pluperfects
-plural-
+plural
 pluralismus
 pluralistisch
 pluralistisch
@@ -55830,7 +55830,7 @@ pluralität
 plurals
 plus
 pluses
-plüsch-
+plüsch
 plusher
 plüschest
 plussen
@@ -55841,7 +55841,7 @@ plutokrat
 plutokratischen
 plutokraten
 plutonium
-regen-
+regen
 pluvious
 ply
 pflügen
@@ -55957,8 +55957,8 @@ gifte
 poisson
 poitiers
 sack
-pokeberrie s
-pokebe 'ry
+pokeberries
+pokebe'ry
 gestoßen
 poker
 pokerfaced
@@ -55973,7 +55973,7 @@ pokiness
 stochert
 winzig
 polen
-polar-
+polar
 polaris
 polarisation
 polarisiert
@@ -56011,7 +56011,7 @@ beaufsichtigt
 polizist
 polizisten
 polizeien
-die polizistin
+diepolizistin
 polizistin
 politik
 polizei
@@ -56180,7 +56180,7 @@ polytheistisch
 polytheisten
 polythen
 polytonal
-mehrfach ungesättigt
+mehrfachungesättigt
 polyurethan
 mehrwertig
 polyvinyl
@@ -56273,7 +56273,7 @@ arm
 ärmer
 ärmsten
 armenhaus
-arme häuser
+armehäuser
 schlecht
 armut
 pop
@@ -56302,7 +56302,7 @@ knallend
 mohn
 quatsch
 knallt
-eis am stiel
+eisamstiel
 bevölkerung
 beliebt
 populierung
@@ -56327,7 +56327,7 @@ leute
 populismus
 populist
 populisten
-dicht besiedelt
+dichtbesiedelt
 bevölkerungsreich
 populus
 porzellan
@@ -56432,7 +56432,7 @@ porträts
 darstellen
 porträtiert
 portage
-port reeve
+portreeve
 portreeves
 häfen
 portsmouth
@@ -56493,7 +56493,7 @@ besammelt
 post
 postact
 porto
-post-
+post
 postkarte
 postkarten
 postleitzahl
@@ -56810,7 +56810,7 @@ vorbestimmungen
 vorrang
 präzedenzfall
 präzedenzfälle
-geht voran
+gehtvoran
 vorangehend
 gebot
 lehrer
@@ -56885,7 +56885,7 @@ vulkanisch
 prächtig
 vorhergehen
 vorhergesagt
-schlägt vor
+schlägtvor
 vorhersagen
 raubtier
 räuberisch
@@ -56961,10 +56961,10 @@ putzen
 gepeitscht
 putzen
 preens
-fertig stellen
+fertigstellen
 vorgefertigt
 vorgefertigt
-fertig stellen
+fertigstellen
 vorfertigung
 vorfertigung
 vorverarbeiter
@@ -57008,7 +57008,7 @@ vorheizen
 vorgewärmt
 vorwärmen
 vorheizen
-greif-
+greif
 prähistorisch
 prähistorisch
 vorgeschichte
@@ -57041,7 +57041,7 @@ verfrüht
 vorzeitig
 vorbereitet
 prämedisch
-vorher überlegen
+vorherüberlegen
 vorsätzlich
 vorsätzlich
 vorsätzlich
@@ -57098,9 +57098,9 @@ bereiten
 bereit
 vorbereitet
 bereitschaft
-bereitet vor
+bereitetvor
 vorbereiten
-per vorkasse bezahlen
+pervorkassebezahlen
 vorauszahlung
 vorauszahlung
 vorauszahlungen
@@ -57161,7 +57161,7 @@ prescot
 prescott
 verschreiben
 vorgeschrieben
-schreibt vor
+schreibtvor
 verschreibungspflichtig
 verschreibungspflichtig
 rezept
@@ -57215,7 +57215,7 @@ vorsitz
 präsidium
 präsidien
 vorlage
-drücken sie
+drückensie
 gedrückt
 drücker
 drücker
@@ -57227,17 +57227,17 @@ pressman
 pressmen
 presseraum
 druck
-unter druck
+unterdruck
 drücke
 drückend
 druckbeaufschlagung
-unter druck setzen
+unterdrucksetzen
 druck
 druckbeaufschlagung
 druckbeaufschlagung
 druckbeaufschlagung
-unter druck setzen
-druck-
+unterdrucksetzen
+druck
 druckbeaufschlagt
 druckbeaufschlagung
 prestatyn
@@ -57273,7 +57273,7 @@ preteen
 preteens
 vorwand
 vorwänden
-so tun als ob
+sotunalsob
 vorgetäuscht
 prätendent
 pretender
@@ -57286,7 +57286,7 @@ ansprüche
 protzig
 anmaßend
 anmaßend
-darüber hinaus
+darüberhinaus
 präteritum
 präteritum
 preteriten
@@ -57306,7 +57306,7 @@ preis
 pretoria
 hübscher
 pretties
-am schönsten
+amschönsten
 vorhergesagt
 prettifiziert
 prettify
@@ -57326,7 +57326,7 @@ vorherrschende
 überwiegend
 prevaricate
 prevaricated
-ausflüchte macht
+ausflüchtemacht
 prevaricating
 ausflüchte
 prevaricator
@@ -57336,7 +57336,7 @@ vermeidbar
 präventiv
 vorbeugenden
 verhindert
-zu verhindern
+zuverhindern
 verhütung
 präventiv
 vorbeugend
@@ -57344,7 +57344,7 @@ präventiven
 verhindert
 preverbal
 vorschau
-in der vorschau
+indervorschau
 vorschau
 vorschau
 bisherige
@@ -57356,7 +57356,7 @@ beute
 behauptet
 preying
 beute
-pr. cis
+pr.cis
 priapismus
 preis
 preis
@@ -57405,7 +57405,7 @@ primage
 primages
 ursprünglich
 vorwahlen
-in erster linie
+inersterlinie
 primär
 primas
 primaten
@@ -57422,8 +57422,8 @@ primitiven
 primitivismus
 primär
 primmer
-prim mest
-prim blindheit
+primmest
+primblindheit
 primogenitor
 erstgeborene
 majorat
@@ -57543,7 +57543,7 @@ rechtsbeziehungen
 privity
 eingeweiht
 preis
-preis-
+preis
 geschätzt
 preise
 prize
@@ -57563,7 +57563,7 @@ bewiesen
 probates
 probieren
 probezeit
-probe-
+probe
 probationer
 bewährungshelfer
 probativ
@@ -57587,7 +57587,7 @@ verfahrensrechtlich
 verfahren
 verfahren
 vorgehen
-ging weiter
+gingweiter
 fortfahren
 verfahren
 erlös
@@ -57596,7 +57596,7 @@ procerus
 verarbeiten
 verarbeitet
 prozesse
-wird bearbeitet
+wirdbearbeitet
 prozession
 verfahren
 prozessionen
@@ -57708,7 +57708,7 @@ profanität
 bekennen
 bekennen
 angeblich
-bekennt sich
+bekenntsich
 bekennen
 beruf
 professional
@@ -57846,7 +57846,7 @@ proletarius
 prolicide
 proliferieren
 proliferiert
-vermehrt sich
+vermehrtsich
 wuchernd
 proliferation
 fruchtbar
@@ -57908,7 +57908,7 @@ aufforderung
 promptitude
 sofort
 schnelligkeit
-fordert auf
+fordertauf
 proms
 verkünden
 verkündet
@@ -57936,7 +57936,7 @@ ausgesprochen
 ausgesprochen
 verkündung
 aussagen
-spricht aus
+sprichtaus
 aussprechen
 pronomen
 bald
@@ -58033,7 +58033,7 @@ vorschlag
 vorschläge
 vorschlagen
 vorgeschlagen
-schlägt vor
+schlägtvor
 vorschlagen
 aussage
 vorgeschlagen
@@ -58089,10 +58089,10 @@ proscriptiv
 proscriptiv
 prosa
 strafbar
-strafrechtlich verfolgen
+strafrechtlichverfolgen
 verfolgt
 verfolgt
-strafrechtlich verfolgt
+strafrechtlichverfolgt
 strafverfolgung
 strafverfolgung
 staatsanwaltschaft
@@ -58129,7 +58129,7 @@ prospekte
 gedeihen
 gedeihen
 gedeihen
-der wohlstand
+derwohlstand
 wohlhabend
 wohlhabend
 wohlhabend
@@ -58189,8 +58189,8 @@ demonstrant
 demonstranten
 protestieren
 protestiert
-prot? g?
-prot? g? s
+protg
+protgs
 prothesen
 prothese
 prothonotaries
@@ -58223,7 +58223,7 @@ winkelmesser
 verlängert
 vorstehen
 vorspringend
-ragt hervor
+ragthervor
 vorspringend
 vorsprung
 vorschläge
@@ -58246,7 +58246,7 @@ bewiesen
 bewährt
 herkunft
 provence
-bewährt?
+bewährt
 futter
 bewusstsein
 sprichwort
@@ -58254,8 +58254,8 @@ sprichwörtlich
 sprichwörtlich
 sprichwörter
 beweist
-zu verfügung stellen
-unter der voraussetzung
+zuverfügungstellen
+unterdervoraussetzung
 vorsehung
 vorsorge
 vorsorge
@@ -58312,8 +58312,8 @@ proxies
 proxima
 proximal
 proximal
-in der nähe
-in der nähe
+indernähe
+indernähe
 nähe
 nächste
 proximus
@@ -58339,7 +58339,7 @@ preußen
 preußisch
 preussen
 preußisch
-neugierig sein
+neugierigsein
 neugierig
 neugierig
 ps
@@ -58354,7 +58354,7 @@ psalterien
 psalters
 psalter
 psbr
-pseudo-
+pseudo
 pseudocyesis
 pseudographie
 pseudographien
@@ -58494,7 +58494,7 @@ pueblo
 leute
 kindisch
 puerility
-wochenbett-
+wochenbett
 puerto
 puff
 puffball
@@ -58546,7 +58546,7 @@ ziehen
 pullman
 pullmans
 auszüge
-zur seite fahren
+zurseitefahren
 pullover
 zieht
 pulmonal
@@ -58718,7 +58718,7 @@ rein
 reinigung
 abführmittel
 abführmittel
-fegefeuer-
+fegefeuer
 purgatorien
 fegefeuer
 reinigen
@@ -58821,7 +58821,7 @@ purview
 purviews
 eiter
 drücken
-knopf drücken
+knopfdrücken
 geschoben
 pusher
 drücker
@@ -59009,8 +59009,8 @@ quads
 die
 suchen
 suchen
-die frage
-die frage
+diefrage
+diefrage
 gewinn
 trinken
 quaffed
@@ -59026,7 +59026,7 @@ quailing
 wachteln
 malerisch
 quainter
-am deutlichsten
+amdeutlichsten
 malerisch
 mutterhaftigkeit
 beben
@@ -59042,7 +59042,7 @@ qualifiziert
 qualifiziert
 qualifizierer
 qualifizierungen
-qualifiziert sich
+qualifiziertsich
 qualifizieren
 qualifizieren
 qualitativ
@@ -59058,7 +59058,7 @@ wenn
 quango
 quangos
 quanten
-wie viele
+wieviele
 quantifizierbar
 quantifizierung
 quantifiziert
@@ -59074,7 +59074,7 @@ anzahl
 quantköpfe
 quanten
 quarantäne
-unter quarantäne gestellt
+unterquarantänegestellt
 quarantäne
 quarantäne
 warum
@@ -59115,7 +59115,7 @@ quartette
 quartil
 quartile
 zimmer
-die 4.
+die4.
 quarts
 quarz
 quarz
@@ -59202,7 +59202,7 @@ fragen
 frage
 fraglich
 fragwürdig
-in frage gestellt
+infragegestellt
 fragesteller
 frauen
 befragung
@@ -59215,7 +59215,7 @@ quests
 quetzal
 quetzals
 warteschlange
-in warteschlange
+inwarteschlange
 wartung
 warteschlangen
 wartung
@@ -59234,7 +59234,7 @@ beschleunigt
 beschleunigung
 beschleunigt
 schneller
-am schnellsten
+amschnellsten
 quickie
 quickies
 branntkalk
@@ -59243,8 +59243,8 @@ schnelligkeit
 treibsand
 quicksands
 quecksilber
-schneller schritt
-schnelle schritte
+schnellerschritt
+schnelleschritte
 pfund
 quids
 ruhe
@@ -59470,7 +59470,7 @@ strahlend
 strahlend
 strahlen
 ausgestrahlt
-strahlt aus
+strahltaus
 strahlend
 strahlung
 kühler
@@ -59622,7 +59622,7 @@ regentropfen
 regentropfen
 geregnet
 regenfall
-regen fällt
+regenfällt
 regnerischer
 regnerischsten
 regnen
@@ -59708,7 +59708,7 @@ ramsey
 ramsgate
 ramshackle
 lief
-randjel finanzierung
+randjelfinanzierung
 rancelmen
 ranch
 ranched
@@ -59746,7 +59746,7 @@ randomizer
 randomisatoren
 randomisiert
 randomisierung
-nach dem zufallsprinzip
+nachdemzufallsprinzip
 zufälligkeit
 rands
 geil
@@ -60061,7 +60061,7 @@ reakquainting
 reacquaints
 erholen
 wiedererlangt
-erholt sich
+erholtsich
 erholen
 reagieren
 reaktanz
@@ -60102,7 +60102,7 @@ leserschiffe
 vorbereitet
 leichter
 bereitwillig
-am liebsten
+amliebsten
 leicht
 bereitschaft
 lesen
@@ -60115,7 +60115,7 @@ nachstellungen
 readjusts
 rückübernahme
 zurückzulassen
-liest sich aus
+liestsichaus
 wiederaufnahme
 zurückgelassen
 aussenden
@@ -60137,13 +60137,13 @@ reagens
 reagenzien
 echt
 realer
-am ehesten
-neu ausrichten
-neu ausgerichtet
-neu ausrichten
+amehesten
+neuausrichten
+neuausgerichtet
+neuausrichten
 neuausrichtung
 neuausrichtungen
-richtet sich aus
+richtetsichaus
 realisierbar
 realisierung
 realisierungen
@@ -60169,16 +60169,16 @@ reallege
 regeliert
 realleges
 realleging
-neu zuteilen
-neu zugeteilt
+neuzuteilen
+neuzugeteilt
 reallokiert
-neu zuordnen
+neuzuordnen
 reallokation
 reallokationen
 reallot
 reallotiert
 reallots
-ja wirklich
+jawirklich
 reich
 reiche
 realität
@@ -60202,41 +60202,41 @@ geerntet
 schnitter
 schnitter
 ernten
-wieder erscheinen
 wiedererscheinen
-wieder erschienen
-wieder auftauchen
-wieder auftaucht
-wieder aufgetragen
-wieder anwendbar
-erneut anwenden
-erneut anwenden
-wieder aufnehmen
-wieder bestellt
+wiedererscheinen
+wiedererschienen
+wiederauftauchen
+wiederauftaucht
+wiederaufgetragen
+wiederanwendbar
+erneutanwenden
+erneutanwenden
+wiederaufnehmen
+wiederbestellt
 wiederaufkommen
 wiederernennung
 reappoints
-neu bestellt
+neubestellt
 reapportioning
 erneuerung
 reappordionen
 neubewertung
 neubewertungen
 aufarbeiten
-neu beurteilt
+neubeurteilt
 reappraiser
 reappraisers
-neu beurteilt
+neubeurteilt
 reappraising
 ernte
 rückseite
 aufgezogen
 nachhut
 hinterguards
-rückgängig machen
-rückgängig gemacht
-rückgängig machen
-rückgängig machen
+rückgängigmachen
+rückgängiggemacht
+rückgängigmachen
+rückgängigmachen
 aufzucht
 rearm
 wiederbewaffnung
@@ -60244,13 +60244,13 @@ rearmed
 rearming
 hinterste
 rearmiert
-neu anordnen
+neuanordnen
 umgeordnet
 umordnung
 umlagerungen
 umgibt
 umordnen
-erhebt sich
+erhebtsich
 rückwärts
 rückwärts
 grund
@@ -60259,32 +60259,32 @@ angemessenheit
 vernünftig
 begründet
 argumentation
-gründe dafür
-wieder zusammenbauen
-wieder zusammengebaut
-wieder zusammengesetzt
-wieder zusammenbauen
-wieder zusammenbauen
+gründedafür
+wiederzusammenbauen
+wiederzusammengebaut
+wiederzusammengesetzt
+wiederzusammenbauen
+wiederzusammenbauen
 beruhigen
 wiederbelebt
 wiederbelebung
 wiederbelebung
 reichert
-neu beurteilen
-neu beurteilt
+neubeurteilen
+neubeurteilt
 beurteilt
-neu beurteilen
+neubeurteilen
 neubewertung
 neubewertungen
-neu zuordnen
-neu zugewiesen
-neu zuzuordnen
+neuzuordnen
+neuzugewiesen
+neuzuzuordnen
 reassignment
 neuzuordnungen
-neu zuzuordnen
-wieder aufnehmen
-wieder aufgenommen
-wieder aufnimmt
+neuzuzuordnen
+wiederaufnehmen
+wiederaufgenommen
+wiederaufnimmt
 reassum
 beruhigung
 beruhigungen
@@ -60293,10 +60293,10 @@ beruhigt
 beruhigt
 beruhigend
 beruhigend
-wieder anbringen
-wieder befestigt
-wieder befestigt
-wieder anbringen
+wiederanbringen
+wiederbefestigt
+wiederbefestigt
+wiederanbringen
 reattachment
 reattachments
 reaves
@@ -60319,21 +60319,21 @@ rebellisch
 rebellisch
 rebellion
 rebellen
-neu binden
+neubinden
 rebinden
 rebinds
 wiedergeburt
 wiedergeburt
 umgebucht
 umbuchung
-neu starten
-neu gestartet
-neu starten
+neustarten
+neugestartet
+neustarten
 reboots
 wiedergeboren
 rebound
-erholte sich
-erholt sich
+erholtesich
+erholtsich
 rebounds
 rebroadcast
 rebroadcasts
@@ -60341,17 +60341,17 @@ abfuhr
 abgelehnt
 rebuffing
 rebuffs
-wieder aufbauen
+wiederaufbauen
 wiederaufbau
 umbaut
-wieder aufgebaut
+wiederaufgebaut
 tadel
 verurteilt
 prüft
 widerspricht
 wiederbelebt
 wiederbelege
-neu begraben
+neubegraben
 rebries
 rebury
 erneuerung
@@ -60369,18 +60369,18 @@ rebutting
 rec
 aufsässigkeit
 widerspenstig
-neu berechnen
-neu berechnet
-neu berechnet
-neu berechnen
+neuberechnen
+neuberechnet
+neuberechnet
+neuberechnen
 neuberechnung
 erinnern
 zurückrufbar
-erinnerte sich
+erinnertesich
 erinnern
 rückruf
 rückrufe
-erinnert sich
+erinnertsich
 widerrufen
 widerruf
 recantationen
@@ -60407,18 +60407,18 @@ rekapitulationen
 rekapitulativ
 wiedergewonnen
 rekurrieren
-erholt sich
+erholtsich
 wiederaufnahme
 wiedererobern
 wiedererobert
-erholt sich
+erholtsich
 wiedereroberung
 umgestalten
 neufassung
 rekurriert
 zurücktreten
 zurückgegangen
-geht zurück
+gehtzurück
 zurückgehen
 eingang
 receiptor
@@ -60432,7 +60432,7 @@ empfänger
 erhält
 empfang
 kürzlich
-vor kurzem
+vorkurzem
 behälter
 gefäße
 rezeption
@@ -60457,13 +60457,13 @@ rezessiv
 rezessiv
 aufladen
 aufgeladen
-lädt auf
+lädtauf
 aufladen
-neu prüfen
+neuprüfen
 überprüft
 rechecking
 rechecks
-begehrt?
+begehrt
 recht
 rückfälligkeit
 recidivist
@@ -60477,10 +60477,10 @@ wechselseitig
 gegenseitig
 reziprokal
 erwidern
-hin- und herbewegt
+hinundherbewegt
 reziprokt
-hin- und herbewegbar
-hin- und herbewegung
+hinundherbewegbar
+hinundherbewegung
 reziprokator
 reziproker
 gegenseitigkeit
@@ -60523,7 +60523,7 @@ recline
 liegend
 liegesessel
 liegen
-lehnt sich
+lehntsich
 liegend
 einsiedler
 einsiedler
@@ -60531,7 +60531,7 @@ reklusion
 reclusive
 reclusiv
 rekodiert
-neu beschreiben
+neubeschreiben
 erkennbar
 erkennbar
 erkennung
@@ -60557,14 +60557,14 @@ zurückgezogen
 rückstoß
 rückstoß
 rückstoß
-erinnern sich
-erinnerte sich
-sich erinnern
+erinnernsich
+erinnertesich
+sicherinnern
 erinnerung
 erinnerungen
-erinnert sich
+erinnertsich
 recolor
-neu gefärbt
+neugefärbt
 recoloring
 recolors
 recolieren
@@ -60578,9 +60578,9 @@ rekombinieren
 rekombiniert
 rekombiniert
 rekombinieren
-wieder aufnehmen
-wieder aufgenommen
-wieder anfangen
+wiederaufnehmen
+wiederaufgenommen
+wiederanfangen
 wiederkehren
 empfehlen
 empfehlenswert
@@ -60599,14 +60599,14 @@ belohnung
 belohnt
 erstattungen
 entschädigung
-neu kompilieren
-neu kompiliert
-neu kompiliert
-neu kompilieren
-neu zusammensetzen
-neu zusammengesetzt
-zersetzt sich
-neu komponieren
+neukompilieren
+neukompiliert
+neukompiliert
+neukompilieren
+neuzusammensetzen
+neuzusammengesetzt
+zersetztsich
+neukomponieren
 versöhnung
 versöhnlich
 unversöhnlich
@@ -60628,14 +60628,14 @@ rekonfiguriert
 rekonfiguriert
 rekonfigurieren
 bestätigen
-erneut bestätigt
+erneutbestätigt
 bestätigen
 bekräftigt
 aufklärung
-wieder verbinden
-wieder verbunden
-wieder anschließen
-wieder verbindet
+wiederverbinden
+wiederverbunden
+wiederanschließen
+wiederverbindet
 erkunden
 erkundet
 erforschen
@@ -60665,10 +60665,10 @@ wiederaufbau
 rekonstruktionen
 rekonstruiert
 rekontamination
-wieder einverstanden
-wieder einverstanden
-erholt sich
-wieder einmischen
+wiedereinverstanden
+wiedereinverstanden
+erholtsich
+wiedereinmischen
 rekonvention
 rekonversion
 rekonstruktionen
@@ -60681,7 +60681,7 @@ rekonstruktion
 wiedererobert
 rekonstruieren
 reconvicts
-neu aufgenommen
+neuaufgenommen
 aufzeichnung
 aufzeichnung
 verzeichnet
@@ -60707,36 +60707,36 @@ rekursiert
 erholen
 erstattungsfähigkeit
 erstattungsfähig
-erholte sich
+erholtesich
 recoveree
 recoverees
 wiederhersteller
 wiederhersteller
 erholungen
 erholen
-erholt sich
+erholtsich
 wiederherstellung
 urlauberin
 wiederhergestellt
 wiederhersteller
-neu erstellen
-neu erstellt
-neu erstellt
-neu erstellen
+neuerstellen
+neuerstellt
+neuerstellt
+neuerstellen
 erholung
 entspannend
 erholung
 erholungsfähig
 regenerieren
 beschuldigt
-erkennt sich an
+erkenntsichan
 erinnerung
 beschuldigung
 beschuldigungen
 recriminator
 recriminatoren
 diskriminierend
-gelegentlich wieder auftreten
+gelegentlichwiederauftreten
 recrudesced
 aufwallung
 recrudescent
@@ -60782,7 +60782,7 @@ liegend
 liebend
 erholen
 erholt
-erholt sich
+erholtsich
 erholen
 erholung
 erholung
@@ -60820,21 +60820,21 @@ redaktion
 editor
 redakteure
 redigiert
-roter vogel
+rotervogel
 redbreast
 redbreasts
-roter ziegelstein
+roterziegelstein
 redbridge
-rote mütze
+rotemütze
 redcaps
-rotes auto
-roter mantel
+rotesauto
+rotermantel
 redcoats
-rote johannisbeere
-rote johannisbeeren
+rotejohannisbeere
+rotejohannisbeeren
 röten
 restauriert
-zahlung für
+zahlungfür
 zahlen
 gerötet
 rötung
@@ -60860,10 +60860,10 @@ erlöser
 erlöser
 einlösen
 erlöst
-neu definieren
-neu definiert
-neu definiert
-neu definieren
+neudefinieren
+neudefiniert
+neudefiniert
+neudefinieren
 neudefinition
 redeliver
 redelivered
@@ -60880,13 +60880,13 @@ umbauen
 umschichtung
 redeploys
 redesign
-neu gestaltet
+neugestaltet
 neuentwurf
 redesigns
 neubestimmung
-neu bestimmen
-neu bestimmt
-neu bestimmt
+neubestimmen
+neubestimmt
+neubestimmt
 neubestimmt
 sanieren
 saniert
@@ -60918,13 +60918,13 @@ entdeckt
 wiederentdeckung
 redisplay
 umverteilen
-neu verteilt
+neuverteilt
 umverteilt
-neu verteilen
+neuverteilen
 umverteilung
 rückkehr
-rote linie
-rote linien
+rotelinie
+rotelinien
 redmond
 redneck
 rednecks
@@ -60947,13 +60947,13 @@ verdammt
 redounds
 gefürchtet
 redraft
-neu gefertigt
+neugefertigt
 redstruktion
 redrafts
-neu zeichnen
-neu zeichnen
-neu gezeichnet
-neu zeichnet
+neuzeichnen
+neuzeichnen
+neugezeichnet
+neuzeichnet
 wiedergutmachung
 beseitigt
 begradigen
@@ -60976,7 +60976,7 @@ reduzierbarkeit
 reduzierbar
 reduzieren
 reductio
-die ermäßigung
+dieermäßigung
 reduziert
 reduktionismus
 reduktionen
@@ -60993,8 +60993,8 @@ verkleinern
 reduplication
 reduplications
 reduplicativ
-roter flügel
-rote flügel
+roterflügel
+roteflügel
 redwood
 rothölzer
 reebok
@@ -61053,7 +61053,7 @@ verweisung
 referrals
 bezeichnet
 bezugnahme
-bezieht sich auf
+beziehtsichauf
 nachfüllung
 nachgefüllt
 nachfüllen
@@ -61096,7 +61096,7 @@ reflexive
 reflexivität
 reflexologie
 refokussieren
-neu konzentriert
+neukonzentriert
 refocuses
 refokussierung
 zurückfallen
@@ -61109,14 +61109,14 @@ aufgeforstet
 aufforstung
 umforsten
 reform
-neu formatieren
+neuformatieren
 reformation
 reformationen
 reformatorien
 besserungsanstalt
 reformate
-neu formatiert
-neu formatieren
+neuformatiert
+neuformatieren
 reformiert
 reformer
 reformer
@@ -61125,10 +61125,10 @@ reformismus
 reformistisch
 reformisten
 reformen
-neu formulieren
-neu formuliert
+neuformulieren
+neuformuliert
 formuliert
-neu formulieren
+neuformulieren
 brechen
 gebrochen
 brechen
@@ -61160,7 +61160,7 @@ erfrischungen
 refries
 kältemittel
 kältemittel
-kalt stellen
+kaltstellen
 gekühlt
 kühlt
 kühlen
@@ -61193,9 +61193,9 @@ renovierung
 renovierung
 ablehnung
 ablehnungen
-sich weigern
+sichweigern
 verweigert
-weigert sich
+weigertsich
 verweigern
 widerlegbar
 widerstrebend
@@ -61251,7 +61251,7 @@ regime
 regimen
 regimen
 regiment
-regiments-
+regiments
 uniform
 reglementierung
 reglementiert
@@ -61271,7 +61271,7 @@ regionalisierung
 regional
 regionen
 regis
-neu registrieren
+neuregistrieren
 eingetragen
 registrieren
 registriert
@@ -61302,7 +61302,7 @@ regressiv
 regressiv
 bedauern
 bedauernd
-mit bedauern
+mitbedauern
 bedauert
 bedauerlich
 leider
@@ -61404,7 +61404,7 @@ erstattungen
 vergütet
 erstattung
 wiedereinfuhr
-wieder importiert
+wiederimportiert
 reimportieren
 reimporte
 reims
@@ -61440,23 +61440,23 @@ reinitialisiert
 initialisierungen
 reinitialisieren
 reinitialisieren
-neu initialisiert
+neuinitialisiert
 reinitialisiert
 reinitialisieren
 reinitieren
 reinitiiert
 zügel
-wieder einsetzen
-wieder eingesteckt
+wiedereinsetzen
+wiedereingesteckt
 reinserting
 reinsertion
 reinserts
-neu installieren
-neu installiert
+neuinstallieren
+neuinstalliert
 neuinstallation
-neu installiert
+neuinstalliert
 wiederherstellen
-wieder eingesetzt
+wiedereingesetzt
 wiederherstellung
 wiederherstellungen
 reinigt
@@ -61473,38 +61473,38 @@ reintegriert
 reintegriert
 reintegrieren
 reintegration
-neu interpretieren
+neuinterpretieren
 neuinterpretation
 neuinterpretationen
-neu interpretiert
-neu interpretieren
-neu interpretiert
-wieder einführen
-wieder eingeführt
-wieder einführt
-wieder einführen
+neuinterpretiert
+neuinterpretieren
+neuinterpretiert
+wiedereinführen
+wiedereingeführt
+wiedereinführt
+wiedereinführen
 wiedereinführung
-neu erfinden
-neu erfunden
-neu erfinden
-neu erfindung
-neu erfindet
+neuerfinden
+neuerfunden
+neuerfinden
+neuerfindung
+neuerfindet
 reinvestieren
 reinvestiert
 reinvestieren
 reinvestition
 reinvestitionen
 reinvestiert
-neu belebt
-neu belebt
+neubelebt
+neubelebt
 belebt
-neu belebt
+neubelebt
 wiederbelebung
 wiederaufladbar
 neuausgabe
-neu aufgelegt
-neu veröffentlicht
-neu ausgeben
+neuaufgelegt
+neuveröffentlicht
+neuausgeben
 wiederholen
 wiederholt
 wiederholt
@@ -61516,25 +61516,25 @@ reits
 ablehnen
 abgelehnt
 entschädigen
-weigert sich
+weigertsich
 ablehnen
 ablehnung
 ablehnungen
-lehnt ab
+lehntab
 rejig
 rejigged
 rejigging
 rejigs
 jubeln
-freute sich
-freut sich
+freutesich
+freutsich
 jubel
-wieder zusammen
+wiederzusammen
 gegenerwiderung
 widerspricht
 antwortete
-wieder zusammen
-kehrt zurück
+wiederzusammen
+kehrtzurück
 verjüngen
 verjüngt
 verjüngt
@@ -61543,19 +61543,19 @@ verjüngung
 verjünger
 verjünger
 rekindle
-neu entfacht
+neuentfacht
 rekindles
-neu entfachen
+neuentfachen
 rückfall
 rezidiviert
 rückfälle
 rezidivierend
-sich beziehen
+sichbeziehen
 verwandt
 verwandtschaft
 erzählen
 verkehrer
-bezieht sich auf
+beziehtsichauf
 bezüglich
 beziehung
 relationalen
@@ -61573,7 +61573,7 @@ relativisten
 relativität
 reporter
 verwandte
-entspannen sie sich
+entspannensiesich
 entspannend
 entspannenden
 entspannung
@@ -61608,7 +61608,7 @@ erfreuen
 unerbittlich
 unerbittlich
 unerbittlichkeit
-neigt dazu
+neigtdazu
 relevanz
 relevanz
 relevant
@@ -61626,7 +61626,7 @@ reklamationen
 relicts
 verlassen
 relief
-stützt sich auf
+stütztsichauf
 entlastbar
 entlasten
 erleichtert
@@ -61659,12 +61659,12 @@ genießen
 genossen
 genießt
 geniessen
-erleben sie
+erlebensie
 erleichtert
 erlebt
 wiederbeleben
-neu laden
-neu geladen
+neuladen
+neugeladen
 neuladen
 reloads
 verlagern
@@ -61675,18 +61675,18 @@ umzug
 widerstreben
 widerwillig
 widerwillig
-sich verlassen
-sich verlassen
+sichverlassen
+sichverlassen
 umgestalten
-bleiben übrig
+bleibenübrig
 rest
 restbestände
 blieb
 verbleibend
-bleibt bestehen
-neu machen
+bleibtbestehen
+neumachen
 remakes
-neu machen
+neumachen
 remand
 zurückgebracht
 remanding
@@ -61701,7 +61701,7 @@ wiederverheiratung
 verheiratet
 wiederverheiratet
 verheiratet
-wieder heiraten
+wiederheiraten
 verheiratet
 rückkampf
 rückkämpfe
@@ -61717,9 +61717,9 @@ behindert
 abhilfe
 behebung
 merken
-fiel ein
+fielein
 erinnern
-erinnert sich
+erinnertsich
 erinnerung
 remembrancer
 erinnerungen
@@ -61734,8 +61734,8 @@ remington
 erinnern
 erinnert
 reminiszenz
-erinnert an
-erinnert an
+erinnertan
+erinnertan
 erinnernd
 erinnert
 erinnert
@@ -61745,7 +61745,7 @@ rabatte
 remising
 nachlässig
 verzugsfähigkeit
-nicht zulässig
+nichtzulässig
 vernachlässigbar
 remission
 remissionen
@@ -61779,7 +61779,7 @@ umklappen
 umgebaut
 remolding
 remolds
-remone landsitz bodentemperatur
+remonelandsitzbodentemperatur
 protest
 remonstrant
 unterwerfen
@@ -61806,11 +61806,11 @@ abgelegenheit
 remoter
 entlegensten
 remould
-neu geformt
+neugeformt
 remoulding
 remoulds
 remount
-wieder montiert
+wiedermontiert
 remounting
 remounts
 abnehmbar
@@ -61833,10 +61833,10 @@ rewarder
 vergütungen
 remus
 renaissance
-nieren-
+nieren
 umbenennen
 umbenannt
-benennt um
+benenntum
 umbenennung
 renascence
 renascent
@@ -61866,10 +61866,10 @@ rief
 reneges
 reneging
 verhandelbar
-neu verhandeln
-neu verhandelt
-neu verhandelt
-neu verhandeln
+neuverhandeln
+neuverhandelt
+neuverhandelt
+neuverhandeln
 neuverhandlung
 erneuern
 verlängerbar
@@ -61914,7 +61914,7 @@ rentiers
 vermietung
 vermietet
 umbenennen
-neu nummeriert
+neunummeriert
 umnummerieren
 umbenannt
 verzicht
@@ -61923,49 +61923,49 @@ rückkehr
 referenzen
 reo
 reoccupation
-wieder besetzt
+wiederbesetzt
 reoccupies
 reoccupy
 reoccupying
-wieder auftauchen
-wieder auftauchen
-wieder auftauchen
-wieder öffnen
+wiederauftauchen
+wiederauftauchen
+wiederauftauchen
+wiederöffnen
 wiedereröffnet
 wiedereröffnung
 eröffnet
-neu ordnen
+neuordnen
 nachbestellt
 neuordnung
 reorder
 reorganisation
 reorganisationen
 reorganisieren
-neu organisiert
+neuorganisiert
 reorganisiert
 reorganisieren
 reorganisation
 reorganisationen
 reorganisieren
-neu organisiert
+neuorganisiert
 reorganisiert
 reorganisieren
-neu orientieren
-neu orientieren
+neuorientieren
+neuorientieren
 umorientierung
-neu orientiert
-neu orientieren
-neu orientiert
+neuorientiert
+neuorientieren
+neuorientiert
 rep
 verpacken
-neu verpackt
+neuverpackt
 verpackungen
 umverpacken
 zurückgezahlt
-neu streichen
-neu gestrichen
-neu streichen
-neu lackiert
+neustreichen
+neugestrichen
+neustreichen
+neulackiert
 reparieren
 reparierbar
 repariert
@@ -62016,7 +62016,7 @@ abstoßend
 abweisend
 abweisend
 abweisend
-stößt ab
+stößtab
 bereuen
 buße
 reuig
@@ -62055,16 +62055,16 @@ ersatz
 ersetzt
 ersetzen
 replantieren
-neu gepflanzt
+neugepflanzt
 wiederbepflanzung
 replants
 wiederholung
 wiedergegeben
 wiederholen
 replays
-wieder auffüllen
+wiederauffüllen
 aufgefüllt
-füllt sich
+fülltsich
 nachfüllung
 nachschub
 nachfüllungen
@@ -62100,7 +62100,7 @@ bericht
 meldepflichtig
 reportage
 berichtet
-berichten zufolge
+berichtenzufolge
 reporter
 reporter
 berichterstattung
@@ -62109,10 +62109,10 @@ berichtet
 repos
 ruhe
 reposed
-schlägt vor
+schlägtvor
 reposing
 umstellen
-neu positioniert
+neupositioniert
 repositionierung
 repositionen
 repositories
@@ -62217,24 +62217,24 @@ wiederholungen
 kriecht
 reptil
 reptilien
-reptilien-
+reptilien
 reptilien
 repton
 republik
-neu veröffentlichen
+neuveröffentlichen
 republikaner
 republikanischen
 republikaner
 republikation
 republikationen
 republiken
-neu veröffentlichen
-neu veröffentlicht
-neu veröffentlicht
-neu veröffentlichen
+neuveröffentlichen
+neuveröffentlicht
+neuveröffentlicht
+neuveröffentlichen
 ablehnen
 zurückgewiesen
-lehnt ab
+lehntab
 ablehnen
 zurückweisung
 ablehnungen
@@ -62291,12 +62291,12 @@ gefordert
 requiten
 fordern
 reran
-neu lesen
-neu lesen
+neulesen
+neulesen
 liest
-neu registrieren
-neu registriert
-neu registrieren
+neuregistrieren
+neuregistriert
+neuregistrieren
 reregister
 dinge
 wiederholung
@@ -62325,8 +62325,8 @@ retter
 retter
 rettet
 retten
-wieder verschließen
-wieder verschlossen
+wiederverschließen
+wiederverschlossen
 wiederverschließen
 reseals
 forschung
@@ -62384,9 +62384,9 @@ rücksendung
 zusammlungen
 umgerüstet
 umhüllen
-ist shi ps
+istships
 umbildung
-neu geschmolzen
+neugeschmolzen
 ummischt
 umschichten
 resiance
@@ -62447,7 +62447,7 @@ widersteht
 empfang
 sitzt
 resitting
-größe ändern
+größeändern
 verkleinert
 verkleinert
 größenänderung
@@ -62493,7 +62493,7 @@ einfallsreich
 einfallsreich
 einfallsreichtum
 ressourcen
-die achtung
+dieachtung
 seriosität
 respektabel
 respektvoll
@@ -62507,7 +62507,7 @@ beziehungsweise
 respektiert
 respell
 respelled
-oder abseilen
+oderabseilen
 respells
 atmung
 respirator
@@ -62540,11 +62540,11 @@ verantwortungsbewusst
 ansprechend
 reagierend
 empfänglichkeit
-sich ausruhen
+sichausruhen
 neustart
-neu gestartet
-neu starten
-neu startet
+neugestartet
+neustarten
+neustartet
 wiedergeben
 angepasst
 restatement
@@ -62608,8 +62608,8 @@ umstrukturierung
 ruht
 restudy
 restyled
-erneut einreichen
-erneut übermittelt
+erneuteinreichen
+erneutübermittelt
 wiedergegeben
 wiedervorlage
 ergebnis
@@ -62619,14 +62619,14 @@ resultierte
 resultierend
 ergebnisse
 fortsetzen
-wieder aufgenommen
-geht weiter
-wieder aufnehmen
+wiederaufgenommen
+gehtweiter
+wiederaufnehmen
 wiederaufnahme
-wieder auftauchen
-wieder aufgetaucht
-wieder auftaucht
-wieder auftauchen
+wiederauftauchen
+wiederaufgetaucht
+wiederauftaucht
+wiederauftauchen
 wiederaufleben
 wiederaufleben
 auferstehen
@@ -62658,7 +62658,7 @@ behalten
 behält
 wiederholung
 wiedererobert
-wiederholt sich
+wiederholtsich
 wiederholung
 vergelten
 vergelten
@@ -62712,15 +62712,15 @@ retinas
 retinnae
 gefolge
 retinues
-in den ruhestand gehen
-im ruhestand
+indenruhestandgehen
+imruhestand
 rentner
 rentner
 pensionierung
 ruhestand
-zieht sich zurück
+ziehtsichzurück
 zurückziehen
-im ruhestand
+imruhestand
 zurückgreifen
 zurückzuziehen
 retool
@@ -62728,7 +62728,7 @@ umgerüstet
 retooling
 retools
 retouren
-vergeltungs-
+vergeltungs
 viktimisierung
 retorte
 erwidert
@@ -62754,7 +62754,7 @@ retraktionen
 retraktiv
 retraktor
 retraktoren
-zieht sich zurück
+ziehtsichzurück
 umschulen
 umgeschult
 umschulung
@@ -62763,10 +62763,10 @@ retranslatieren
 zurückübertragen
 retranslatiert
 rückübersetzung
-erneute übertragung
+erneuteübertragung
 wiederübertragen
-erneut überträgt
-erneut übertragen
+erneutüberträgt
+erneutübertragen
 runderneuerung
 retreads
 rückzug
@@ -62795,14 +62795,14 @@ abrufen
 abgerufen
 retriever
 retriever
-ruft ab
+ruftab
 abrufen
 retro
 rückwirkend
 rückwirkend
-tritt zurück
+trittzurück
 zurückgezogen
-sie gehen zurück
+siegehenzurück
 rückwirkend
 retrozession
 nachrüsten
@@ -62816,7 +62816,7 @@ retrograded
 retrogrades
 retrograding
 rückschritt
-rückgängig gemacht
+rückgängiggemacht
 rückstände
 rückwirkend
 rückschritt
@@ -62836,14 +62836,14 @@ retsina
 recht
 rückkehr
 mehrweg
-ist zurückgekommen
+istzurückgekommen
 returnee
 rückkehrer
 zurückkehren
-kehrt zurück
-sich wiederholen
+kehrtzurück
+sichwiederholen
 wiederholen
-wieder eingegeben
+wiedereingegeben
 retypen
 wiederholen
 wiedervereinigung
@@ -62886,10 +62886,10 @@ verwerten
 aufgewertet
 revalorizes
 aufwertet
-neu bewerten
+neubewerten
 aufwertung
 aufwerten
-neu bewertet
+neubewertet
 revalues
 neubewertung
 umbauen
@@ -62922,7 +62922,7 @@ rückkehr
 revenants
 anspruch
 rache
-rächt sich
+rächtsich
 rachsüchtig
 rachsüchtig
 rache
@@ -62960,8 +62960,8 @@ rückschlag
 umkehrung
 stornierungen
 umkehren
-rückgängig gemacht
-kehrt um
+rückgängiggemacht
+kehrtum
 reversibilität
 reversibel
 reversibel
@@ -62976,7 +62976,7 @@ zurückgekehrt
 umkehren
 revertible
 revertieren
-kehrt zurück
+kehrtzurück
 revest
 revested
 revesting
@@ -63014,8 +63014,8 @@ revisionismus
 revisionistisch
 revisionisten
 revisionen
-wieder besuchen
-wieder besucht
+wiederbesuchen
+wiederbesucht
 revisiting
 revisits
 buchhalter
@@ -63079,7 +63079,7 @@ drehen
 gedreht
 revolver
 revolver
-dreht sich
+drehtsich
 drehen
 revs
 revue
@@ -63095,7 +63095,7 @@ zurückspulen
 zurückspulen
 zurückspulen
 rewire
-neu verdrahtet
+neuverdrahtet
 umdraht
 umverdrahten
 umformulieren
@@ -63286,7 +63286,7 @@ kämme
 ridgeway
 ridging
 spott
-lächerlich gemacht
+lächerlichgemacht
 lächerlich
 verhöhnung
 lächerlich
@@ -63299,7 +63299,7 @@ nichts
 riesling
 rieslings
 rievauxl
-weit verbreitet
+weitverbreitet
 rifer
 rifest
 riffle
@@ -63338,14 +63338,14 @@ richtig
 rechtsgerichtet
 rechtsanwälte
 richtig
-ganz rechts
+ganzrechts
 richtigkeit
 rechte
-nach rechts
-nach rechts
+nachrechts
+nachrechts
 starr
 verfestigt
-verfestigt sich
+verfestigtsich
 verfestigen
 verfestigung
 steifigkeit
@@ -63409,7 +63409,7 @@ rioting
 unruhig
 rücksichtslos
 unruhen
-ruhe in frieden
+ruheinfrieden
 ripa
 riparia
 riparier
@@ -63437,11 +63437,11 @@ kräuselungen
 plätschern
 reißt
 ripsaw
-erhebt euch
+erhebteuch
 auferstanden
 steigleitung
 steigern
-erhebt sich
+erhebtsich
 lachlust
 lächerlich
 risikulär
@@ -63666,7 +63666,7 @@ rollen
 rollt
 rollen
 rollmops
-sich umdrehen
+sichumdrehen
 rollen
 rom
 romaine
@@ -63725,7 +63725,7 @@ dach
 dachdecker
 dachdecker
 dach
-ohne dach
+ohnedach
 dächer
 dachterrasse
 dächer
@@ -63747,7 +63747,7 @@ roomettes
 geräumig
 roomfuls
 geräumiger
-am wenigsten
+amwenigsten
 geräumigkeit
 zimmer
 mitbewohner
@@ -63823,7 +63823,7 @@ drehen
 routen
 drehen
 gedreht
-dreht sich
+drehtsich
 rotierend
 drehung
 drehen
@@ -63862,8 +63862,8 @@ rotundität
 rubel
 rubel
 rouen
-fleisch?
-fleisch? ja
+fleisch
+fleischja
 rouge
 geschmiedet
 rot
@@ -63878,7 +63878,7 @@ aufgeraut
 aufrauung
 raudert
 rauer
-am härtesten
+amhärtesten
 roughhouse
 roughhoused
 roughhäuser
@@ -63905,8 +63905,8 @@ roundelays
 roundels
 runder
 runde
-am schnellsten
-runder kopf
+amschnellsten
+runderkopf
 roundheads
 roundhouse
 abrunden
@@ -63915,7 +63915,7 @@ ringsum
 rundheit
 runden
 roundsman
-runder tisch
+rundertisch
 zusammenfassen
 runden
 spulwurm
@@ -63997,7 +63997,7 @@ gummiert
 gummieren
 gaffen
 gummiert
-gummi-rochen
+gummirochen
 gummiknüppel
 gummis
 gummiartig
@@ -64165,7 +64165,7 @@ rums
 lauf
 runabout
 runabouts
-renn weg
+rennweg
 ausreißer
 runbacks
 runcorn
@@ -64182,7 +64182,7 @@ runnels
 läufer
 läufer
 runnier
-am häufigsten
+amhäufigsten
 laufen
 laufend
 runnymede
@@ -64237,7 +64237,7 @@ rustikalität
 rustik
 rost
 rustier
-rest-stenose
+reststenose
 rostigkeit
 verrostet
 rascheln
@@ -64308,7 +64308,7 @@ saccharine
 saccharin
 sexy
 sackleinen
-priester-
+priester
 sachem
 sachems
 beutel
@@ -64395,7 +64395,7 @@ verwahrung
 sicher
 sicherer
 safes
-am sichersten
+amsichersten
 safeties
 sicherheit
 saflor
@@ -64481,7 +64481,7 @@ verkaufsfähigkeit
 verkaufsfähig
 salem
 verkaufstechnik
-der umsatz
+derumsatz
 verkäuferin
 salesgirls
 salesian
@@ -64510,7 +64510,7 @@ salzgehalt
 salique
 salisbury
 speichel
-speichel-
+speichel
 salivieren
 saliviert
 saliviert
@@ -64543,7 +64543,7 @@ salsa
 salsas
 verfälscht
 verfälschen
-salz-
+salz
 salzburn
 salzbusch
 gesalzen
@@ -64662,7 +64662,7 @@ sand
 sandale
 sandalen
 sandelholz
-sandara c
+sandarac
 sandsack
 sandbagged
 sandbagging
@@ -64697,7 +64697,7 @@ sandstein
 sandsturm
 sandwich
 sandwiched
-belegte brote
+belegtebrote
 sandwiching
 sandig
 gesund
@@ -64839,7 +64839,7 @@ satiates
 sättigend
 satiation
 sättigung
-satin-
+satin
 satinet
 satiniert
 sitzen
@@ -64911,7 +64911,7 @@ frech
 saudi
 saudis
 sauerbraten
-das sauerkraut
+dassauerkraut
 saul
 sauna
 saunen
@@ -64926,10 +64926,10 @@ wurst
 würste
 sauternes
 sauternes
-springen?
-springen? ed
-springen? ing
-springen? s
+springen
+springened
+springening
+springens
 sauvignon
 sparsam
 wild
@@ -65142,7 +65142,7 @@ schals
 schärfer
 schrecklich
 vernarrt
-klärt sich
+klärtsich
 skarifizieren
 skarifizierung
 narbe
@@ -65472,7 +65472,7 @@ scouting
 scoutmaster
 pfadfinder
 scow
-finsterer blick
+finstererblick
 schaukeln
 scowling
 scowls
@@ -65647,7 +65647,7 @@ schrubbt
 scruff
 schäbig
 schäbigsten
-vergammelter zustand
+vergammelterzustand
 scruffs
 schäbig
 gedränge
@@ -65690,7 +65690,7 @@ abgerieben
 verschwinden
 rauferei
 gekräuselt
-rauferei; handgemenge
+raufereihandgemenge
 scuffling
 verschleiß
 scull
@@ -65767,7 +65767,7 @@ seetüchtig
 möwe
 möwen
 seaham
-die alte
+diealte
 dichtung
 versiegelung
 versiegelt
@@ -65851,7 +65851,7 @@ seewannen
 seetang
 seetüchtigkeit
 seetüchtig
-talg-
+talg
 sebastian
 seborrhö
 seborrhoea
@@ -66010,7 +66010,7 @@ samenkapsel
 sämaschinen
 ausgesät
 seediger
-am heitersten
+amheitersten
 seedily
 schäbigkeit
 seeding
@@ -66108,12 +66108,12 @@ seismologen
 seismologie
 seismometer
 seismometer
-sex-sms
+sexsms
 erkennbar
 ergreifen
 beschlagnahmt
 ergreift
-mit freundlicher genehmigung
+mitfreundlichergenehmigung
 ergreifen
 seizine
 beschlagnahme
@@ -66132,7 +66132,7 @@ selektiv
 selektivität
 wähler
 selektoren
-wählt aus
+wähltaus
 selen
 selbst
 selbstheit
@@ -66177,7 +66177,7 @@ semester
 semester
 halb
 halbautomatisch
-ganze note
+ganzenote
 semibreves
 halbkreis
 halbkreis
@@ -66216,7 +66216,7 @@ semivokal
 halbfedern
 grieß
 immer
-zurück haar
+zurückhaar
 senat
 senaten
 senator
@@ -66337,7 +66337,7 @@ getrennte
 getrennt
 separat
 getrenntheit
-trennt sich
+trenntsich
 trennung
 trennung
 trennungen
@@ -66387,7 +66387,7 @@ sequenziert
 sequenzen
 sequenzierung
 sequentiell
-der reihe nach
+derreihenach
 sequestrieren
 abgesondert
 sequestrierung
@@ -66560,14 +66560,14 @@ setter
 setzer
 rahmen
 einstellungen
-sich niederlassen
+sichniederlassen
 besiedelt
 siedlung
 siedlungen
 siedler
 siedler
 besiedelt
-sich niederlassen
+sichniederlassen
 settlor
 siedler
 sieben
@@ -66579,7 +66579,7 @@ siebzehnten
 siebzehntel
 siebte
 siebte
-siebziger jahre
+siebzigerjahre
 siebzigste
 siebziger
 siebzig
@@ -66595,7 +66595,7 @@ abgetrennt
 stark
 schwere
 schärfer
-am stärksten
+amstärksten
 trennen
 schwere
 severn
@@ -66617,7 +66617,7 @@ sexagenarians
 geschlechtlich
 geschlechter
 sexier
-am sexysten
+amsexysten
 sexiness
 sexing
 sexismus
@@ -66701,7 +66701,7 @@ shaggy
 shags
 schah
 shahs
-shaka b tut
+shakabtut
 shake
 shakeable
 shakedown
@@ -66746,7 +66746,7 @@ geschrumpft
 schlägt
 shambling
 schande
-schande, d
+schanded
 beschämt
 beschämt
 beschämend
@@ -66771,7 +66771,7 @@ shamrocks
 shams
 shamus
 shamuses
-berg steine
+bergsteine
 shandy
 shane
 shanghai
@@ -66831,7 +66831,7 @@ sharpie
 scharfe
 scharf
 schärfe
-scharfes s
+scharfess
 scharfschütze
 scharfschützen
 shasta
@@ -67016,7 +67016,7 @@ shimmying
 beiläufig
 schienbein
 schienbein
-jimbo i s
+jimbois
 shindig
 shindigs
 scheinen
@@ -67037,7 +67037,7 @@ shinned
 shinnies
 shinning
 shinny
-shin y trink g
+shinytrinkg
 schien
 schintoismus
 glänzend
@@ -67083,8 +67083,8 @@ shirrs
 hemd
 shirtier
 heftigsten
-t-shirts
-mit nacktem oberkörper
+tshirts
+mitnacktemoberkörper
 shirts
 hemdshülse
 hemdsärmel
@@ -67094,7 +67094,7 @@ hemden
 shish
 scheisse
 scheiße
-kennen und d
+kennenundd
 scheiße
 beschissen
 shiva
@@ -67108,7 +67108,7 @@ shoaled
 schwärmen
 schlägt
 shoat
-shore ts
+shorets
 schock
 schockiert
 schocker
@@ -67144,7 +67144,7 @@ shoetrees
 shogun
 shoguns
 besitz
-angelegenheiten s
+angelegenheitens
 leuchtete
 shoo
 geschossen
@@ -67199,7 +67199,7 @@ kurzgeschlossen
 verkürzen
 verkürzt
 verkürzung
-verkürzt sich
+verkürztsich
 kürzer
 kürzeste
 fehlbetrag
@@ -67211,7 +67211,7 @@ kurzschluss
 shortish
 kurz
 kürze
-kurze hose
+kurzehose
 schostakowitsch
 schuss
 schrotflinte
@@ -67275,7 +67275,7 @@ schauplatz
 showplaces
 ausstellungsraum
 ausstellungsräume
-zeigt an
+zeigtan
 auffällig
 schrumpfte
 schrapnell
@@ -67344,9 +67344,9 @@ strauchbar
 strauch
 sträuche
 zucken
-zuckte die achseln
+zucktedieachseln
 achselzuckend
-zuckt mit den schultern
+zucktmitdenschultern
 geschrumpft
 geschrumpft
 shtick
@@ -67580,7 +67580,7 @@ signifikant
 signifiers
 bedeutet
 bedeuten
-was bedeutet
+wasbedeutet
 unterzeichnung
 wegweiser
 wegweiser
@@ -67593,7 +67593,7 @@ sikhs
 silage
 silas
 schweigen
-zum schweigen gebracht
+zumschweigengebracht
 schalldämpfer
 schalldämpfer
 schweigen
@@ -67639,8 +67639,8 @@ warm
 schluffig
 silur
 silvan
-wald-
-silber-
+wald
+silber
 versilbert
 versilberung
 silvers
@@ -67660,7 +67660,7 @@ gleichheiten
 ähnlichkeit
 kochen
 gekocht
-köcheln lassen
+köchelnlassen
 simmern
 simon
 simonisieren
@@ -67724,9 +67724,9 @@ gleichzeitig
 gleichzeitigkeit
 ohne
 sinai
-schon seit
+schonseit
 aufrichtig
-mit freundlichen grüßen
+mitfreundlichengrüßen
 sincerer
 aufrichtigste
 aufrichtigkeit
@@ -67755,7 +67755,7 @@ singen
 singen
 single
 vereinigt
-single sein
+singlesein
 einzel
 singulett
 singleton
@@ -67765,7 +67765,7 @@ singling
 einzeln
 singt
 singsang
-lieder singen
+liedersingen
 singular
 singularitäten
 singularität
@@ -67781,7 +67781,7 @@ sinkers
 sinkhole
 untergang
 sinkt
-ohne sünde
+ohnesünde
 zeit
 gesündigt
 sünder
@@ -67876,7 +67876,7 @@ sechzehnten
 sechzehntel
 sechste
 sechste
-sechziger jahre
+sechzigerjahre
 sechzigste
 sechziger
 sechzig
@@ -67909,7 +67909,7 @@ skeet
 skegness
 strang
 stränge
-skelett-
+skelett
 skelettartig
 skelett
 skelette
@@ -67993,7 +67993,7 @@ enthäutet
 skinner
 skinners
 skinnier
-am schlimmsten
+amschlimmsten
 magerkeit
 enthäuten
 dünn
@@ -68021,7 +68021,7 @@ geplünderung
 rock
 skirted
 sockelleisten
-die röcke
+dieröcke
 skis
 sketch
 skits
@@ -68102,7 +68102,7 @@ lockern
 schlägt
 slacker
 slackers
-am schlimmsten
+amschlimmsten
 nachlassen
 leise
 schlaffheit
@@ -68219,7 +68219,7 @@ glatt
 geschmeichelt
 schlanker
 schlanksten
-schlitten könig
+schlittenkönig
 glatt
 glätte
 sleeks
@@ -68245,7 +68245,7 @@ schläfrig
 schneeregen
 geschlafen
 schneeregen
-tragen sehr schnell
+tragensehrschnell
 sleety
 hülse
 sleeved
@@ -68270,7 +68270,7 @@ schlüpft
 schlankend
 schlank
 schlankheit
-habe geschlafen
+habegeschlafen
 sleuth
 geschleppt
 sleuthing
@@ -68299,7 +68299,7 @@ sliest
 leicht
 beleuchtet
 leichter
-am geringsten
+amgeringsten
 leichter
 leicht
 leichter
@@ -68397,7 +68397,7 @@ hänge
 abfallend
 geschlagen
 sloppier
-am schlimmsten
+amschlimmsten
 schlampig
 schlamperei
 slopping
@@ -68443,7 +68443,7 @@ langsamer
 verlangsamungen
 verlangsamt
 langsamer
-am langsamsten
+amlangsamsten
 verlangsamt
 langsam
 langsamkeit
@@ -68524,7 +68524,7 @@ schmatzend
 schlägt
 klein
 kleiner
-am kleinsten
+amkleinsten
 kleinbauern
 kleinbauern
 kleinhaltung
@@ -68611,7 +68611,7 @@ geschmiert
 klopfen
 kitteln
 smog
-smog geier
+smoggeier
 smoggiest
 smoggy
 rauch
@@ -68753,7 +68753,7 @@ snazzier
 snazziest
 snazzy
 schleichen
-schlich sich
+schlichsich
 sneaker
 turnschuhe
 hinterlistig
@@ -68761,7 +68761,7 @@ hinterlistig
 schleichen
 schleichen
 schleichen
-schleicht sich
+schleichtsich
 hinterhältig
 spotten
 höhnte
@@ -68905,7 +68905,7 @@ schneeglöckchen
 schneeglöckchen
 geschneit
 schneefall
-schnee fällt
+schneefällt
 schneeflocke
 schneeflocken
 schneebedeckter
@@ -68944,7 +68944,7 @@ snuggeries
 snuggery
 gemütlich
 kuscheln
-kuschelte sich
+kuscheltesich
 kuschelt
 kuscheln
 gemütlich
@@ -69022,12 +69022,12 @@ sozialisiert
 sozialisiert
 sozialisieren
 sozial
-sozial-
+sozial
 gesellschaftlich
 gesellschaft
 gesellschaften
 gesellschaft
-soci? t?
+socit
 soziologisch
 soziologisch
 soziologisch
@@ -69050,7 +69050,7 @@ limonade
 sodalitäten
 sodality
 sodas
-nass gemacht
+nassgemacht
 nass
 rasen
 natrium
@@ -69071,7 +69071,7 @@ sofa
 sofas
 sofia
 weich
-weicher ball
+weicherball
 erweichen
 erweicht
 weichmacher
@@ -69092,7 +69092,7 @@ soggiest
 klitschigkeit
 matschig
 soho
-ihren gaumen?
+ihrengaumen
 gepflegt
 boden
 verschmutzt
@@ -69112,7 +69112,7 @@ trost
 angelöscht
 ufer
 tröstenden
-solar-
+solar
 solaria
 solaris
 solarium
@@ -69132,11 +69132,11 @@ soldaten
 soldatisch
 soldaten
 soldaten
-sohle, einzig, alleinig
+sohleeinzigalleinig
 solecism
 solecisms
 schluchzen
-einzig und allein
+einzigundallein
 feierlich
 solemner
 feierlichste
@@ -69157,7 +69157,7 @@ solenoid
 magneten
 solent
 sohlen
-in der regel
+inderregel
 solfeggio
 solfeggios
 nur
@@ -69182,7 +69182,7 @@ solideste
 fest
 erstarrung
 verfestigt
-verfestigt sich
+verfestigtsich
 verfestigen
 verfestigung
 solidität
@@ -69268,7 +69268,7 @@ hut
 hüte
 etwas
 jemand
-irgendwann mal
+irgendwannmal
 irgendwie
 jemand
 irgendwo
@@ -69281,7 +69281,7 @@ somersett
 somerton
 somerville
 etwas
-etwas zeit
+etwaszeit
 manchmal
 irgendwie
 etwas
@@ -69313,14 +69313,14 @@ singvogel
 singvögel
 liederbuch
 liederbücher
-song fest
+songfest
 songfests
 lieder
 sänger
 lieder
 songwriter
 songwriter
-schall-
+schall
 sonett
 sonneteer
 sonneteers
@@ -69338,7 +69338,7 @@ sony
 sonja
 bald
 früher
-am frühesten
+amfrühesten
 ruß
 wahrheit
 beruhigen
@@ -69377,7 +69377,7 @@ schlafmittel
 soporiks
 eingetaucht
 soppier
-am wenigsten
+amwenigsten
 triefend
 soppy
 sopran
@@ -69397,7 +69397,7 @@ zauberei
 schmutzig
 schmutzig
 wund
-soreea d
+soreead
 schmerzlich
 schmerzen
 sorensen
@@ -69421,7 +69421,7 @@ traurig
 traurig
 traurig
 leiden
-es tut uns leid
+estutunsleid
 sortieren
 sortiert
 sortierer
@@ -69435,8 +69435,8 @@ heute
 schlaglöcher
 soubrette
 mägde
-geblasen?
-geblasen? s
+geblasen
+geblasens
 rauschen
 gehauen
 schälen
@@ -69500,17 +69500,17 @@ südall
 southampton
 südwärts
 southdown
-südost-
+südost
 südöstlich
 südlich
 südlich
-süd-
+süd
 südländer
 südländer
 südlicher
 südlichen
 südlichsten
-süd tor
+südtor
 südland
 rechtsausleger
 rechtsausleger
@@ -69606,7 +69606,7 @@ verschont
 sparsam
 spart
 rippchen
-spare ribs
+spareribs
 ersatzteile
 spärlich
 sparsam
@@ -69693,7 +69693,7 @@ besondere
 spezialisierung
 spezialisieren
 spezialisiert
-spezialisiert sich
+spezialisiertsich
 spezialisierung
 spezialist
 spezialisten
@@ -69702,7 +69702,7 @@ spezialität
 spezialisierung
 spezialisieren
 spezialisiert
-spezialisiert sich
+spezialisiertsich
 spezialisierung
 speziell
 spezialitäten
@@ -69823,7 +69823,7 @@ rechtschreibung
 buchstaben
 buchstabiert
 dinkel
-spiel thorne
+spielthorne
 spelunker
 spelunkers
 spelunking
@@ -69855,7 +69855,7 @@ spermien
 speien
 gespuckt
 spucken
-spuckt aus
+spucktaus
 spey
 sphagnum
 sphenoid
@@ -69942,13 +69942,13 @@ spinnen
 ausspinnen
 spinouts
 spinoza
-dreht sich
+drehtsich
 jungfer
 spinsters
 stachelig
 spritzloch
 spiracles
-spiral-
+spiral
 spiralförmig
 spiralen
 spiralförmig
@@ -70108,7 +70108,7 @@ patenschaften
 spontaneität
 spontan
 spontan
-freien willen
+freienwillen
 parodie
 gefälscht
 spoofing
@@ -70199,7 +70199,7 @@ verstauchung
 verstaucht
 verstauchung
 verstaucht
-sprang auf
+sprangauf
 boden
 sprotten
 ausbreitung
@@ -70216,7 +70216,7 @@ verbreitung
 spreader
 streuer
 verbreitung
-breitet sich aus
+breitetsichaus
 kalkulationstabelle
 tabellenkalkulationen
 spree
@@ -70632,7 +70632,7 @@ standouts
 standpunkt
 standpunkte
 steht
-still stehen
+stillstehen
 stills
 stanford
 stanhope
@@ -70676,12 +70676,12 @@ stargazed
 stargazer
 stargazers
 stargazes
-sterne beobachten
+sternebeobachten
 starrte
 stark
 starker
 starkers
-am stärksten
+amstärksten
 stark
 starlet
 starlets
@@ -70697,7 +70697,7 @@ mit
 sternenklar
 sterne
 anfang
-hat angefangen
+hatangefangen
 anlasser
 vorspeisen
 beginnend
@@ -70799,13 +70799,13 @@ standhaftigkeit
 stetig
 stetiger
 stetig
-am stärksten
+amstärksten
 ständig
 gleichmäßigkeit
 stetig
 stetig
 steak
-steak-house
+steakhouse
 steakhouses
 steaks
 stehlen
@@ -70935,7 +70935,7 @@ stiefmutter
 stiefmütter
 stepney
 steppe
-trat ein
+tratein
 stepper
 stepper
 steppen
@@ -71081,7 +71081,7 @@ stil
 stiehlt
 stilett
 stilette
-immer noch
+immernoch
 totgeburt
 totgeburten
 gestillt
@@ -71140,7 +71140,7 @@ stipples
 stippling
 festlegen
 festgesetzt
-legt fest
+legtfest
 festzulegen
 vorgabe
 vorschriften
@@ -71181,7 +71181,7 @@ lagerhaltung
 bestände
 stockholm
 stockier
-am stärksten
+amstärksten
 stämmigkeit
 stockinette
 strumpf
@@ -71330,7 +71330,7 @@ herd
 öfen
 verstauen
 stauung
-blinder passagier
+blinderpassagier
 blinde
 verstauen
 verstaut
@@ -71363,9 +71363,9 @@ sofort
 begradigen
 gerichtet
 gerichtet
-richtet sich
+richtetsich
 gerader
-am schnellsten
+amschnellsten
 einfach
 unkompliziert
 geradlinigkeit
@@ -71504,7 +71504,7 @@ strecken
 gestreckt
 bahre
 tragen
-streckt sich
+strecktsich
 stretcher
 streckste
 stretching
@@ -71525,7 +71525,7 @@ geschlagen
 strickland
 streng
 strenger
-am strengsten
+amstrengsten
 streng
 streng
 strenge
@@ -71570,7 +71570,7 @@ streifen
 streifen
 streifen
 stripier
-am stärksten
+amstärksten
 streifen
 bürschchen
 streifen
@@ -71609,14 +71609,14 @@ stromness
 strond
 stark
 stärker
-am stärksten
+amstärksten
 hochburg
 festungen
 stark
-starker mann
-starker mann
+starkermann
+starkermann
 starkraum
-starke räume
+starkeräume
 strontium
 decke
 strophe
@@ -71752,7 +71752,7 @@ dummheit
 dumm
 stupor
 stabiler
-am stärksten
+amstärksten
 stabil
 robustheit
 robust
@@ -71939,7 +71939,7 @@ untermenü
 tauchen
 untergetaucht
 untertauchen
-taucht ein
+tauchtein
 untertauchbarkeit
 untertauchbar
 untertauchen
@@ -72046,7 +72046,7 @@ substanzen
 minderwertig
 erheblich
 substantialität
-im wesentlichen
+imwesentlichen
 begründen
 begründet
 begründet
@@ -72135,7 +72135,7 @@ subtropen
 subtyp
 subtypen
 vorort
-vorort-
+vorort
 suburbanise
 suburbanisiert
 suburbanisierungen
@@ -72158,13 +72158,13 @@ untergraben
 untergraben
 untergraben
 untergeordneten
-u-bahn
-u-bahnen
-unter null
+ubahn
+ubahnen
+unternull
 gelingen
 gelungen
 gelungen
-gelingt es
+gelingtes
 erfolg
 erfolge
 erfolgreich
@@ -72196,8 +72196,8 @@ erliegen
 erlegen
 erliegen
 erliegt
-eine solche
-so ähnlich
+einesolche
+soähnlich
 saugen
 gesaugt
 saugnapf
@@ -72223,7 +72223,7 @@ schaum
 schaumig
 verklagen
 verklagt
-wildleder-
+wildleder
 verklagt
 talg
 suez
@@ -72287,7 +72287,7 @@ vorschläge
 suggestiv
 suggestiv
 suggestivität
-schlägt vor
+schlägtvor
 auf
 lebensmüde
 selbstmord
@@ -72308,7 +72308,7 @@ freier
 suitor
 passt
 sukiyaki
-sukiyaki s
+sukiyakis
 sulfa
 sulfanilamid
 sulfat
@@ -72386,12 +72386,12 @@ summarisch
 zusammenfassung
 zusammenfassen
 zusammengefasst
-fasst zusammen
+fasstzusammen
 zusammenfassen
 zusammenfassung
 zusammenfassen
 zusammengefasst
-fasst zusammen
+fasstzusammen
 zusammenfassen
 zusammenfassung
 summieren
@@ -72401,7 +72401,7 @@ summierend
 summe
 summationen
 summiert
-sommer-
+sommer
 sommerlich
 sommer
 summers
@@ -72468,7 +72468,7 @@ gesungen
 sonnenbrille
 gesunken
 versunken
-ohne sonne
+ohnesonne
 sonnenlicht
 sonnig
 sauer
@@ -72479,7 +72479,7 @@ sonnen
 sunnis
 sonnig
 sonnenaufgang
-die sonne geht auf
+diesonnegehtauf
 schiebedach
 sonnen
 sonnenschutzmittel
@@ -72608,7 +72608,7 @@ supersensitiv
 supersession
 superset
 supersets
-überschall-
+überschall
 überschall
 superstar
 superstars
@@ -72639,7 +72639,7 @@ supervisor
 vorgesetzten
 aufsichtsrechtlich
 superwoman
-super frau
+superfrau
 rückenlage
 supinely
 angeblich
@@ -72656,7 +72656,7 @@ ergänzend
 ergänzend
 ergänzung
 ergänzt
-zur ergänzung
+zurergänzung
 ergänzt
 geschmeidigkeit
 suppler
@@ -72669,7 +72669,7 @@ bittsteller
 flehende
 flehen
 flehentlich
-fleht an
+flehtan
 flehende
 flehen
 flehen
@@ -72743,7 +72743,7 @@ sicher
 sicherlich
 sicherheit
 surer
-am ehesten
+amehesten
 bürgschaften
 sicherheit
 sicherheit
@@ -72790,7 +72790,7 @@ vermuten
 überwunden
 überwindung
 überwältigt
-familien-oder nachname
+familienodernachname
 nachname
 nachnamen
 übertreffen
@@ -72814,12 +72814,12 @@ surrealist
 surrealistisch
 surrealistisch
 surrealisten
-lasch butter
+laschbutter
 surrebutters
 surrejoinder
 surrejoinders
 kapitulation
-ergibt sich
+ergibtsich
 surrenderee
 surrenderees
 aufgeben
@@ -72995,7 +72995,7 @@ schwärmte
 schwärmen
 schwärme
 schwärmer
-am schwersten
+amschwersten
 schwindel
 schwach
 swashbuckler
@@ -73060,7 +73060,7 @@ fegt
 gewinnspiel
 gewinnspiele
 süß
-süßes brot
+süßesbrot
 brötchen
 mais
 versüßen
@@ -73070,7 +73070,7 @@ süßstoffe
 süßung
 süßt
 süßer
-am süßesten
+amsüßesten
 schatz
 schatz
 süßlich
@@ -73095,7 +73095,7 @@ schwenkt
 ausweichen
 schnell
 schnellere
-am schnellsten
+amschnellsten
 schnell
 schnelligkeit
 swifts
@@ -73432,7 +73432,7 @@ systolen
 systolisch
 szechwan
 t
-es war
+eswar
 tab
 tabard
 wappen
@@ -73585,7 +73585,7 @@ nehmen
 wegbringen
 mitnehmen
 genommen
-ausziehen, starten, abheben, losfahren
+ausziehenstartenabhebenlosfahren
 startet
 taker
 abnehmer
@@ -73609,7 +73609,7 @@ talionis
 talisman
 talismanischen
 talismane
-sich unterhalten
+sichunterhalten
 gesprächig
 gesprächig
 gesprächigkeit
@@ -73625,8 +73625,8 @@ hoch
 tallage
 tallages
 tallahassee
-großer junge
-große jungen
+großerjunge
+großejungen
 größer
 höchste
 tallied
@@ -73644,7 +73644,7 @@ talon
 absätze
 talweg
 talyllyn
-es war
+eswar
 zähmbar
 tamale
 tamales
@@ -73734,7 +73734,7 @@ tankful
 tankfuls
 tanken
 tanks
-braun gebrannt
+braungebrannt
 gerber
 gerbereien
 tanners
@@ -73782,10 +73782,10 @@ taoisten
 tippen
 band
 geklebt
-sich verjüngen
+sichverjüngen
 verjüngt
 verjüngend
-verjüngt sich
+verjüngtsich
 bänder
 tapferei
 tapisserien
@@ -74239,7 +74239,7 @@ teletypen
 teletypewriter
 teletypewriters
 televise
-im fernsehen
+imfernsehen
 fernseher
 fernsehen
 fernsehen
@@ -74247,7 +74247,7 @@ fernseher
 telex
 telexed
 telexe
-teller von
+tellervon
 telford
 sagen
 erzähler
@@ -74257,7 +74257,7 @@ erzählen
 erzählen
 erzählt
 verräterisch
-geschichten erzählen
+geschichtenerzählen
 tellurianer
 tellurians
 tellurid
@@ -74315,10 +74315,10 @@ vorübergehend
 vorübergehend
 zeitweise
 beenden
-zeitlich begrenzt
+zeitlichbegrenzt
 temporizer
 temporisierer
-schlägt vor
+schlägtvor
 zeitlich
 zeit
 zeit
@@ -74391,7 +74391,7 @@ sehne
 sehnen
 ranke
 tendrils
-neigt dazu
+neigtdazu
 tenebrous
 mietshaus
 tenemental
@@ -74465,7 +74465,7 @@ tequila
 tequilas
 teratologie
 terbium
-dreihundert jahre
+dreihundertjahre
 tercentenary
 tercentennial
 tercentennials
@@ -74572,7 +74572,7 @@ knapp
 knapp
 knappheit
 tertian
-tertiär-
+tertiär
 dritte
 einwendung
 dritte
@@ -74631,8 +74631,8 @@ testen
 tests
 tetanus
 tetbury
-auf t chie r
-auf t chie st
+auftchier
+auftchiest
 gereizt
 binden
 gebunden
@@ -74667,7 +74667,7 @@ texas
 text
 lehrbuch
 lehrbücher
-textil-
+textil
 textilien
 texte
 text
@@ -74703,8 +74703,8 @@ danke
 undankbar
 dankbar
 undankbarkeit
-vielen dank
-das erntedankfest
+vielendank
+daserntedankfest
 danksagungen
 dass
 stroh
@@ -74716,7 +74716,7 @@ dachdecken
 auftauen
 aufgetaut
 auftauen
-taut auf
+tautauf
 gespannt
 das
 thea
@@ -74754,9 +74754,9 @@ thema
 themen
 sich
 dann
-von dort
-von da an
-von nun an
+vondort
+vondaan
+vonnunan
 theokratien
 theokratie
 theokraten
@@ -74830,14 +74830,14 @@ darin
 davor
 davon
 darauf
-da ist ein
+daistein
 dazu
 darunter
 dort
 daraufhin
 damit
 therm
-thermal-
+thermal
 thermisch
 thermische
 thermion
@@ -74893,7 +74893,7 @@ verdickung
 verdickungen
 verdickt
 dicker
-am dicksten
+amdicksten
 dickicht
 verdickt
 dickicht
@@ -74953,7 +74953,7 @@ durstig
 dreizehn
 dreizehnte
 dreizehnte
-dreißiger jahre
+dreißigerjahre
 dreißigste
 dreißigste
 dreißig
@@ -74982,7 +74982,7 @@ dornen
 thornton
 dornig
 gründlich
-vollblut-
+vollblut
 vollblüter
 durchgangsstraße
 landstraßen
@@ -74993,7 +74993,7 @@ thorpe
 jene
 du
 obwohl
-habe gedacht
+habegedacht
 nachdenklich
 nachdenklich
 nachdenklichkeit
@@ -75018,7 +75018,7 @@ prügel
 thrashings
 faden
 fadenscheinig
-mit gewinde versehen
+mitgewindeversehen
 einfädeln
 fäden
 bedrohung
@@ -75070,7 +75070,7 @@ gedeihen
 kehle
 throated
 kälter
-am stärksten
+amstärksten
 kehlig
 kehlen
 kehlig
@@ -75235,7 +75235,7 @@ tidewater
 aufgeräumt
 sauberer
 ordnungen
-am geringsten
+amgeringsten
 ordentlich
 sauberkeit
 tiding
@@ -75263,9 +75263,9 @@ fest
 spannen
 verschärft
 anziehen
-strafft sich
+strafftsich
 fester
-am engsten
+amengsten
 dicht
 dichtheit
 seil
@@ -75342,7 +75342,7 @@ schüchtern
 schüchternheit
 schüchtern
 ängstlichkeit
-zeitliche koordinierung
+zeitlichekoordinierung
 timings
 timmy
 timocracies
@@ -75412,7 +75412,7 @@ tintinnabulation
 tönt
 tintype
 tintypen
-sehr klein
+sehrklein
 spitze
 gekippt
 tippee
@@ -75443,7 +75443,7 @@ zehenspitzen
 zehenspitzen
 zehenspitzen
 zehenspitzen
-tip top
+tiptop
 tirade
 tirades
 tirana
@@ -75585,7 +75585,7 @@ vermögenswert
 bogging
 umschalten
 umgeschaltet
-schaltet ein
+schaltetein
 toggling
 gehen
 war
@@ -75697,7 +75697,7 @@ zungen
 zungen
 tonic
 tonik
-heute abend
+heuteabend
 tönung
 tonnage
 tonne
@@ -75739,7 +75739,7 @@ zahnbürste
 zahnbürsten
 gezahnt
 zäher
-am meisten
+ammeisten
 toothily
 zahnlos
 zahnpasta
@@ -75775,7 +75775,7 @@ topisch
 themen
 finden
 topknot
-oben ohne
+obenohne
 topmast
 topmasts
 oberste
@@ -75888,7 +75888,7 @@ tory
 tosca
 tosco
 tosh
-und chez r
+undchezr
 toshiba
 werfen
 geworfen
@@ -75905,7 +75905,7 @@ summierung
 tote
 summen
 gesammelt
-summiert sich
+summiertsich
 summieren
 totalitär
 totalitarismus
@@ -75914,7 +75914,7 @@ insgesamt
 gesamtheit
 summieren
 gesammelt
-summiert sich
+summiertsich
 summieren
 gesammelt
 insgesamt
@@ -75930,7 +75930,7 @@ toting
 totnes
 diese
 alle
-genommen d
+genommend
 totten
 tottenham
 wanken
@@ -75947,7 +75947,7 @@ landung
 touchdowns
 berührt
 berührt
-berühren?
+berühren
 berührungsloser
 anspruchsvollsten
 empfindlichkeit
@@ -76003,7 +76003,7 @@ abschleppen
 anziehbar
 schleppen
 zu
-in richtung
+inrichtung
 schleppboot
 schleppboote
 towcester
@@ -76011,13 +76011,13 @@ geschleppt
 handtuch
 toweled
 handtuch
-zu wohnen
+zuwohnen
 handtuch
 handtücher
 turm
 überragt
-hoch aufragend
-hoch aufragend
+hochaufragend
+hochaufragend
 türme
 towheads
 towhee
@@ -76145,7 +76145,7 @@ traducing
 übersetzung
 übersetzungen
 trafalgar
-der verkehr
+derverkehr
 gehandelt
 trafficker
 trafficker
@@ -76213,7 +76213,7 @@ zertrampelt
 trampeln
 trampolin
 trampoline
-trampolin springen
+trampolinspringen
 tramps
 tramroad
 tramroads
@@ -76231,7 +76231,7 @@ beruhigen
 beruhigt
 beruhigungsmittel
 tranquilizer
-beruhigt sich
+beruhigtsich
 beruhigend
 beruhigung
 beruhigen
@@ -76317,7 +76317,7 @@ transformiert
 transformator
 transformatoren
 verwandeln
-verwandelt sich
+verwandeltsich
 übertragen
 transfundiert
 transfuses
@@ -76422,7 +76422,7 @@ transmutation
 transmutationen
 verwandeln
 verwandelt
-verwandelt sich
+verwandeltsich
 umwandeln
 transocean
 transoceanic
@@ -76583,7 +76583,7 @@ treppen
 treadles
 tretmühle
 laufbänder
-tritt auf
+trittauf
 verrat
 verräterisch
 verräterisch
@@ -76718,7 +76718,7 @@ triathleten
 triathlon
 triathlons
 tribadism
-stammes-
+stammes
 tribalismus
 tribal
 stamm
@@ -76803,7 +76803,7 @@ ausgelöst
 auslöser
 ausgelöst
 auslösen
-löst aus
+löstaus
 triggern
 triglyphe
 trigonal
@@ -76923,7 +76923,7 @@ triumphiert
 triumvir
 triumvirat
 triumviraten
-die betreuer
+diebetreuer
 triumvirs
 dreieinigen
 triunen
@@ -77067,7 +77067,7 @@ rollten
 trucks
 truckling
 wagenladung
-lkw-ladungen
+lkwladungen
 truckman
 truckmen
 lkw
@@ -77344,7 +77344,7 @@ kurkuma
 aufruhr
 wende
 umschlag
-dreh dich um
+drehdichum
 turnarounds
 spindel
 spannschlösser
@@ -77370,7 +77370,7 @@ umsatz
 umsätze
 schlagbaum
 turnpikes
-wendet sich
+wendetsich
 drehkreuz
 drehkreuze
 drehscheibe
@@ -77468,8 +77468,8 @@ zwölftel
 zwölf
 zwölf
 twelvemonth
-zwölf monate
-zwanziger jahre
+zwölfmonate
+zwanzigerjahre
 zwanzigsten
 zwanzigsten
 zwanzig
@@ -77508,11 +77508,11 @@ twinned
 twinning
 zwillinge
 drehen
-drehte sich
+drehtesich
 twirler
 twirlers
 twirling
-dreht sich
+drehtsich
 twirly
 twist
 verdreht
@@ -77581,7 +77581,7 @@ schreibmaschine
 maschinenschreiben
 maschinengeschrieben
 typewrote
-typhus-
+typhus
 taifun
 typhons
 typhus
@@ -77663,7 +77663,7 @@ hässlich
 uht
 uig
 uist
-vereinigtes königreich
+vereinigteskönigreich
 ukäa
 floated
 ukase
@@ -77695,19 +77695,19 @@ ulsterman
 ulterior
 letzte
 endgültig
-letzten endes
+letztenendes
 ultimatum
 ultimatums
 letzte
 ultra
 ultrazentrifugieren
-ultra konservativ
-ultra hoch
+ultrakonservativ
+ultrahoch
 ultraismus
 ultramarin
 ultramikroskopisch
 hochmodern
-ultraschall-
+ultraschall
 ultraschall
 ultraschall
 ultraviolett
@@ -77744,29 +77744,29 @@ ein
 ein
 unerschrocken
 unvermindert
-nicht abgekürzt
+nichtabgekürzt
 unfähig
 ungekürzt
-sie cademic
+siecademic
 unbetont
 inakzeptabel
 inakzeptabel
 unacclimatised
-ohne begleitung
+ohnebegleitung
 unvollständig
 unerklärliche
 unerklärlich
 unerklärlicherweise
 unerklärt
-nicht akkreditiert
+nichtakkreditiert
 unaccused
 ungewohnt
 unerreichbar
 unerreicht
 unbestätigt
-nicht bekannt
-nicht adressiert
-nicht bereinigt
+nichtbekannt
+nichtadressiert
+nichtbereinigt
 uneingestandenen
 unbewohnt
 schmucklos
@@ -77778,23 +77778,23 @@ uneingeschränkt
 unberührt
 unberührt
 unempfindlich
-nicht verbunden
+nichtverbunden
 unbezahlbar
 furchtlos
 unaggressiv
 abredewidrige
-ohne hilfe
+ohnehilfe
 ungezielte
 unbewohnt
 unairworthy
 unalarmed
 unveräußerlich
-nicht ausgerichtet
-nicht zugewiesen
-nicht zugelassen
+nichtausgerichtet
+nichtzugewiesen
+nichtzugelassen
 unzulässig
 unzulässig
-nicht erlaubt
+nichterlaubt
 unlegiert
 unveränderlich
 unveränderlich
@@ -77828,13 +77828,13 @@ unauffällig
 ungestillt
 unappetitlich
 unappetitlich
-nicht geschätzt
+nichtgeschätzt
 undankbar
 undankbar
 unnahbar
 unnahbar
-nicht genehmigt
-nicht genehmigt
+nichtgenehmigt
+nichtgenehmigt
 anapt
 unbestreitbar
 unbestreitbar
@@ -77853,9 +77853,9 @@ unmontiert
 ungebunden
 unbewusst
 unbemerkt
-nicht zugewiesen
+nichtzugewiesen
 unassimiliert
-ohne unterstützung
+ohneunterstützung
 unbeschädigt
 bescheiden
 unauffällig
@@ -77877,21 +77877,21 @@ unattraktivität
 unerschütterlich
 unattributed
 ungeprüft
-nicht autorisiert
-nicht autorisiert
-nicht verfügbar
-nicht verfügbar
+nichtautorisiert
+nichtautorisiert
+nichtverfügbar
+nichtverfügbar
 vergeblich
 ungerächt
 unaverse
 unvermeidlich
 unvermeidlich
 unerwartet
-nicht bewusst
+nichtbewusst
 unwissenheit
 unversehens
-sie heiraten
-nicht rückgängig gemacht
+sieheiraten
+nichtrückgängiggemacht
 unbelastet
 ungebacken
 ungleichgewicht
@@ -77904,7 +77904,7 @@ ungetauft
 unbar
 unbarred
 unbarring
-wenn ja rs
+wennjars
 unerträglich
 unerträglich
 unschlagbar
@@ -77913,11 +77913,11 @@ unanständig
 unbehaglich
 unbeschwert
 begrudged
-un betörenden
-nicht bekannt
+unbetörenden
+nichtbekannt
 unbekannt
 unglaube
-nicht zu fassen
+nichtzufassen
 unglaublich
 ungläubig
 ungläubige
@@ -77986,7 +77986,7 @@ entlastung
 entlastet
 unbegraben
 unverbrannt
-wenig geschäftsmäßig
+weniggeschäftsmäßig
 ungeblättert
 aufknöpfen
 aufgeknöpft
@@ -78010,7 +78010,7 @@ unauffällig
 ungekapselt
 uncashed
 unkatalogisiert
-nicht gefangen
+nichtgefangen
 ungehindert
 unaufhörlich
 unaufhörlich
@@ -78056,15 +78056,15 @@ unzivilisiert
 unzivilisiert
 unzivil
 unclad
-nicht abgeholt
+nichtabgeholt
 ungeklemmt
 ungeklärt
 lösen
 ungeklärt
 abklingen
 entkleidet
-nicht klassifizierbar
-nicht klassifiziert
+nichtklassifizierbar
+nichtklassifiziert
 onkel
 unrein
 unreinheit
@@ -78088,7 +78088,7 @@ unverschlossen
 unclogging
 unclogs
 schliessen
-nicht geschlossen
+nichtgeschlossen
 entschlüsselt
 abschließen
 entkleiden
@@ -78110,7 +78110,7 @@ unbequem
 unbequemlichkeit
 unangenehm
 unbefriedigt
-nicht gebunden
+nichtgebunden
 ungewöhnlich
 ungewöhnlich
 verschlossen
@@ -78127,7 +78127,7 @@ verständnislos
 unkomprimiert
 kompromisslos
 kompromisslos
-nicht verborgen
+nichtverborgen
 unbekümmertheit
 unbekümmert
 unbekümmert
@@ -78142,7 +78142,7 @@ unsympathisch
 unversorgt
 unkonjugiert
 unverbunden
-nicht verbunden
+nichtverbunden
 unbesiegbar
 unbesiegbar
 unbesiegt
@@ -78162,7 +78162,7 @@ uneingeschränkt
 unbeschränkt
 unkonstruktiv
 unkonsolidiert
-nicht verbraucht
+nichtverbraucht
 unversöhnlich
 unkontaktiert
 unbeständig
@@ -78182,11 +78182,11 @@ unumstritten
 unkonventionell
 unkonventionalität
 unkonventionell
-nicht umgedreht
-nicht umwandelbar
-nicht überzeugt
-nicht überzeugend
-wenig überzeugend
+nichtumgedreht
+nichtumwandelbar
+nichtüberzeugt
+nichtüberzeugend
+wenigüberzeugend
 ungekocht
 ungekühlt
 unkooperativ
@@ -78252,7 +78252,7 @@ unerwünscht
 unerwünscht
 unentschieden
 unentschieden
-nicht angemeldet
+nichtangemeldet
 unentschlossen
 undedicated
 unbesiegt
@@ -78287,7 +78287,7 @@ unterbieten
 unterbindet
 unterbietet
 underbracing
-die breite
+diebreite
 unterholz
 unterkapitalisiert
 unterkapitalisiert
@@ -78317,7 +78317,7 @@ unterbieten
 unterschnitten
 unterboten
 unterentwickelt
-in entwicklung
+inentwicklung
 unterdog
 underdogs
 untertrieben
@@ -78346,17 +78346,17 @@ unterfüllung
 unterfüllt
 unterströmen
 unterläuft
-unter den füßen
+unterdenfüßen
 unterwäsche
 unterwäsche
 unterziehen
-unterzieht sich
+unterziehtsich
 unterziehen
 unterzogen
 undergraduate
 undergraduate
 studenten
-unter tage
+untertage
 unterholz
 unterhändig
 hinterhältig
@@ -78373,8 +78373,8 @@ underlessees
 unterhaltung
 unterbauten
 unterbinden
-zugrunde liegen
-zugrunde liegt
+zugrundeliegen
+zugrundeliegt
 unterstreichen
 unterstrichen
 unterstreicht
@@ -78383,14 +78383,14 @@ underlings
 unterstrichen
 unterlastung
 unterbelastet
-zugrunde liegenden
+zugrundeliegenden
 unterbesetzt
 untergraben
 untergraben
 untergräbt
 aushöhlung
 unter
-nicht identifiziert
+nichtidentifiziert
 unterernährt
 unterernährung
 unterbezahlt
@@ -78432,7 +78432,7 @@ unterstrichen
 unterstreicht
 unterstreichen
 unterseeisch
-unter verschluß
+unterverschluß
 unterversiegelt
 unterversiegeln
 unterversiege
@@ -78480,7 +78480,7 @@ verpflichten
 unternommen
 bestatter
 unternehmer
-verpflichtet sich
+verpflichtetsich
 unternehmen
 unternehmen
 untertrieben
@@ -78489,7 +78489,7 @@ unterton
 untertönt
 unternahm
 sog
-verpflichtet sich
+verpflichtetsich
 unterbewertung
 unterschätzen
 unterbewertet
@@ -78534,7 +78534,7 @@ unentwickelt
 unentschlossen
 unentschieden
 yndevourid
-nicht diagnostiziert
+nichtdiagnostiziert
 unentschieden
 unterwäsche
 undifferenziert
@@ -78545,10 +78545,10 @@ unvermindert
 unbeschädigt
 undiplomatisch
 ungerichtet
-die gebunden
+diegebunden
 unentgeltlich
 undiszipliniert
-nicht bekannt
+nichtbekannt
 unentdeckt
 undiskriminierend
 unerkannt
@@ -78556,18 +78556,18 @@ unverhüllte
 unbestritten
 unentschieden
 unbestritten
-nicht angedeutet
+nichtangedeutet
 unbestritten
 unbestritten
 ununterbrochen
 ununterschieden
 unverzerrt
 unentschlossen
-nicht verteilt
+nichtverteilt
 ungestört
 ungeteilt
 undivulged
-rückgängig machen
+rückgängigmachen
 undoable
 abdocken
 abgedockt
@@ -78575,10 +78575,10 @@ abdocken
 abdocken
 undoctored
 undokumentiert
-rückgängig macht
+rückgängigmacht
 verhängnis
 undomesticated
-rückgängig gemacht
+rückgängiggemacht
 unzweifelhaft
 zweifellos
 zweifellos
@@ -78648,7 +78648,7 @@ unendlich
 unendlich
 unendorsed
 unerträglich
-nicht durchsetzbar
+nichtdurchsetzbar
 unverschlossen
 unglaublich
 unaufgeklärt
@@ -78656,9 +78656,9 @@ unentailed
 unentered
 hausbacken
 unenthusiastisch
-ohne begeisterung
+ohnebegeisterung
 unentitled
-nicht beneidenswert
+nichtbeneidenswert
 unentschlossen
 ungleich
 unerreicht
@@ -78669,7 +78669,7 @@ eindeutig
 eindeutig
 unbestechlich
 unerected
-nicht erodierten
+nichterodierten
 unbestechlich
 zielsicher
 unesco
@@ -78678,16 +78678,16 @@ unwesentlich
 unbestritten
 unethisch
 unethisch
-nicht evakuierten
+nichtevakuierten
 unbewertet
-nicht verdampft
+nichtverdampft
 uneben
 ungleichmäßig
 unebenheit
 ereignislos
 ereignislos
-nicht exakt
-nicht übertriebene
+nichtexakt
+nichtübertriebene
 ungeprüft
 beispiellos
 unexcavated
@@ -78696,12 +78696,12 @@ unaussprechlich
 ungewöhnlich
 ungewöhnlich
 ungewöhnlich
-nicht ausgetauscht
+nichtausgetauscht
 unentschlossen
 unaufregend
 unentschuldigt
-nicht ausgeübt
-nicht ausgeübt
+nichtausgeübt
+nichtausgeübt
 unerschöpft
 unerschlossen
 unexpandiert
@@ -78713,7 +78713,7 @@ unerfahren
 unexpired
 unerklärlich
 unerklärt
-nicht explodiert
+nichtexplodiert
 ungenutzt
 unerforscht
 unbelichtet
@@ -78734,7 +78734,7 @@ untreu
 untreue
 unerschütterlich
 unerschütterlich
-nicht vertraut
+nichtvertraut
 ungewohnheit
 ungewohnt
 unmodern
@@ -78855,7 +78855,7 @@ unglasiert
 unglue
 ungeschliffen
 unglues
-ablösen des leims
+ablösendesleims
 ungöttlich
 unregierbar
 unglaublichkeit
@@ -78877,13 +78877,13 @@ unbezahlt
 ungeerdet
 neidlos
 unglaublich
-nicht garantiert
+nichtgarantiert
 unbewacht
 unbewacht
 salbe
 unguents
 ungelenkt
-huftier-
+huftier
 ungulaten
 unhabitable
 unglücklich
@@ -78906,7 +78906,7 @@ ausspannen
 unerschrocken
 unharnesses
 unerschütterlich
-nicht geerntet
+nichtgeerntet
 unhazardous
 ungeheilt
 ungesunder
@@ -78919,11 +78919,11 @@ unbeheizt
 unbeachtet
 achtlos
 ungehört
-nicht hilfreich
+nichthilfreich
 unheralded
 zögernd
-ohne zögern
-ohne zögern
+ohnezögern
+ohnezögern
 versteckt
 ungehobelt
 ungehindert
@@ -78947,7 +78947,7 @@ ungehorsam
 unhorses
 unaufmerksam
 ungestört
-in aller ruhe
+inallerruhe
 unverletzt
 unhygienisch
 eint
@@ -78960,7 +78960,7 @@ einhorn
 einhörner
 einrad
 einräder
-nicht identifizierbar
+nichtidentifizierbar
 unbekannt
 unidiomatisch
 unidirektional
@@ -78979,7 +78979,7 @@ vereinheitlichen
 unigeniture
 einseitig
 einseitig
-nicht dargestellt
+nichtdargestellt
 unvorstellbar
 unvorstellbar
 einfallslos
@@ -79004,12 +79004,12 @@ unincited
 uninclined
 uninclosed
 uneingetragen
-nicht indiziert
-nicht infiziert
+nichtindiziert
+nichtinfiziert
 uninflektiert
 unbeeinflusst
 uninformativ
-nicht informiert
+nichtinformiert
 unbewohnbar
 unbewohnt
 ungehemmt
@@ -79035,8 +79035,8 @@ uninteressant
 uninteressant
 ununterbrochen
 ununterbrochen
-ohne einladung
-wenig einladend
+ohneeinladung
+wenigeinladend
 unbeteiligt
 union
 gewerkschaftlich
@@ -79061,7 +79061,7 @@ unisex
 unisexuell
 einklang
 unisons
-nicht ausgegeben
+nichtausgegeben
 einheit
 unitarisch
 unitarianism
@@ -79089,7 +79089,7 @@ ein
 univac
 einwertig
 univalve
-universal-
+universal
 universalisieren
 universalisiert
 universalisierungen
@@ -79109,7 +79109,7 @@ universität
 eindeutig
 eindeutig
 unix
-nicht ummantelter
+nichtummantelter
 ungerichtete
 unjudicious
 ungerecht
@@ -79119,7 +79119,7 @@ ungerechtfertigt
 ungerecht
 ungerechtigkeit
 ungepflegt
-nicht nett
+nichtnett
 ungeschickt
 unfreundlich
 unfreundlichkeit
@@ -79161,13 +79161,13 @@ entfesselt
 entfesselt
 entfesseln
 ungesäuert
-es sei denn
+esseidenn
 ungebunden
 entfesselt
 ungelöst
 unlizenziert
 unbeleuchtet
-nicht wie
+nichtwie
 unglaublich
 unwahrscheinlich
 unwahrscheinlich
@@ -79180,15 +79180,15 @@ unbegrenzt
 unbegrenzt
 ungefüttert
 aufheben
-nicht verknüpft
+nichtverknüpft
 verknüpfen
 unlinks
 unliquidiert
-nicht gelistet
+nichtgelistet
 unbeleuchtet
 unliterary
-nicht lebensfähig
-nicht lebensfähig
+nichtlebensfähig
+nichtlebensfähig
 entladen
 entladen
 entladung
@@ -79217,14 +79217,14 @@ unglück
 unglücklich
 ungemacht
 unmagnifiziert
-nicht erhalten
+nichterhalten
 aufheben
 unberührt
 unmaking
 nirgendwo
 unüberschaubar
 unhandlich
-nicht verwaltet
+nichtverwaltet
 unmanlier
 unmanliness
 unmännlich
@@ -79233,7 +79233,7 @@ unbewältigt
 ungezogen
 unbemerkt
 unmans
-nicht verpackt
+nichtverpackt
 unmarkiert
 unverkäuflich
 unverheiratet
@@ -79246,7 +79246,7 @@ unvergleichlich
 unerreicht
 unmated
 unbemerkt
-nicht sinnvoll
+nichtsinnvoll
 ungemessen
 unmechanised
 unabsichtlich
@@ -79283,13 +79283,13 @@ unbeweglich
 unmurmuring
 unmusikalisch
 unbenannt
-nicht benennbar
+nichtbenennbar
 unbenannt
 unnatürlich
 unnatürlich
 unnatürlichkeit
 unnötigerweise
-nicht notwendig
+nichtnotwendig
 unnötig
 entnerven
 entnervt
@@ -79302,7 +79302,7 @@ ausgenocht
 unnumeriert
 ein
 einwandfrei
-nicht beobachtbar
+nichtbeobachtbar
 unaufmerksam
 unbeobachtet
 ungehindert
@@ -79341,14 +79341,14 @@ unvergleichlich
 unverzeihlich
 unpardoniert
 nonpartisan
-nicht pasteurisiert
+nichtpasteurisiert
 ungepickt
 unpatentiert
 unpatriotisch
 unpatriotisch
 unpatrolled
 ungepflastert
-unpe g
+unpeg
 unauffällig
 unperfekt
 unperformiert
@@ -79364,10 +79364,10 @@ unpinning
 unpins
 unpitying
 unpityingly
-nicht platziert
+nichtplatziert
 ungeplant
 ungepflanzt
-nicht gespielt
+nichtgespielt
 unangenehm
 unangenehm
 unangenehm
@@ -79376,7 +79376,7 @@ ungeplündert
 trennen
 unplugged
 ausstecken
-zieht aus
+ziehtaus
 ungeplündert
 unpoliert
 unpolitisch
@@ -79397,16 +79397,16 @@ unvorbereitet
 unvorbereitet
 unvorbereitet
 unauffällig
-nicht vertreten
+nichtvertreten
 unbefleckt
 unauffällig
 unprätentiös
 unprätentiös
 anspruchslosigkeit
-nicht gewohnt
+nichtgewohnt
 unprimed
 prinzipienlos
-nicht bedruckbar
+nichtbedruckbar
 unbedruckt
 unterpriviligiert
 unproblematisch
@@ -79457,24 +79457,24 @@ unbestritten
 unruhig
 unquotable
 unquote
-nicht zitiert
+nichtzitiert
 entwirren
 enträtselt
 enträtseln
 enträtselt
 enträtseln
 entwirrt
-nicht erreichbar
+nichterreichbar
 ungelesen
 unleserlich
 unvollständig
-nicht bereit
+nichtbereit
 unwirklich
-nicht realisiert
+nichtrealisiert
 unrealistisch
 unrealistisch
 unwirklichkeit
-nicht realisiert
+nichtrealisiert
 unvernunft
 unvernünftig
 unvernunft
@@ -79492,10 +79492,10 @@ unerkennbar
 unerkannt
 unauffällig
 unrekonstruiert
-nicht eingetragen
-nicht behebbar
-nicht wiederhergestellt
-nicht erlöst
+nichteingetragen
+nichtbehebbar
+nichtwiederhergestellt
+nichterlöst
 unredressed
 unreduziert
 abrollen
@@ -79510,7 +79510,7 @@ unregeneriert
 unregistriert
 unreguliert
 ungehört
-nicht verwandt
+nichtverwandt
 unveröffentlicht
 unerbittlich
 unerbittlich
@@ -79524,13 +79524,13 @@ unentgeltlich
 unablässig
 unermüdlich
 unremunerativ
-nicht aufgefüllt
+nichtaufgefüllt
 unwiederholbar
 unrepentant
 unrepenting
-nicht gemeldet
-nicht repräsentativ
-nicht vertreten
+nichtgemeldet
+nichtrepräsentativ
+nichtvertreten
 unerwidert
 unerwünscht
 vorbehaltlos
@@ -79568,21 +79568,21 @@ unwilligste
 widerspenstigkeit
 widerspenstig
 absatteln
-nicht gesattelt
+nichtgesattelt
 unaddles
 unsaddling
 unsicher
 ungesagt
 ehrenamtlich
 ungesalzen
-nicht erstattungsfähig
-nicht sanktioniert
+nichterstattungsfähig
+nichtsanktioniert
 unhygienisch
 unbefriedigend
 ungenügend
-nicht zufrieden
+nichtzufrieden
 ungesättigt
-nicht gesichert
+nichtgesichert
 ungünstig
 unangenehm
 ungünstig
@@ -79677,7 +79677,7 @@ unhod
 ungewollt
 unansehnlichkeit
 unansehnlich
-ohne vorzeichen
+ohnevorzeichen
 ungedämpftem
 unsinkbar
 ungeschickt
@@ -79690,8 +79690,8 @@ ungeschält
 ernst
 unermüdlich
 unnap
-nicht aufgetragen
-nicht greifen
+nichtaufgetragen
+nichtgreifen
 unnap
 unsnarl
 unsnarled
@@ -79704,7 +79704,7 @@ unsociably
 unsozial
 unverschämt
 unversehrt
-nicht verkauft
+nichtverkauft
 unsolder
 ungelösten
 unlöten
@@ -79722,7 +79722,7 @@ schonungslos
 schonungslos
 unaussprechlich
 unsagbar
-nicht spezifiziert
+nichtspezifiziert
 unspektakulär
 unberührt
 unberührt
@@ -79757,7 +79757,7 @@ unaufgepasst
 unstopping
 unstoppt
 abschnallen
-nicht gespannt
+nichtgespannt
 unstrapping
 entblößt
 unbelastet
@@ -79771,7 +79771,7 @@ unstudied
 unauffällig
 abgemeldet
 unsubstriert
-nicht subventioniert
+nichtsubventioniert
 unbegründet
 unsubtle
 erfolglos
@@ -79785,14 +79785,14 @@ ungeeignet
 unbefleckt
 unsung
 unbeaufsichtigt
-nicht unterstützt
+nichtunterstützt
 unsicher
 unübertrefflich
 unübertroffen
 unerwartet
 ahnungslos
 ahnungslos
-nicht nachhaltig
+nichtnachhaltig
 unbeeinflussbar
 ungesüßt
 ungeschliffen
@@ -79805,7 +79805,7 @@ unsynchronisiert
 unsynchronisiert
 unsystematisch
 unsystematisch
-nicht erhalten
+nichterhalten
 unbegabt
 unermüdlich
 unbezähmbar
@@ -79834,7 +79834,7 @@ unthawing
 unthaws
 undenkbar
 unvorstellbar
-nicht denken
+nichtdenken
 gedankenlos
 ungewohnt
 ungebeugt
@@ -79855,7 +79855,7 @@ unbemerkt
 unzeitgemäß
 unermüdlich
 unermüdlich
-ohne titel
+ohnetitel
 zu
 unzählig
 untopical
@@ -79882,7 +79882,7 @@ unbeschnitten
 unbeschwert
 unwahr
 untruly
-nicht vertrauenswürdig
+nichtvertrauenswürdig
 untrusting
 untrustingly
 unseriös
@@ -79899,7 +79899,7 @@ zog
 aufdrehen
 ungedreht
 aufdrehen
-dreht sich
+drehtsich
 auflösen
 untypisch
 unbrauchbar
@@ -79930,13 +79930,13 @@ unvictorious
 unbemerkt
 unvindicated
 unberührte
-nicht besucht
+nichtbesucht
 stimmlos
 unerwünscht
 unwarily
 ungewohnt
 unwarmed
-nicht wünschenswert
+nichtwünschenswert
 unwillkürlich
 ungerechtfertigt
 ungerechtfertigt
@@ -79954,7 +79954,7 @@ unweeded
 ungewogen
 unwillkommen
 unfreundlich
-nicht wohl
+nichtwohl
 unwept
 unwhisked
 ungesund
@@ -79979,7 +79979,7 @@ unwissentlich
 unweiblich
 ungewohnt
 ungewöhnlich
-nicht umsetzbar
+nichtumsetzbar
 unmöglich
 unbearbeitet
 weltfremd
@@ -80000,9 +80000,9 @@ ungeschrieben
 unnachgiebig
 unnachgiebig
 serpents
-unyoke d
+unyoked
 unyokes
-unyokin g
+unyoking
 entpacken
 entpackt
 entpacken
@@ -80054,7 +80054,7 @@ polsterung
 upholster
 polster
 instandhaltung
-hochland-
+hochland
 hochland
 erheben
 erhoben
@@ -80065,7 +80065,7 @@ hochgeladen
 hochladen
 hochgeladen
 upminster
-am höchsten
+amhöchsten
 auf
 hochgezogen
 obere
@@ -80105,14 +80105,14 @@ stören
 stören
 ergebnis
 upshots
-nach oben
+nachoben
 upsides
 upsilon
 upstage
 upstaged
 upstages
 upstaging
-nach oben
+nachoben
 aufrecht
 emporkömmling
 upstarts
@@ -80139,9 +80139,9 @@ aufwärtstrends
 aufschwung
 umgedreht
 aufschwünge
-nach oben
-nach oben
-nach oben
+nachoben
+nachoben
+nachoben
 aufwind
 urämie
 uran
@@ -80189,7 +80189,7 @@ uric
 urinal
 urinale
 urinanalyse
-urin-
+urin
 urinieren
 uriniert
 uriniert
@@ -80257,7 +80257,7 @@ utah
 utensil
 utensilien
 uteri
-gebärmutter-
+gebärmutter
 uterogestation
 gebärmutter
 uterus
@@ -80306,7 +80306,7 @@ frau
 uxorial
 uxoricide
 uxoricide
-treu ergeben
+treuergeben
 uxoriously
 usbekisch
 usbekistan
@@ -80446,7 +80446,7 @@ valorisierungen
 wertschätzung
 valorisierung
 valorisierungen
-beliebt machen
+beliebtmachen
 geschätzt
 valorizes
 valorieren
@@ -80500,7 +80500,7 @@ vandalisiert
 vandalisiert
 zerstörung
 vandalen
-van dyke
+vandyke
 schaufel
 schaufeln
 vanessa
@@ -80577,7 +80577,7 @@ variation
 variationen
 bunt
 bunt
-krampfadern-
+krampfadern
 varicosity
 abwechslungsreich
 vielfältig
@@ -80626,7 +80626,7 @@ vasallität
 vasallen
 groß
 vaster
-am weitesten
+amweitesten
 erheblich
 weite
 wat
@@ -80664,7 +80664,7 @@ vedanta
 stern
 sterne
 veer
-drehte sich
+drehtesich
 veering
 veers
 vegan
@@ -80689,7 +80689,7 @@ vehement
 heftig
 fahrzeug
 fahrzeuge
-fahrzeug-
+fahrzeug
 gewogen
 schleier
 verschleiert
@@ -80800,7 +80800,7 @@ bauchredner
 ventriloquisten
 entlüftungen
 wagen
-wagte sich
+wagtesich
 wagt
 kühn
 waghalsig
@@ -80820,7 +80820,7 @@ veranden
 verandas
 veray
 verb
-die worte
+dieworte
 verbal
 verbalisierung
 verbalisationen
@@ -80847,7 +80847,7 @@ verbosly
 ausführlichkeit
 verboten
 verben
-das wort
+daswort
 verdancy
 grün
 grün
@@ -81091,7 +81091,7 @@ viktorianer
 opfer
 opferung
 opferlos
-die opfer
+dieopfer
 sieger
 victoria
 viktorianisch
@@ -81113,13 +81113,13 @@ vicunas
 bei
 leer
 video
-video kassette
+videokassette
 videokassetten
 videodisc
 videodiscs
--discs
-videodisk-
-video telefon
+discs
+videodisk
+videotelefon
 videophone
 videos
 videoband
@@ -81172,7 +81172,7 @@ abscheulich
 kräftig
 niedertracht
 viler
-am wenigsten
+amwenigsten
 verunglimpfung
 verunglimpft
 verflucht
@@ -81341,7 +81341,7 @@ besucher
 besucher
 heimsuchung
 besuche
-hat besucht
+hatbesucht
 besuch
 gast
 besucher
@@ -81517,7 +81517,7 @@ volatilität
 verflüchtigung
 verflüchtigen
 verflüchtigt
-verflüchtigt sich
+verflüchtigtsich
 verflüchtigen
 vulkanischen
 vulkanisch
@@ -81572,8 +81572,8 @@ voluntarismus
 freiwillig
 freiwillig
 freiwillig
-sich freiwillig melden
-freiwillig gemeldet
+sichfreiwilligmelden
+freiwilliggemeldet
 freiwilligenarbeit
 freiwillige
 voluptuaries
@@ -81605,7 +81605,7 @@ wähler
 wähler
 stimmen
 wählen
-votiv-
+votiv
 bürgen
 gebürstet
 vouchee
@@ -81705,7 +81705,7 @@ waten
 waten
 wads
 wadset
-d ts
+dts
 wafer
 waffeln
 waffel
@@ -81719,7 +81719,7 @@ wafts
 wedeln
 führen
 geführt
-wagen weniger
+wagenweniger
 wette
 wettete
 wetten
@@ -81752,7 +81752,7 @@ jammern
 jammern
 wayne
 wainable
-wye wurf
+wyewurf
 wainages
 täfelung
 wainscoted
@@ -81767,7 +81767,7 @@ westen
 taille
 taillen
 taillen
-warte ab
+warteab
 abwarten
 gewartet
 bedienung
@@ -81792,7 +81792,7 @@ wecken
 geweckt
 wachen
 weckt
-wacht auf
+wachtauf
 wachen
 walcott
 walden
@@ -81838,7 +81838,7 @@ wallops
 suhle
 wälzten
 wälzend
-wälzt sich
+wälztsich
 tapete
 wallpapered
 tapete
@@ -81882,7 +81882,7 @@ schwindet
 könig
 deichseln
 wangled
-vergessen sie, dass
+vergessensiedass
 undead
 abnehmend
 matt
@@ -81897,8 +81897,8 @@ mutwillig
 mutwilligkeit
 willons
 will
-nehmen die arme
-waffe nimmt
+nehmendiearme
+waffenimmt
 wapiti
 wapitis
 klappen
@@ -81954,7 +81954,7 @@ erwärmt
 warmen
 wärmer
 wärmer
-am wärmsten
+amwärmsten
 erwärmen
 warminster
 wärmen
@@ -81981,7 +81981,7 @@ verzogen
 verziehen
 kriegsflugzeug
 kampfflugzeuge
-verzieht sich
+verziehtsich
 rechtfertigen
 nachweisbar
 garantiert
@@ -82113,7 +82113,7 @@ waterloo
 waterloos
 waterman
 wasserzeichen
-mit wasserzeichen versehen
+mitwasserzeichenversehen
 watermarking
 wasserzeichen
 wassermelone
@@ -82191,9 +82191,9 @@ wayne
 weise
 wege
 wege
-nach rechts
+nachrechts
 weckt
-nach rechts
+nachrechts
 toilette
 wir
 wea
@@ -82209,7 +82209,7 @@ weakfishes
 schwächling
 schwächlinge
 schwach
-die schwäche
+dieschwäche
 schwächen
 wohl
 weald
@@ -82313,7 +82313,7 @@ wochenende
 wochen
 weenier
 weenies
-am schönsten
+amschönsten
 weeny
 weinen
 weepie
@@ -82323,7 +82323,7 @@ weepiest
 weinend
 weint
 weinerlich
-wir auch immer
+wirauchimmer
 weevers
 rüsselkäfer
 rüsselkäfer
@@ -82339,7 +82339,7 @@ wiegt
 gewicht
 gewichtet
 gewichtiger
-am stärksten
+amstärksten
 gewichtig
 gewichtigkeit
 gewichtung
@@ -82364,7 +82364,7 @@ wehre
 welch
 welcher
 welchers
-herzlich willkommen
+herzlichwillkommen
 begrüßt
 begrüßt
 begrüßung
@@ -82385,7 +82385,7 @@ wellingborough
 wellington
 wellingtons
 wellness
-ganz gut
+ganzgut
 brunnen
 walisisch
 waliser
@@ -82411,7 +82411,7 @@ frauen
 wend
 gewebt
 stabil
-wendet sich
+wendetsich
 wendy
 wenlock
 wünschen
@@ -82429,7 +82429,7 @@ wesley
 wesleyan
 wessex
 wesson
-west-
+west
 westbound
 westbury
 westerham
@@ -82456,7 +82456,7 @@ westmoreland
 westmorland
 weston
 westport
-nach westen
+nachwesten
 westwärts
 nass
 wetback
@@ -82502,10 +82502,10 @@ wharfingers
 peitschen
 wharves
 was
-was auch immer
-was nicht
+wasauchimmer
+wasnicht
 whatnots
-was auch immer
+wasauchimmer
 weizen
 wheatear
 wheatears
@@ -82546,8 +82546,8 @@ drehen
 wolken
 wann
 woher
-wann immer
-was auch immer
+wannimmer
+wasauchimmer
 woher
 aufenthaltsort
 nachher
@@ -82557,16 +82557,16 @@ wodurch
 warum
 warum
 worin
-wobei auch immer
+wobeiauchimmer
 davon
 woraufhin
 wohin
-durch sie hindurch
+durchsiehindurch
 wohin
 woher
 wozu
 worauf
-wo auch immer
+woauchimmer
 womit
 wofür
 wherry
@@ -82580,8 +82580,8 @@ wandern
 whew
 molke
 welche
-je nachdem
-was auch immer
+jenachdem
+wasauchimmer
 weinern
 hauch
 whiffed
@@ -82615,7 +82615,7 @@ whinged
 whinges
 whinging
 whinier
-am wenigsten
+amwenigsten
 whininess
 jammern
 weinend
@@ -82690,14 +82690,14 @@ whitbread
 whitby
 weiß
 whitebait
-weiße kappe
+weißekappe
 whitecaps
 whited
 weißflächen
 felchen
 whitehall
 weißhaven
-weißes pferd
+weißespferd
 whiteley
 bleichen
 geweißt
@@ -82711,10 +82711,10 @@ whiteouts
 weißer
 weiß
 whitest
-weiße wand
-weisse wände
+weißewand
+weissewände
 tünchen
-weiß getüncht
+weißgetüncht
 whitewashes
 whitewashing
 wohin
@@ -82745,10 +82745,10 @@ wer
 whoa
 krimi
 whodunits
-wer auch immer
+werauchimmer
 ganze
-von ganzem herzen
-von ganzem herzen
+vonganzemherzen
+vonganzemherzen
 ganzmehl
 ganzheit
 ganz
@@ -82762,8 +82762,8 @@ bekömmlichkeit
 vollkorn
 ganz
 wem
-wer auch immer
-wer auch immer
+werauchimmer
+werauchimmer
 whoop
 keuchte
 whoopee
@@ -82793,7 +82793,7 @@ quirl
 whorls
 heidelbeere
 deren
-wer auch immer
+werauchimmer
 warum
 whys
 wichita
@@ -82820,7 +82820,7 @@ weite
 erweiterung
 erweitert
 breiter
-weit verbreitet
+weitverbreitet
 breiteste
 widgeon
 widgeons
@@ -82873,7 +82873,7 @@ wberberforce
 wilcox
 wild
 wildcard
-wilde katze
+wildekatze
 wildkatzen
 wildkatzen
 wilde
@@ -82966,7 +82966,7 @@ schwätzer
 windbags
 windschutz
 windbreaks
-wind brennen
+windbrennen
 windburns
 gewunden
 wickler
@@ -83123,7 +83123,7 @@ wunsch
 querlenker
 querlenker
 wünschte
-wünscht sich
+wünschtsich
 wünschenswert
 wünschenswert
 wünschen
@@ -83155,8 +83155,8 @@ rückzug
 abhebungen
 zurückziehen
 zurückgezogen
-zieht sich zurück
-zog sich zurück
+ziehtsichzurück
+zogsichzurück
 verdorren
 verwelkt
 verwelken
@@ -83243,7 +83243,7 @@ vielfraß
 vielfrasse
 wölfe
 frau
-die frauen
+diefrauen
 frau
 weiblich
 schürzenjäger
@@ -83269,11 +83269,11 @@ frau
 frauen
 gewonnen
 wunder
-fragte sich
+fragtesich
 wunderbar
 wunderbar
 wunderbar
-sich fragen
+sichfragen
 wunderbar
 wunderland
 wunderland
@@ -83371,7 +83371,7 @@ wordbook
 wordbooks
 formuliert
 wortreicher
-wird gewählt
+wirdgewählt
 wortreich
 wortreichtum
 wortlaut
@@ -83400,7 +83400,7 @@ workbox
 werkboxen
 werktag
 arbeitstage
-hat funktioniert
+hatfunktioniert
 arbeitnehmer
 arbeitskräfte
 arbeitsablauf
@@ -83473,7 +83473,7 @@ schlechter
 verschlechtern
 verschlechtert
 verschlechterung
-verschlechtert sich
+verschlechtertsich
 anbetung
 verehrungswürdig
 verehrungswürdig
@@ -83483,7 +83483,7 @@ verehrer
 anbetung
 verehrt
 worsley
-am schlimmsten
+amschlimmsten
 kammgarn
 kopfsteine
 wert
@@ -83560,7 +83560,7 @@ schlüssel
 gerissen
 schraubenschlüssel
 zerreißen
-fühlt sich an
+fühltsichan
 ringen
 abgerissen
 ringen
@@ -83620,11 +83620,11 @@ falsch
 übeltäter
 falsche
 vergehen
-unrecht getan
+unrechtgetan
 falsch
-zu unrecht
+zuunrecht
 falsch
-zu unrecht
+zuunrecht
 unrecht
 schrieb
 zornig
@@ -83771,12 +83771,12 @@ jährling
 jährlinge
 jährlich
 jährlich
-sich sehnen
-sehnte sich
+sichsehnen
+sehntesich
 sehnsucht
 sehnsüchtig
 sehnsucht
-sehnt sich
+sehntsich
 jahre
 ja
 hefe
@@ -83850,7 +83850,7 @@ yodelled
 jodler
 jodler
 jodeln
-überschuss in der ls
+überschussinderls
 yoga
 joghurt
 yoghourts
@@ -83888,7 +83888,7 @@ jugendlicher
 jugendliche
 ihre
 deine
-dich selber
+dichselber
 euch
 jugend
 jugendlich
@@ -83921,7 +83921,7 @@ yuletide
 lecker
 leckerste
 lecker
-yuppie-
+yuppie
 yuppies
 yvette
 yvonne
@@ -83983,7 +83983,7 @@ zeppelin
 zeppeline
 zermatt
 null
-auf null gestellt
+aufnullgestellt
 nullen
 nullstellung
 nullen
@@ -83999,7 +83999,7 @@ vier
 zibelines
 ziggurat
 ziggurats
-zickzack-
+zickzack
 zickzackig
 zickzack
 zickzack
@@ -84093,7 +84093,6 @@ zygoten
 zygotisch
 zymology
 zymurgy
-? clat
-? blau
-? migr? s
-? ära
+clat
+blau
+migrs

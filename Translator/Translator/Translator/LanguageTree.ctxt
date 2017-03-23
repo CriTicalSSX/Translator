@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TreeNode\ getRoot()
+comment0.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ return\ the\ root\ of\ the\ tree\r\n\ \r\n\ @return\ root\ -\ the\ root\ of\ the\ current\ tree\r\n
+comment1.params=newRoot
+comment1.target=void\ setRoot(TreeNode)
+comment1.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ set\ the\ root\ of\ the\ tree\ to\ a\ new\ node.\ \r\n\ \r\n\ @param\ newRoot\ -\ the\ TreeNode\ object\ to\ become\ the\ new\ root\r\n
+comment2.params=subRoot\ searchID
+comment2.target=void\ removeFromTree(TreeNode,\ float)
+comment2.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ remove\ a\ node\ from\ the\ tree.\ Recursively\ called\ if\ the\ node\ is\ not\ found\ in\ the\ subroot\ or\ its\ children.\ Method\ is\ recalled\ with\ either\ the\r\n\ left\ or\ the\ right\ child\ as\ the\ new\ subRoot\ depending\ on\ which\ side\ of\ the\ tree\ is\ being\ traversed.\r\n\ \r\n\ @param\ subRoot\ -\ the\ root\ of\ the\ subtree\ currently\ being\ evaluated.\ Starts\ as\ the\ root\ of\ the\ tree,\ and\ changes\ as\ the\ program\ traverses\ left\ and\ right\r\n\ @param\ searchID\ -\ the\ ID\ of\ the\ node\ the\ user\ wants\ to\ delete\r\n
+comment3.params=subRoot
+comment3.target=TreeNode\ getHighestLeft(TreeNode)
+comment3.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ return\ the\ node\ with\ the\ largest\ ID\ on\ the\ left\ hand\ side\ of\ the\ tree,\ used\ to\ set\ a\ new\ root\ when\ the\ old\ root\ is\ being\ deleted\r\n\ \r\n\ @param\ subRoot\ -\ the\ root\ of\ the\ subtree\ currently\ being\ evaluated\r\n\ @return\ getHighestLeft\ -\ the\ node\ with\ the\ highest\ value\ of\ ID\r\n
+comment4.params=subRoot
+comment4.target=TreeNode\ getSmallestRight(TreeNode)
+comment4.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ return\ the\ node\ with\ the\ smallest\ ID\ on\ the\ right\ hand\ side\ of\ the\ tree,\ used\ to\ set\ a\ new\ root\ when\ the\ old\ root\ is\ being\ deleted\r\n\ \r\n\ @param\ subRoot\ -\ the\ root\ of\ the\ subtree\ currently\ being\ evaluated\r\n\ @return\ smallestRightNode\ -\ the\ node\ with\ the\ lowest\ value\ of\ ID\r\n
+comment5.params=id\ engWord\ gerWord
+comment5.target=void\ addToTree(float,\ java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Built\ by\ WL\r\n\ \r\n\ Adds\ a\ new\ node\ to\ the\ tree\r\n\ \r\n\ @param\ id\ The\ unique\ id\ of\ the\ english\ word\r\n\ @param\ engWord\ The\ english\ word\ \r\n\ @param\ gerWord\ The\ germal\ translation\ of\ the\ english\ word\r\n
+comment6.params=find\ language
+comment6.target=java.lang.String\ findNode(float,\ int)
+comment6.text=\r\n\ Built\ by\ DA\r\n\ \r\n\ Method\ for\ finding\ the\ translation\ of\ the\ word\ we\ already\ have.\ Contains\ a\ while\ loop\ that\ runs\ until\ the\ word\ is\ found\ or\ we\ reach\ the\ place\ where\ the\ word\r\n\ should\ be\ and\ it\ is\ not\ there.\r\n\r\n\ @param\ find\ -\ the\ ID\ number\ of\ the\ word\ being\ searched\ for\r\n\ @param\ language\ -\ an\ integer\ value\ of\ 1\ or\ 2,\ used\ to\ determine\ which\ language\ of\ the\ word\ we\ wish\ to\ extract\r\n\ @return\ the\ translation\ of\ the\ word\ we\ already\ have\r\n
+numComments=7
