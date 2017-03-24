@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.FileWriter;
 
 /**
- * Displays the Menu options to the user
+ * Acts as a wrapper class for the LanguageTrees and takes in user input.
  * 
  * @author Sam Glendenning
  * @author Danyal Ali
@@ -18,11 +18,13 @@ import java.io.FileWriter;
  */
 public class Menu
 {
-    LanguageTree engTree = new LanguageTree();
-    LanguageTree gerTree = new LanguageTree();
+    LanguageTree engTree = new LanguageTree();      //the English binary tree
+    LanguageTree gerTree = new LanguageTree();      //the German binary tree
 
     /**
-     * Main method, can be amended or moved elsewhere if necessary (last edited by SG)
+     * Built by SG, DA
+     * 
+     * Main method first called
      */
     public static void main(String[] args)
     {
@@ -41,11 +43,14 @@ public class Menu
         engTree.dictionariesDone = true;
         gerTree.dictionariesDone = true;
 
+        System.out.print('\f');
         menu.loadMenu();
     }
 
     /**
-     * text based graphical interface
+     * Built by DA
+     * 
+     * Method to output the menu options to the user
      */
     public void displayMenu() {
         System.out.println("+-----------------------------------------------+");
@@ -70,18 +75,17 @@ public class Menu
     /**
      * Built by SG, DA
      * 
-     * Basic text menu, can be used as the foundation for the GUI. Will need user to confirm they wish to return to the main menu before
-     * loading the menu, otherwise [System.out.print('\f');] will erase all text on screen (this can obviously be changed) (last edited by SG)
+     * Controls user input into the program, and calls the appropriate method. 
      */
     public void loadMenu()
     {      
         int menuChoice = 1;
-        
+
         while (menuChoice !=7)
         {           
-            displayMenu();
+            displayMenu();      //Calls the menu display
 
-            menuChoice = Genio.getInteger();
+            menuChoice = Genio.getInteger();        //user's numbered menu choice
 
             while (menuChoice < 1 || menuChoice > 7)
             {
@@ -92,7 +96,7 @@ public class Menu
             //switch statement allowing user to make their choice in the text based menu
             switch(menuChoice)
             {
-                //runs the method for translating words
+                //runs the method for translating words and phrases the user enters
                 case 1: textToTranslate();
 
                 break;
@@ -104,7 +108,12 @@ public class Menu
                 System.out.println("Enter the name of the text file you wish to translate.");
                 System.out.println("The file must be in the same directory as the program files.");
 
-                String nameOfTextFile = Genio.getString() + ".txt";
+                String nameOfTextFile = Genio.getString();
+
+                if (!nameOfTextFile.endsWith(".txt"))
+                {
+                    nameOfTextFile = nameOfTextFile + ".txt";       //adds .txt to the end of the filename if not given by the user
+                }
 
                 System.out.println("Please specify the language the file is in.");
                 System.out.println("1. English");
@@ -124,13 +133,13 @@ public class Menu
 
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-                case 3: addWord();
+                case 3: addWord();      //allows the user to add a word to the dictionaries
 
                 break;
 
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-                case 4: removeWord();
+                case 4: removeWord();   //allows the user to remove a word from the dictionaries
 
                 break;
 
@@ -139,7 +148,7 @@ public class Menu
                 case 5: try
                 {
                     File engFile = new File("en.txt");
-                    Desktop.getDesktop().open(engFile);
+                    Desktop.getDesktop().open(engFile);     //opens the English dictionary file
                 }
                 catch(IOException e)
                 {
@@ -153,7 +162,7 @@ public class Menu
                 case 6: try
                 {
                     File gerFile = new File("de.txt");
-                    Desktop.getDesktop().open(gerFile);
+                    Desktop.getDesktop().open(gerFile);     //opens the German dictionary file
                 }
                 catch(IOException e)
                 {
@@ -162,7 +171,7 @@ public class Menu
 
                 break;
 
-                case 7: menuExit();
+                case 7: menuExit();     //calls method to exit the program automatically
             }
         } 
 
@@ -173,6 +182,9 @@ public class Menu
      * 
      *Method designed to turn user input into usable integer value
      *Uses charAt(i) to traverse string 
+     *
+     *@param input - the String passed in that is being converted
+     *@return float - the value of the string as a float
      */
     float stringToFloat(String input)
     {
@@ -209,105 +221,89 @@ public class Menu
      * Built by CH
      * 
      *Used to Convert char value into a number float
+     *
+     *@param temp - the current character of the string
+     *@return a string number - depends on character value
      */
     String getNumber(char temp)
     {
-        String num = null;
-
         if (temp == '\'')
-            num = "10";
+            return "10";
         else if (temp == 'A' || temp == 'a')
-            num = "11";
-        else if (temp == 'Ã„' || temp == 'Ã¤')
-            num = "12";
-        else if (temp == 'Ã…' || temp == 'Ã¥')
-            num = "13";
+            return "11";
+        else if (temp == 'Ä' || temp == 'ä')
+            return "12";
+        else if (temp == 'Å' || temp == 'å')
+            return "13";
         else if (temp == 'B' || temp == 'b')
-            num = "14";
+            return "14";
         else if (temp == 'C' || temp == 'c')
-            num = "15";
+            return "15";
         else if (temp == 'D' || temp == 'd')
-            num = "16";
+            return "16";
         else if (temp == 'E' || temp == 'e')
-            num = "17";
-        else if (temp == 'Ã‰' || temp == 'Ã©')
-            num = "18";
+            return "17";
+        else if (temp == 'É' || temp == 'é')
+            return "18";
         else if (temp == 'F' || temp == 'f')
-            num = "19";
+            return "19";
         else if (temp == 'G' || temp == 'g')
-            num = "20";
+            return "20";
         else if (temp == 'H' || temp == 'h')
-            num = "21";
+            return "21";
         else if (temp == 'I' || temp == 'i')
-            num = "22";
+            return "22";
         else if (temp == 'J' || temp == 'j')
-            num = "23";
+            return "23";
         else if (temp == 'K' || temp == 'k')
-            num = "24";
+            return "24";
         else if (temp == 'L' || temp == 'l')
-            num = "25";
+            return "25";
         else if (temp == 'M' || temp == 'm')
-            num = "26";
+            return "26";
         else if (temp == 'N' || temp == 'n')
-            num = "27";
+            return "27";
         else if (temp == 'O' || temp == 'o')
-            num = "28";
-        else if (temp == 'Ã–' || temp == 'Ã¶')
-            num = "29";
+            return "28";
+        else if (temp == 'Ö' || temp == 'ö')
+            return "29";
         else if (temp == 'P' || temp == 'p')
-            num = "30";
+            return "30";
         else if (temp == 'Q' || temp == 'q')
-            num = "31";
+            return "31";
         else if (temp == 'R' || temp == 'r')
-            num = "32";
+            return "32";
         else if (temp == 'S' || temp == 's')
-            num = "33";
-        else if (temp == 'ÃŸ')
-            num = "34";
+            return "33";
+        else if (temp == 'ß')
+            return "34";
         else if (temp == 'T' || temp == 't')
-            num = "35";
+            return "35";
         else if (temp == 'U' || temp == 'u')
-            num = "36";
-        else if (temp == 'Ãœ' || temp == 'Ã¼')
-            num = "37";
+            return "36";
+        else if (temp == 'Ü' || temp == 'ü')
+            return "37";
         else if (temp == 'V' || temp == 'v')
-            num = "38";
+            return "38";
         else if (temp == 'W' || temp == 'w')
-            num = "39";
+            return "39";
         else if (temp == 'X' || temp == 'x')
-            num = "40";
+            return "40";
         else if (temp == 'Y' || temp == 'y')
-            num = "41";
+            return "41";
         else if (temp == 'Z' || temp == 'z')
-            num = "42";
+            return "42";
         else if (temp == ' ' || temp == '\t' || temp == '\r' || temp == '\n' || Character.isWhitespace(temp))
-            num = "43";
+            return "43";
 
-        return num;
+        return null;
     }
 
     /**
-     * Used to automatically end the program.
-     */
-    private static void menuExit()
-    {
-        System.out.print('\f');
-        System.out.println("Thank you for using the translator!");
-
-        try 
-        {
-            Thread.sleep(2000);
-        } 
-        catch(InterruptedException ex)
-        {
-            Thread.currentThread().interrupt();
-        }
-
-        System.exit(0);
-    }  
-
-    /**
-     * readDictionaries method, reads from the text file dictionaries 
+     * Built by SG
+     * 
+     * Used at the start of the program to read in the English and German dictionaries line by line, calculate their ID numbers and store them in both trees.
+     * These files are the source of all the words the program uses to fetch translations
      * 
      */
     public void readDictionaries()
@@ -315,23 +311,23 @@ public class Menu
         try
         {
             FileReader engFileReader = new FileReader("en.txt");
-            BufferedReader engBufferedReader = new BufferedReader(engFileReader);
+            BufferedReader engBufferedReader = new BufferedReader(engFileReader);       //filereader and bufferedreader for English dictionary
 
             FileReader gerFileReader = new FileReader("de.txt");
-            BufferedReader gerBufferedReader = new BufferedReader(gerFileReader);
+            BufferedReader gerBufferedReader = new BufferedReader(gerFileReader);       //filereader and bufferedreader for German dictionary
 
-            String engWord = engBufferedReader.readLine();
-            String gerWord = gerBufferedReader.readLine();
+            String engWord = engBufferedReader.readLine();      //reads a line of the English dictionary
+            String gerWord = gerBufferedReader.readLine();      //reads a line of the German dictionary
 
-            while (engWord != null && gerWord != null)
+            while (engWord != null && gerWord != null)          //while there are words to be read in
             {
-                float engID = stringToFloat(engWord);
-                float gerID = stringToFloat(gerWord);
+                float engID = stringToFloat(engWord);           //calculate ID number of English word
+                float gerID = stringToFloat(gerWord);           //calculate ID number of German word
 
-                engTree.addToTree(engID, engWord, gerWord);
-                gerTree.addToTree(gerID, engWord, gerWord);
+                engTree.addToTree(engID, engWord, gerWord);     //add to English tree
+                gerTree.addToTree(gerID, engWord, gerWord);     //add to German tree
 
-                engWord = engBufferedReader.readLine();
+                engWord = engBufferedReader.readLine();         //read a new line
                 gerWord = gerBufferedReader.readLine();
 
                 if (engWord != null)
@@ -351,54 +347,112 @@ public class Menu
         }
     }
 
+    /**
+     * Built by SG
+     * 
+     * Used when the user wishes to translate a text file.
+     * 
+     * @param nameOfTextFile - the name of the user's text file as a string
+     * @param languageChoice - either 1 or 2 depending on the language the text file is in
+     */
     public void readFromFile(String nameOfTextFile, int languageChoice)
     {
         Date currentDate = new Date();        
-        long currentTime = currentDate.getTime();
+        long currentTime = currentDate.getTime();       //used in calculating how long it takes to translate the file
 
         try
         {
             FileReader fileToRead = new FileReader(nameOfTextFile);
-            BufferedReader filebr = new BufferedReader(fileToRead);
+            BufferedReader filebr = new BufferedReader(fileToRead);         //filereader and bufferedreader for the file
 
-            FileOutputStream myFileOutputStream = new FileOutputStream("translation.txt");
-            PrintWriter myPrintWriter = new PrintWriter(myFileOutputStream);
+            FileOutputStream myFileOutputStream = new FileOutputStream("translation.txt");      //name of file where translated text is stored is called translation.txt
+            PrintWriter myPrintWriter = new PrintWriter(myFileOutputStream);                    //the printwriter for outputting the translation
 
             String nextLine = filebr.readLine();
 
-            String[] lineSplit = nextLine.split(" ");
-
             while (nextLine != null)
             {
-                if (nextLine.equals(""))
+                if (nextLine.equals(""))            //if the line is blank
                 {
-                    myPrintWriter.println("");
+                    myPrintWriter.println("");      //print a blank line
                 }
                 else
                 {
-                    lineSplit = nextLine.split(" ");
+                    String[] lineSplit = nextLine.split(" ");       //string array used to analyse every word
 
-                    for (int i=0; i<lineSplit.length; i++)
+                    for (int i=0; i<lineSplit.length; i++)          //for every word in the line
                     {   
-                        float originalFloat = stringToFloat(lineSplit[i] + " ");
-
-                        if (languageChoice == 1)
-                        {        
-                            myPrintWriter.print(engTree.findNode(originalFloat, 1) + " ");
-                        }
-                        else
+                        try
                         {
-                            myPrintWriter.print(gerTree.findNode(originalFloat, 2) + " ");
+                            myPrintWriter.print(Double.parseDouble(lineSplit[i]) + " ");        //print a number if a number is detected
                         }
+                        catch (Exception e)
+                        {   
+                            String punctuation = "";        //used if any periods or commas are detected in the string, then added to the end of every print statement
 
-                        myPrintWriter.flush();
+                            if (lineSplit[i].endsWith("."))
+                            {
+                                punctuation = ".";
+                                lineSplit[i] = lineSplit[i].replace(".", "");
+                            }
+                            else if (lineSplit[i].endsWith(","))
+                            {
+                                punctuation = ",";
+                                lineSplit[i] = lineSplit[i].replace(",", "");
+                            }
+
+                            float originalFloat = stringToFloat(lineSplit[i] + " ");        //calculate ID of word
+
+                            if (languageChoice == 1)
+                            {                     
+                                if (lineSplit[i].startsWith("\"") && lineSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                                {
+                                    myPrintWriter.print("\"" + engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                                }
+                                else if (lineSplit[i].startsWith("\""))     //if a word starts with quote marks
+                                {
+                                    myPrintWriter.print("\"" + engTree.findNode(originalFloat, 1) + " ");     //add quote marks to beginning of translation
+                                }     
+                                else if (lineSplit[i].endsWith("\""))       //if a word ends with quote marks
+                                {
+                                    myPrintWriter.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                                }
+                                else        //no quote marks
+                                {
+                                    myPrintWriter.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + " ");
+                                }
+                            }
+                            else
+                            {
+                                if (lineSplit[i].startsWith("\"") && lineSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                                {
+                                    myPrintWriter.print("\"" + gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                                }
+                                else if (lineSplit[i].startsWith("\""))     //if a word starts with quote marks
+                                {
+                                    myPrintWriter.print("\"" + gerTree.findNode(originalFloat, 2) + " ");       //add quote marks to beginning of translation
+                                }
+                                else if (lineSplit[i].endsWith("\""))       //if a word ends with quote marks
+                                {
+                                    myPrintWriter.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                                }
+                                else        //no quote marks
+                                {
+                                    myPrintWriter.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + " ");
+                                }
+                            }
+
+                            punctuation = "";
+
+                            myPrintWriter.flush();
+                        }
                     }
 
-                    myPrintWriter.print("\n");
+                    myPrintWriter.print("\n");      //new line once the end of the line is reached
                     myPrintWriter.flush();
                 }
 
-                nextLine = filebr.readLine();        
+                nextLine = filebr.readLine();       //read a new line
             }
 
             myPrintWriter.close();
@@ -409,15 +463,20 @@ public class Menu
             Date newCurrentDate = new Date();
 
             long currentLongTime = newCurrentDate.getTime();        
-            long timeToTranslate = currentLongTime - currentTime;
+            long timeToTranslate = currentLongTime - currentTime;       //timeToTranslate is the time elapsed since translation began
 
-            timeToTranslate = timeToTranslate / 1000;
-
-            System.out.println("The time taken to translate this file was " + timeToTranslate + " seconds.");
+            if (timeToTranslate < 1000)             //if the translation took less than 1 second
+            {
+                System.out.println("The time taken to translate this file was " + timeToTranslate + " milliseconds.");      //give time in milliseconds
+            }
+            else
+            {
+                System.out.println("The time taken to translate this file was " + ((double)timeToTranslate)/1000 + " seconds.");    //give time in seconds
+            }
         }
         catch (IOException e)
         {
-            System.out.println(nameOfTextFile + " does not exist.");
+            System.out.println(nameOfTextFile + " does not exist.");        //the user's file does not exist in the directory
         }
 
         try 
@@ -431,12 +490,12 @@ public class Menu
     }
 
     /**
-     * built by WL
+     * Built by WL
      * 
-     * allows the user to add new words to the dictionaries
+     * Allows the user to add new words to the dictionaries
      * 
-     * @param engWord The english word to be added to the dictionary
-     * @param gerWord The german word to be added to the dictionary
+     * @param engWord - The english word to be added to the dictionary
+     * @param gerWord - The german word to be added to the dictionary
      */
     public void addToDictionary(String engWord, String gerWord)
     {
@@ -466,7 +525,9 @@ public class Menu
     }
 
     /**
-     * Built by DA
+     * Built by DA, SG
+     * 
+     * Used when the user wants to enter a word or phrase to immediately translate.
      */
     public void textToTranslate()
     {
@@ -484,44 +545,107 @@ public class Menu
         }
 
         System.out.println("Enter text for translation.");
-        String originalText = Genio.getString();
+        String originalText = Genio.getString();       
 
-        boolean isStringValid = validateString(originalText);
-
-        while (isStringValid == false)
+        while (!validateString(originalText))   //checks for any invalid symbols in the text
         {
             System.out.println("Error. Ensure there are no symbols in your text.");
             originalText = Genio.getString();
-            isStringValid = validateString(originalText);
+            validateString(originalText);
         }
 
         System.out.println("");
         System.out.print("TRANSLATION: ");
 
-        String[] textSplit = originalText.split(" ");
+        String[] textSplit = originalText.split(" ");       //string array to store the user-entered phrase
 
         for (int i=0; i<textSplit.length; i++)
         {
-            float originalFloat = stringToFloat(textSplit[i] + " ");
-
-            if (languageChoice == 1)
-            {                         
-                System.out.print(engTree.findNode(originalFloat, 1) + " ");
-            }
-            else
+            try 
             {
-                System.out.print(gerTree.findNode(originalFloat, 2) + " ");
+                System.out.print(Double.parseDouble(textSplit[i]) + " ");       //prints a double value if a number value is found
+            }
+            catch (Exception e)
+            {   
+                String punctuation = "";        //used if any periods or commas are detected in the string, then added to the end of every print statement
+
+                if (textSplit[i].endsWith("."))
+                {
+                    punctuation = ".";
+                    textSplit[i] = textSplit[i].replace(".", "");
+                }
+                else if (textSplit[i].endsWith(","))
+                {
+                    punctuation = ",";
+                    textSplit[i] = textSplit[i].replace(",", "");
+                }
+
+                float originalFloat = stringToFloat(textSplit[i].replace("\"", "") + " ");        //calculates ID number of current word, minus any quote marks
+
+                if (languageChoice == 1)
+                {                   
+                    if (engTree.findNode(originalFloat, 1).equals("zymurgy"))
+                    {
+                        System.out.print("WORDNOTFOUND ");
+                    }
+                    else
+                    {
+                        if (textSplit[i].startsWith("\"") && textSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                        {
+                            System.out.print("\"" + engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                        }
+                        else if (textSplit[i].startsWith("\""))     //if a word starts with quote marks
+                        {
+                            System.out.print("\"" + engTree.findNode(originalFloat, 1) + " ");     //add quote marks to beginning of translation
+                        }     
+                        else if (textSplit[i].endsWith("\""))       //if a word ends with quote marks
+                        {
+                            System.out.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                        }
+                        else        //no quote marks
+                        {
+                            System.out.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + " ");
+                        }
+                    }
+                }
+                else
+                {
+                    if (gerTree.findNode(originalFloat, 2).equals("zymurgy"))
+                    {
+                        System.out.print("WORDNOTFOUND ");
+                    }
+                    else
+                    {
+                        if (textSplit[i].startsWith("\"") && textSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                        {
+                            System.out.print("\"" + gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                        }
+                        else if (textSplit[i].startsWith("\""))     //if a word starts with quote marks
+                        {
+                            System.out.print("\"" + gerTree.findNode(originalFloat, 2) + " ");       //add quote marks to beginning of translation
+                        }
+                        else if (textSplit[i].endsWith("\""))       //if a word ends with quote marks
+                        {
+                            System.out.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                        }
+                        else        //no quote marks
+                        {
+                            System.out.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + " ");
+                        }
+                    }
+                }
+
+                punctuation = "";
             }
         }
 
         System.out.println("");
-        System.out.println("");
-        System.out.println("Enter any key to return to the main menu.");
-        String anyKey = Genio.getString();
     }
 
     /**
      * Built by SG
+     * 
+     * Used to remove a word from the dictionary and the trees
      */
     public void removeWord()
     {
@@ -542,53 +666,64 @@ public class Menu
         System.out.println("Enter the word to remove in lowercase.");       //need to validate lowercase                     
         String wordToRemove = Genio.getString();
 
-        float idToRemove = stringToFloat(wordToRemove);
+        removeFromDictionary(wordToRemove, languageChoice);         //call the method to remove the word from the dictionary text files
+        
+        engTree.setRoot(null);
+        gerTree.setRoot(null);
+        
+        engTree.dictionariesDone = false;       
+        gerTree.dictionariesDone = false;
 
-        if (languageChoice == 1)
-        {
-            String tempGerWord = gerTree.findNode(idToRemove, 1);     //fetching the word to remove's translation
-            engTree.removeFromTree(engTree.getRoot(), idToRemove);      //removing the original word from the English tree
+        System.out.print('\f');
+        System.out.println("Removing word...");
 
-            idToRemove = stringToFloat(tempGerWord);                      //converting the translation of the removed word to a float
-            gerTree.removeFromTree(gerTree.getRoot(), idToRemove);      //passing this into the German tree so the word to remove and its translation are removed from both trees
-        }
-        else
-        {
-            String tempEngWord = engTree.findNode(idToRemove, 2);     //vice versa to above
-            gerTree.removeFromTree(gerTree.getRoot(), idToRemove);
+        readDictionaries();
 
-            idToRemove = stringToFloat(tempEngWord);
-            engTree.removeFromTree(engTree.getRoot(), idToRemove);
-        }
-
-        removeFromDictionary(wordToRemove, languageChoice);
+        engTree.dictionariesDone = true;
+        gerTree.dictionariesDone = true;
     }
 
     /**
      * Built by WL
+     * 
+     * Used to add a word to the trees and the dictionaries
      */
     public void addWord()
     {
         System.out.print('\f');
         System.out.println("Enter the English word to add.");
-        String engWord = Genio.getString();
+        String engWord = Genio.getString();     //the English translation of the word
+
+        while (!validateString(engWord))   //checks for any invalid symbols in the text
+        {
+            System.out.println("Error. Ensure there are no symbols in your text.");
+            engWord = Genio.getString();
+            validateString(engWord);
+        }
 
         System.out.println("Enter the German word to add.");
-        String gerWord = Genio.getString();
+        String gerWord = Genio.getString();     //the German translation of the word
 
-        float engID = stringToFloat(engWord);
-        float gerID = stringToFloat(gerWord);
+        while (!validateString(gerWord))   //checks for any invalid symbols in the text
+        {
+            System.out.println("Error. Ensure there are no symbols in your text.");
+            gerWord = Genio.getString();
+            validateString(gerWord);
+        }
 
-        if (engTree.findNode(engID, 2).equals(engWord) || gerTree.findNode(gerID, 1).equals(gerWord))
+        float engID = stringToFloat(engWord);       //calulates the ID number of the English word
+        float gerID = stringToFloat(gerWord);       //calulates the ID number of the German word
+
+        if (engTree.findNode(engID, 2).equals(engWord) || gerTree.findNode(gerID, 1).equals(gerWord))       //if either of the words are present in either of the trees
         {
             System.out.println("Those words are already present in the tree.");
         }
         else
         {
-            engTree.addToTree(engID, engWord, gerWord);
-            gerTree.addToTree(gerID, engWord, gerWord);
+            engTree.addToTree(engID, engWord, gerWord);     //add English word to English tree
+            gerTree.addToTree(gerID, engWord, gerWord);     //add German word to German tree
 
-            addToDictionary(engWord, gerWord);
+            addToDictionary(engWord, gerWord);          //add the two words to the dictionary files themselves
 
             System.out.println("The word in English and German has been added to the dictionaries.");
         }
@@ -603,9 +738,17 @@ public class Menu
         }
     }
 
+    /**
+     * Built by SG
+     * 
+     * Used to validate whether a String has any invalid symbols in it, otherwise it can't be added to the dictionaries and trees.
+     * 
+     * @param originalText - the string passed in to be validated
+     * @return true/false - depends on string validity
+     */
     public boolean validateString(String originalText)
     {
-        if (originalText.contains("\"") || originalText.contains("Â£") || originalText.contains("$") || originalText.contains("%") || originalText.contains("^") || originalText.contains("&") || originalText.contains("*") || originalText.contains("(") || originalText.contains(")") || originalText.contains("-") || originalText.contains("+") || originalText.contains("=") || originalText.contains("_") || originalText.contains("[") || originalText.contains("]") || originalText.contains("{") || originalText.contains("}") || originalText.contains(":") || originalText.contains(";") || originalText.contains("@") || originalText.contains("#") || originalText.contains("~") || originalText.contains("/") || originalText.contains(">") || originalText.contains("<") || originalText.contains("|") || originalText.contains("\\") || originalText.contains("Â¬"))
+        if (originalText.contains("£") || originalText.contains("$") || originalText.contains("%") || originalText.contains("^") || originalText.contains("&") || originalText.contains("*") || originalText.contains("(") || originalText.contains(")") || originalText.contains("-") || originalText.contains("+") || originalText.contains("=") || originalText.contains("_") || originalText.contains("[") || originalText.contains("]") || originalText.contains("{") || originalText.contains("}") || originalText.contains(":") || originalText.contains(";") || originalText.contains("@") || originalText.contains("#") || originalText.contains("~") || originalText.contains("/") || originalText.contains(">") || originalText.contains("<") || originalText.contains("|") || originalText.contains("\\") || originalText.contains("¬"))
         {
             return false;
         }   
@@ -618,7 +761,7 @@ public class Menu
     /**
      * Built by WL
      * 
-     * deletes a user selected entry and it equivalent from both dictionaries
+     * Deletes a user selected entry and it equivalent from both dictionaries
      * 
      * @param wordToDelete The word the user wants to delete from the dictionary
      */
@@ -653,8 +796,8 @@ public class Menu
                         continue;
                     }
 
-                    enWriter.write(enCurrentLine + System.getProperty("line.seperator"));
-                    deWriter.write(deCurrentLine + System.getProperty("line.seperator"));
+                    enWriter.write(enCurrentLine + "\n");
+                    deWriter.write(deCurrentLine + "\n");
                 }
                 else
                 {
@@ -666,8 +809,8 @@ public class Menu
                         continue;
                     }
 
-                    enWriter.write(enCurrentLine + System.getProperty("line.seperator"));
-                    deWriter.write(deCurrentLine + System.getProperty("line.seperator"));
+                    enWriter.write(enCurrentLine + "\n");
+                    deWriter.write(deCurrentLine + "\n");
                 }
 
                 enCurrentLine = enReader.readLine();
@@ -678,6 +821,9 @@ public class Menu
             deReader.close();
             enWriter.close();
             deWriter.close();
+            
+            enDict.delete();
+            deDict.delete();
 
             enTemp.renameTo(enDict);
             deTemp.renameTo(deDict);
@@ -688,4 +834,23 @@ public class Menu
         }
     }
 
+    /**
+     * Used to automatically end the program.
+     */
+    private static void menuExit()
+    {
+        System.out.print('\f');
+        System.out.println("Thank you for using the translator!");
+
+        try 
+        {
+            Thread.sleep(2000);
+        } 
+        catch(InterruptedException ex)
+        {
+            Thread.currentThread().interrupt();
+        }
+
+        System.exit(0);
+    }  
 }
