@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TreeNode\ getRoot()
+comment0.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ return\ the\ root\ of\ the\ tree\r\n\ \r\n\ @return\ root\ -\ the\ root\ of\ the\ current\ tree\r\n
+comment1.params=newRoot
+comment1.target=void\ setRoot(TreeNode)
+comment1.text=\r\n\ Built\ by\ SG\r\n\ \r\n\ Used\ to\ set\ the\ root\ of\ the\ tree\ to\ a\ new\ node.\ \r\n\ \r\n\ @param\ newRoot\ -\ the\ TreeNode\ object\ to\ become\ the\ new\ root\r\n
+comment2.params=id\ engWord\ gerWord
+comment2.target=void\ addToTree(float,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Built\ by\ WL\r\n\ \r\n\ Adds\ a\ new\ node\ to\ the\ tree\r\n\ \r\n\ @param\ id\ The\ unique\ id\ of\ the\ english\ word\r\n\ @param\ engWord\ The\ english\ word\ \r\n\ @param\ gerWord\ The\ germal\ translation\ of\ the\ english\ word\r\n
+comment3.params=find\ language
+comment3.target=java.lang.String\ findNode(float,\ int)
+comment3.text=\r\n\ Built\ by\ DA\r\n\ \r\n\ Method\ for\ finding\ the\ translation\ of\ the\ word\ we\ already\ have.\ Contains\ a\ while\ loop\ that\ runs\ until\ the\ word\ is\ found\ or\ we\ reach\ the\ place\ where\ the\ word\r\n\ should\ be\ and\ it\ is\ not\ there.\r\n\r\n\ @param\ find\ -\ the\ ID\ number\ of\ the\ word\ being\ searched\ for\r\n\ @param\ language\ -\ an\ integer\ value\ of\ 1\ or\ 2,\ used\ to\ determine\ which\ language\ of\ the\ word\ we\ wish\ to\ extract\r\n\ @return\ the\ translation\ of\ the\ word\ we\ already\ have\r\n
+numComments=4
