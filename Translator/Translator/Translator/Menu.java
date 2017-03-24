@@ -146,28 +146,28 @@ public class Menu
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
                 case 5: try
-                        {
-                            File engFile = new File("en.txt");
-                            Desktop.getDesktop().open(engFile);     //opens the English dictionary file
-                        }
-                        catch(IOException e)
-                        {
-                            System.out.println("The English dictionary text file is missing...");
-                        }
+                {
+                    File engFile = new File("en.txt");
+                    Desktop.getDesktop().open(engFile);     //opens the English dictionary file
+                }
+                catch(IOException e)
+                {
+                    System.out.println("The English dictionary text file is missing...");
+                }
 
                 break;
 
                 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
                 case 6: try
-                        {
-                            File gerFile = new File("de.txt");
-                            Desktop.getDesktop().open(gerFile);     //opens the German dictionary file
-                        }
-                        catch(IOException e)
-                        {
-                            System.out.println("The German dictionary text file is missing...");
-                        }
+                {
+                    File gerFile = new File("de.txt");
+                    Desktop.getDesktop().open(gerFile);     //opens the German dictionary file
+                }
+                catch(IOException e)
+                {
+                    System.out.println("The German dictionary text file is missing...");
+                }
 
                 break;
 
@@ -387,18 +387,63 @@ public class Menu
                             myPrintWriter.print(Double.parseDouble(lineSplit[i]) + " ");        //print a number if a number is detected
                         }
                         catch (Exception e)
-                        {
+                        {   
+                            String punctuation = "";        //used if any periods or commas are detected in the string, then added to the end of every print statement
+
+                            if (lineSplit[i].endsWith("."))
+                            {
+                                punctuation = ".";
+                                lineSplit[i] = lineSplit[i].replace(".", "");
+                            }
+                            else if (lineSplit[i].endsWith(","))
+                            {
+                                punctuation = ",";
+                                lineSplit[i] = lineSplit[i].replace(",", "");
+                            }
+
                             float originalFloat = stringToFloat(lineSplit[i] + " ");        //calculate ID of word
-    
+
                             if (languageChoice == 1)
-                            {        
-                                myPrintWriter.print(engTree.findNode(originalFloat, 1) + " ");      //print that word's translation to the text file
+                            {                     
+                                if (lineSplit[i].startsWith("\"") && lineSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                                {
+                                    myPrintWriter.print("\"" + engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                                }
+                                else if (lineSplit[i].startsWith("\""))     //if a word starts with quote marks
+                                {
+                                    myPrintWriter.print("\"" + engTree.findNode(originalFloat, 1) + " ");     //add quote marks to beginning of translation
+                                }     
+                                else if (lineSplit[i].endsWith("\""))       //if a word ends with quote marks
+                                {
+                                    myPrintWriter.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                                }
+                                else        //no quote marks
+                                {
+                                    myPrintWriter.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + " ");
+                                }
                             }
                             else
                             {
-                                myPrintWriter.print(gerTree.findNode(originalFloat, 2) + " ");
+                                if (lineSplit[i].startsWith("\"") && lineSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                                {
+                                    myPrintWriter.print("\"" + gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                                }
+                                else if (lineSplit[i].startsWith("\""))     //if a word starts with quote marks
+                                {
+                                    myPrintWriter.print("\"" + gerTree.findNode(originalFloat, 2) + " ");       //add quote marks to beginning of translation
+                                }
+                                else if (lineSplit[i].endsWith("\""))       //if a word ends with quote marks
+                                {
+                                    myPrintWriter.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                                }
+                                else        //no quote marks
+                                {
+                                    myPrintWriter.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + " ");
+                                }
                             }
-    
+
+                            punctuation = "";
+
                             myPrintWriter.flush();
                         }
                     }
@@ -419,7 +464,7 @@ public class Menu
 
             long currentLongTime = newCurrentDate.getTime();        
             long timeToTranslate = currentLongTime - currentTime;       //timeToTranslate is the time elapsed since translation began
-            
+
             if (timeToTranslate < 1000)             //if the translation took less than 1 second
             {
                 System.out.println("The time taken to translate this file was " + timeToTranslate + " milliseconds.");      //give time in milliseconds
@@ -521,17 +566,62 @@ public class Menu
                 System.out.print(Double.parseDouble(textSplit[i]) + " ");       //prints a double value if a number value is found
             }
             catch (Exception e)
-            {           
-                float originalFloat = stringToFloat(textSplit[i] + " ");        //calculates ID number of current word
+            {   
+                String punctuation = "";        //used if any periods or commas are detected in the string, then added to the end of every print statement
+
+                if (textSplit[i].endsWith("."))
+                {
+                    punctuation = ".";
+                    textSplit[i] = textSplit[i].replace(".", "");
+                }
+                else if (textSplit[i].endsWith(","))
+                {
+                    punctuation = ",";
+                    textSplit[i] = textSplit[i].replace(",", "");
+                }
+
+                float originalFloat = stringToFloat(textSplit[i].replace("\"", "") + " ");        //calculates ID number of current word, minus any quote marks
 
                 if (languageChoice == 1)
-                {                         
-                    System.out.print(engTree.findNode(originalFloat, 1) + " ");     //prints German translation if English word
+                {                     
+                    if (textSplit[i].startsWith("\"") && textSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                    {
+                        System.out.print("\"" + engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                    }
+                    else if (textSplit[i].startsWith("\""))     //if a word starts with quote marks
+                    {
+                        System.out.print("\"" + engTree.findNode(originalFloat, 1) + " ");     //add quote marks to beginning of translation
+                    }     
+                    else if (textSplit[i].endsWith("\""))       //if a word ends with quote marks
+                    {
+                        System.out.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                    }
+                    else        //no quote marks
+                    {
+                        System.out.print(engTree.findNode(originalFloat, 1).replace(" ", "") + punctuation + " ");
+                    }
                 }
                 else
                 {
-                    System.out.print(gerTree.findNode(originalFloat, 2) + " ");     //prints English translation if German word
+                    if (textSplit[i].startsWith("\"") && textSplit[i].endsWith("\""))       //if a word begins and ends with quote marks
+                    {
+                        System.out.print("\"" + gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");        //add quote marks to the beginning and end of translation
+                    }
+                    else if (textSplit[i].startsWith("\""))     //if a word starts with quote marks
+                    {
+                        System.out.print("\"" + gerTree.findNode(originalFloat, 2) + " ");       //add quote marks to beginning of translation
+                    }
+                    else if (textSplit[i].endsWith("\""))       //if a word ends with quote marks
+                    {
+                        System.out.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + "\"" + " ");       //add quote marks to the end of translation
+                    }
+                    else        //no quote marks
+                    {
+                        System.out.print(gerTree.findNode(originalFloat, 2).replace(" ", "") + punctuation + " ");
+                    }
                 }
+
+                punctuation = "";
             }
         }
 
@@ -594,7 +684,7 @@ public class Menu
         System.out.print('\f');
         System.out.println("Enter the English word to add.");
         String engWord = Genio.getString();     //the English translation of the word
-        
+
         while (!validateString(engWord))   //checks for any invalid symbols in the text
         {
             System.out.println("Error. Ensure there are no symbols in your text.");
@@ -604,7 +694,7 @@ public class Menu
 
         System.out.println("Enter the German word to add.");
         String gerWord = Genio.getString();     //the German translation of the word
-        
+
         while (!validateString(gerWord))   //checks for any invalid symbols in the text
         {
             System.out.println("Error. Ensure there are no symbols in your text.");
@@ -649,7 +739,7 @@ public class Menu
      */
     public boolean validateString(String originalText)
     {
-        if (originalText.contains("\"") || originalText.contains("£") || originalText.contains("$") || originalText.contains("%") || originalText.contains("^") || originalText.contains("&") || originalText.contains("*") || originalText.contains("(") || originalText.contains(")") || originalText.contains("-") || originalText.contains("+") || originalText.contains("=") || originalText.contains("_") || originalText.contains("[") || originalText.contains("]") || originalText.contains("{") || originalText.contains("}") || originalText.contains(":") || originalText.contains(";") || originalText.contains("@") || originalText.contains("#") || originalText.contains("~") || originalText.contains("/") || originalText.contains(">") || originalText.contains("<") || originalText.contains("|") || originalText.contains("\\") || originalText.contains("¬"))
+        if (originalText.contains("£") || originalText.contains("$") || originalText.contains("%") || originalText.contains("^") || originalText.contains("&") || originalText.contains("*") || originalText.contains("(") || originalText.contains(")") || originalText.contains("-") || originalText.contains("+") || originalText.contains("=") || originalText.contains("_") || originalText.contains("[") || originalText.contains("]") || originalText.contains("{") || originalText.contains("}") || originalText.contains(":") || originalText.contains(";") || originalText.contains("@") || originalText.contains("#") || originalText.contains("~") || originalText.contains("/") || originalText.contains(">") || originalText.contains("<") || originalText.contains("|") || originalText.contains("\\") || originalText.contains("¬"))
         {
             return false;
         }   
@@ -731,7 +821,7 @@ public class Menu
             System.out.println("Sorry, an error has occured");
         }
     }
-        
+
     /**
      * Used to automatically end the program.
      */
