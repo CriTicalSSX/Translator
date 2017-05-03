@@ -3,7 +3,7 @@ aa
 aaa
 aachen
 erdferkel
-aardvarks
+erdferkels
 aaron
 ab
 tab
@@ -34632,7 +34632,7 @@ hellion
 höllionen
 höllisch
 höllisch
-hallo
+hello
 helloed
 helloing
 hellos
@@ -84093,6 +84093,3 @@ zygoten
 zygotisch
 zymology
 zymurgy
-clat
-blau
-migrs

@@ -17133,8 +17133,8 @@ crewing
 crewman
 crewmen
 crews
-crche
-crches
+crï¿½che
+crï¿½ches
 cri
 crianlarich
 crib
@@ -27331,7 +27331,7 @@ factum
 facultative
 faculties
 faculty
-faˆadism
+faï¿½adism
 fad
 faddish
 faddy
@@ -48727,8 +48727,8 @@ naively
 naives
 naivetf
 naivety
-na’f
-na’fs
+naï¿½f
+naï¿½fs
 naked
 nakedly
 nakedness
@@ -58246,7 +58246,7 @@ proved
 proven
 provenance
 provence
-provenˆal
+provenï¿½al
 provender
 provenience
 proverb
@@ -84093,6 +84093,3 @@ zygotes
 zygotic
 zymology
 zymurgy
-fclat
-flan
-fmigrfs
